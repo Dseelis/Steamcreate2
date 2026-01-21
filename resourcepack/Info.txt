@@ -1,0 +1,9 @@
+
+Version: 1.21.1
+
+Packs:
+Vanilla Tweaks and Own Tweaks
+Integrated:
+createful_plaques-2.0
+
+Created for Project Elexir & Steamcreate2 modpack
