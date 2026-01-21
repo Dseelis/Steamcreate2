@@ -1,2 +1,22 @@
+# Configs
+# config/xaerominimap.txt
+# config/xaeroworldmap.txt
+
 .mixin.out
+# Dev
 .vscode
+.vs
+# Client data
+.png
+icon.png
+options.txt
+patchouli_data.json
+usernamecache.json
+usercache.json
+rhino.local.properties
+profile.json
+emi.json
+sl_password.txt
+servers.dat
+servers.dat_old
+cherishedworlds-favorites.dat
