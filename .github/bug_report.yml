@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before reporting an issue, [please search](https://github.com/Dseelis/Project-Elexir/issues) to ensure it has not already been reported.
+      Before reporting an issue, [please search](https://github.com/Dseelis/Steamcreate2/issues) to ensure it has not already been reported.
 
 - type: input
   attributes:
@@ -29,12 +29,7 @@ body:
 
 - type: textarea
   attributes:
-    label: Steps to reproduce
+    label: Steps to reproduce and Additional context
     description: Provide a step-by-step guide on how to reproduce the issue.
   validations:
     required: true
-    
-- type: textarea
-  attributes:
-    label: Additional context
-    description: Add any other context about the problem here.
