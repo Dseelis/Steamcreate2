@@ -1,0 +1,12 @@
+{
+	id: "00B87BF77BEE5A5B"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "56AAECF2296640F4", item: { count: 1, id: "minecraft:stone_shovel" } }
+		{ id: "40947664C35C7E84", item: { count: 1, id: "minecraft:stone_pickaxe" } }
+		{ id: "25092645BEAB6339", item: { count: 1, id: "minecraft:stone_axe" } }
+		{ id: "0C3A49006BDF204C", item: { count: 1, id: "minecraft:stone_hoe" } }
+		{ id: "2E82831FBF527C0A", item: { count: 1, id: "minecraft:stone_sword" } }
+	]
+}

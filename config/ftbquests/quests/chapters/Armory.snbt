@@ -1,0 +1,1189 @@
+{
+	autofocus_id: "0D8F00A83FE746FF"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "Armory"
+	group: "7319C72952402764"
+	icon: {
+		id: "minecraft:smithing_table"
+	}
+	id: "42032FCAB6197EE7"
+	images: [{
+		height: 3.0d
+		image: "minecraft:item/netherite_helmet"
+		rotation: 0.0d
+		width: 3.0d
+		x: 23.5d
+		y: -2.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				id: "advancednetherite:netherite_iron_sword"
+			}
+			id: "468E6FCD361B1404"
+			rewards: [{
+				count: 3
+				id: "7A4FF514DDE5F4C2"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4350B1544F810564"
+					item: { count: 1, id: "advancednetherite:netherite_iron_sword" }
+					type: "item"
+				}
+				{
+					id: "2EE84E3B49E553EE"
+					item: { count: 1, id: "advancednetherite:netherite_iron_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "326A8EC5F96AA1B2"
+					item: { count: 1, id: "advancednetherite:netherite_iron_shovel" }
+					type: "item"
+				}
+				{
+					id: "41426F48E55770BE"
+					item: { count: 1, id: "advancednetherite:netherite_iron_axe" }
+					type: "item"
+				}
+				{
+					id: "1E8FC7F3A48815B3"
+					item: { count: 1, id: "advancednetherite:netherite_iron_hoe" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				id: "advancednetherite:netherite_gold_sword"
+			}
+			id: "1D1F4BD3405603B0"
+			rewards: [{
+				count: 3
+				id: "6F0DD4DAA80066D5"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6D5997EB069678E3"
+					item: { count: 1, id: "advancednetherite:netherite_gold_axe" }
+					type: "item"
+				}
+				{
+					id: "17B96524D82E5A77"
+					item: { count: 1, id: "advancednetherite:netherite_gold_hoe" }
+					type: "item"
+				}
+				{
+					id: "47D72C3344104639"
+					item: { count: 1, id: "advancednetherite:netherite_gold_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "16D3ADA4F24AF940"
+					item: { count: 1, id: "advancednetherite:netherite_gold_shovel" }
+					type: "item"
+				}
+				{
+					id: "12D210CA039AD97E"
+					item: { count: 1, id: "advancednetherite:netherite_gold_sword" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				id: "advancednetherite:netherite_emerald_sword"
+			}
+			id: "4B486C7CC66F1745"
+			rewards: [{
+				count: 3
+				id: "403E954868064171"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "74D4524E3B2E651B"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_axe" }
+					type: "item"
+				}
+				{
+					id: "34F7B09FBBC45AE8"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_hoe" }
+					type: "item"
+				}
+				{
+					id: "02F70E0760D2E2EE"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "5CBC321E3EA4F128"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_shovel" }
+					type: "item"
+				}
+				{
+					id: "4D3DD2176DA8EDE9"
+					item: { count: 1, id: "advancednetherite:netherite_emerald_sword" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				id: "advancednetherite:netherite_diamond_sword"
+			}
+			id: "6656A5E5D8FDABE9"
+			rewards: [{
+				count: 3
+				id: "077C9D8954125887"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "68455CE4921311F5"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_axe" }
+					type: "item"
+				}
+				{
+					id: "772ED274CC823802"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_hoe" }
+					type: "item"
+				}
+				{
+					id: "44DE66AC4ECF5F59"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "59B2E542FDE85120"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_shovel" }
+					type: "item"
+				}
+				{
+					id: "46E0C1E574ED812A"
+					item: { count: 1, id: "advancednetherite:netherite_diamond_sword" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				components: {
+					"cold_sweat:armor_insulation": {
+						insulation: [ ]
+					}
+				}
+				id: "advancednetherite:netherite_iron_helmet"
+			}
+			id: "2230589E0FCA8FDD"
+			rewards: [{
+				count: 5
+				id: "371A484C1F2E151D"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "588D7B847C13478C"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_helmet" }
+					type: "item"
+				}
+				{
+					id: "1D010C11F3CDCDBE"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_chestplate" }
+					type: "item"
+				}
+				{
+					id: "0BE424ECE95F6693"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_leggings" }
+					type: "item"
+				}
+				{
+					id: "1728B7394742A1ED"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_boots" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				components: {
+					"cold_sweat:armor_insulation": {
+						insulation: [ ]
+					}
+				}
+				id: "advancednetherite:netherite_gold_helmet"
+			}
+			id: "61D2494A05ED6BFE"
+			rewards: [{
+				count: 15
+				id: "23DDC67888D8FAC4"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "01733E64C2608118"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_helmet" }
+					type: "item"
+				}
+				{
+					id: "5883C28DF6B9939D"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2980DFDDF9FC4084"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_leggings" }
+					type: "item"
+				}
+				{
+					id: "15945314CC1768F5"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_boots" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				components: {
+					"cold_sweat:armor_insulation": {
+						insulation: [ ]
+					}
+				}
+				id: "advancednetherite:netherite_emerald_helmet"
+			}
+			id: "6863855483D18530"
+			rewards: [{
+				count: 15
+				id: "3159B3BBFAD774C0"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5413CD3141604F0C"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_helmet" }
+					type: "item"
+				}
+				{
+					id: "5E1A84E378469E93"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6DE4CB12145A8FDD"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_leggings" }
+					type: "item"
+				}
+				{
+					id: "7F5C46FE62609C6D"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_boots" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3CEBC51DB3555C3E"]
+			icon: {
+				components: {
+					"cold_sweat:armor_insulation": {
+						insulation: [ ]
+					}
+				}
+				id: "advancednetherite:netherite_diamond_helmet"
+			}
+			id: "65333CAC62E70C32"
+			rewards: [{
+				count: 20
+				id: "004C540B89DD73CE"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "783652DB7CF1492B"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_helmet" }
+					type: "item"
+				}
+				{
+					id: "3D89998C43056FCA"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5D3A993FA4912BFA"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_leggings" }
+					type: "item"
+				}
+				{
+					id: "538DC997AAF986A4"
+					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_boots" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			hide_dependent_lines: true
+			icon: {
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			id: "3CEBC51DB3555C3E"
+			size: 1.5d
+			tasks: [{
+				id: "1C952DE16C86532E"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["737CFB455ADB0F15"]
+			id: "05F25E32B9666484"
+			tasks: [{
+				id: "004DF3DF87776B72"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5E32E8B30771A450"]
+			id: "60C9105C15F7CADE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "435077A716D96FE4"
+				table_id: 51927698581117531L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E70C15D7D141473"
+				item: { count: 1, id: "minecraft:stone_hoe" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["05F25E32B9666484"]
+			id: "3ADD4A6B7D25D8A6"
+			tasks: [{
+				id: "0F1F4E8554087E4F"
+				item: { count: 1, id: "minecraft:stone_axe" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["514E13E25FDC1D13"]
+			id: "5E32E8B30771A450"
+			tasks: [{
+				id: "6299D6AB982C66DD"
+				item: { count: 1, id: "minecraft:stone_shovel" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["05F25E32B9666484"]
+			id: "514E13E25FDC1D13"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FBBDC699B644490"
+				table_id: 51927698581117531L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6BC109A721F1296E"
+				item: { count: 1, id: "minecraft:stone_sword" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D8F00A83FE746FF"]
+			id: "61F0B7219E261AE1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F8F45298C20E1A9"
+				table_id: 8720561883159671526L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7366A76C8CB91337"
+				item: { count: 1, id: "minecraft:iron_sword" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D8F00A83FE746FF"]
+			id: "2B205C50712260F4"
+			tasks: [{
+				id: "2FE363C64B81F929"
+				item: { count: 1, id: "minecraft:iron_axe" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["66B4A0D997108C55"]
+			id: "68FE7DDBE3E315AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15998AC6382FD9D6"
+				table_id: 8720561883159671526L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7E6B3903A8F7FC2B"
+				item: { count: 1, id: "minecraft:iron_hoe" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["05F25E32B9666484"]
+			id: "0D8F00A83FE746FF"
+			tasks: [{
+				id: "5DE0D98B1C69B9EA"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["61F0B7219E261AE1"]
+			id: "66B4A0D997108C55"
+			tasks: [{
+				id: "1A2F41680EAB0FEC"
+				item: { count: 1, id: "minecraft:iron_shovel" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4A4010BE8BA9B2D4"]
+			id: "3D17DF8EF51F8793"
+			tasks: [{
+				id: "6F8AE33639AE69CF"
+				item: { count: 1, id: "minecraft:diamond_shovel" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0D8F00A83FE746FF"]
+			id: "48D273DDBE62F06F"
+			tasks: [{
+				id: "7CA1149B9F5E6B82"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["48D273DDBE62F06F"]
+			id: "3A6195C23E5C5DDB"
+			tasks: [{
+				id: "696EF628DF40923C"
+				item: { count: 1, id: "minecraft:diamond_axe" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D17DF8EF51F8793"]
+			id: "41B53BB2722BF6CC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F135693E4C6DE25"
+				table_id: 7926811618365534923L
+				type: "random"
+			}]
+			tasks: [{
+				id: "44DB53A7250CF29F"
+				item: { count: 1, id: "minecraft:diamond_hoe" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["48D273DDBE62F06F"]
+			id: "4A4010BE8BA9B2D4"
+			tasks: [{
+				id: "5E9A2C2C99C04CE4"
+				item: { count: 1, id: "minecraft:diamond_sword" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["626F2396678A29D3"]
+			id: "13BEBAFC6BD240E8"
+			tasks: [{
+				id: "690130E2F55C6AA0"
+				item: { count: 1, id: "minecraft:netherite_shovel" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["48D273DDBE62F06F"]
+			id: "2F8C3D9E5EAA6CE9"
+			tasks: [{
+				id: "00BF4EAB1277230D"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F8C3D9E5EAA6CE9"]
+			id: "2AAF28F990E577EE"
+			tasks: [{
+				id: "718C885D3A948E53"
+				item: { count: 1, id: "minecraft:netherite_axe" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["13BEBAFC6BD240E8"]
+			id: "6409C83E245B43EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "472241119AA0D141"
+				table_id: 8828956159111215835L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "28E1405A549C021E"
+				item: { count: 1, id: "minecraft:netherite_hoe" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2F8C3D9E5EAA6CE9"]
+			id: "626F2396678A29D3"
+			tasks: [{
+				id: "0E0175CADAAD1B23"
+				item: { count: 1, id: "minecraft:netherite_sword" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -0.5d
+		}
+		{
+			id: "737CFB455ADB0F15"
+			tasks: [{
+				id: "20DF6FADD29FEEDD"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0D8F00A83FE746FF"]
+			id: "575D48E7FA114E33"
+			tasks: [{
+				count: 3L
+				id: "6A7E9C9FC0664A57"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["48D273DDBE62F06F"]
+			id: "56EBC978253A3A06"
+			tasks: [{
+				count: 4L
+				id: "5A36C029F9CB69BE"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["56EBC978253A3A06"]
+			id: "408452EB7C4541C0"
+			tasks: [{
+				count: 4L
+				id: "6803DC3F16AA55F8"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["737CFB455ADB0F15"]
+			id: "6CBC1EDBAECE3851"
+			tasks: [{
+				count: 3L
+				id: "066AE7CEC1B1E23A"
+				item: { count: 1, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0D8F00A83FE746FF"]
+			id: "311E520201408DB9"
+			tasks: [{
+				count: 3L
+				id: "7EBD90BDB65CC43A"
+				item: { count: 1, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["737CFB455ADB0F15"]
+			id: "17A9AB06CBA7AD85"
+			tasks: [{
+				id: "73BCAF45400B6B9A"
+				item: { count: 1, id: "minecraft:leather" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6CBC1EDBAECE3851"]
+			id: "436A76A36A764C00"
+			tasks: [{
+				id: "254CA67B68D899E3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:anvil)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["17A9AB06CBA7AD85"]
+			hide_dependency_lines: true
+			id: "4F147D18A670528E"
+			tasks: [{
+				id: "6B602E57937EF54D"
+				item: { count: 1, id: "minecraft:leather_helmet" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["17A9AB06CBA7AD85"]
+			hide_dependency_lines: true
+			id: "41827438E4D33BFC"
+			tasks: [{
+				id: "722BF8AA2B9CBF40"
+				item: { count: 1, id: "minecraft:leather_chestplate" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["17A9AB06CBA7AD85"]
+			hide_dependency_lines: true
+			id: "2A96E5D78D8A5E22"
+			tasks: [{
+				id: "43E5682F47EBFD8C"
+				item: { count: 1, id: "minecraft:leather_leggings" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["17A9AB06CBA7AD85"]
+			id: "2FC9670BCFBF1D4F"
+			tasks: [{
+				id: "2766E7CAC644EC6F"
+				item: { count: 1, id: "minecraft:leather_boots" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3D5355746750DF04"]
+			hide_dependency_lines: true
+			id: "1DDA57694952662E"
+			tasks: [{
+				id: "4CF72C6899C831F7"
+				item: { count: 1, id: "minecraft:iron_helmet" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3D5355746750DF04"]
+			hide_dependency_lines: true
+			id: "72F4DF34D386C08D"
+			tasks: [{
+				id: "3FE5BD709BE85EBF"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3D5355746750DF04"]
+			id: "6F0AF5E8C6CC249E"
+			tasks: [{
+				id: "4CEEB74DC8241014"
+				item: { count: 1, id: "minecraft:iron_boots" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3D5355746750DF04"]
+			hide_dependency_lines: true
+			id: "45BA452F5D3BA458"
+			tasks: [{
+				id: "58595EA90AD7ED2C"
+				item: { count: 1, id: "minecraft:iron_leggings" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6CBC1EDBAECE3851"]
+			id: "3D5355746750DF04"
+			tasks: [{
+				id: "29584F803D55F3F8"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["408452EB7C4541C0"]
+			hide_dependent_lines: true
+			id: "4C2880E8FE316F79"
+			tasks: [{
+				id: "1467A4F1FFDE756C"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			hide_dependency_lines: true
+			id: "5B156009DA7597E9"
+			tasks: [{
+				id: "5B29429295B61017"
+				item: { count: 1, id: "minecraft:netherite_helmet" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			hide_dependency_lines: true
+			id: "259BD45EBE6407AE"
+			tasks: [{
+				id: "195873646D2A67A5"
+				item: { count: 1, id: "minecraft:netherite_chestplate" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			hide_dependency_lines: true
+			id: "1FB2CD0C57BBA37A"
+			tasks: [{
+				id: "67B86DE0817EEBB4"
+				item: { count: 1, id: "minecraft:netherite_leggings" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			id: "6C4415D82583F560"
+			tasks: [{
+				id: "72FA393FEEF928A0"
+				item: { count: 1, id: "minecraft:netherite_boots" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4C2880E8FE316F79"]
+			id: "7A54F12829E0B351"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15E982DD0F952663"
+				table_id: 8828956159111215835L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "2830D20DFC9DE0BE"
+				type: "advancement"
+			}]
+			x: 23.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["575D48E7FA114E33"]
+			id: "00EF20068CF6FE7A"
+			tasks: [{
+				id: "392D4D91FEFBBD70"
+				item: { count: 1, id: "minecraft:diamond_boots" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["575D48E7FA114E33"]
+			hide_dependency_lines: true
+			id: "38DB23EFB05670B7"
+			tasks: [{
+				id: "032F82E58A0E9B81"
+				item: { count: 1, id: "minecraft:diamond_leggings" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["575D48E7FA114E33"]
+			hide_dependency_lines: true
+			id: "32664E687074345A"
+			tasks: [{
+				id: "264FE8D1484089D6"
+				item: { count: 1, id: "minecraft:diamond_helmet" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["575D48E7FA114E33"]
+			hide_dependency_lines: true
+			id: "4072FA0F41ADF752"
+			tasks: [{
+				id: "5558E44B2A4BD8D0"
+				item: { count: 1, id: "minecraft:diamond_chestplate" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5688FEA063764624"]
+			id: "5C4E528151AFF0C8"
+			tasks: [{
+				id: "404ABC234ECB97CF"
+				item: { count: 1, id: "minecraft:golden_boots" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5688FEA063764624"]
+			hide_dependency_lines: true
+			id: "6BFCBF06D201E14B"
+			tasks: [{
+				id: "441CE74BAA788D80"
+				item: { count: 1, id: "minecraft:golden_leggings" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5688FEA063764624"]
+			hide_dependency_lines: true
+			id: "1BA882CD7D29E36A"
+			tasks: [{
+				id: "79DBA8A84B0A26AC"
+				item: { count: 1, id: "minecraft:golden_chestplate" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5688FEA063764624"]
+			hide_dependency_lines: true
+			id: "74E2909649D70D9E"
+			tasks: [{
+				id: "238FBFA95B277BE8"
+				item: { count: 1, id: "minecraft:golden_helmet" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["311E520201408DB9"]
+			id: "5688FEA063764624"
+			tasks: [{
+				id: "1FC58FEC32987299"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D5355746750DF04"]
+			id: "4841CC6210CD8413"
+			rewards: [{
+				id: "5374FF1AB90A3B38"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "30CDF2DEFAA03A40"
+				item: { count: 1, id: "measurements:tape_measure" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["640C3588E6BA8DF2"]
+			icon: {
+				id: "simplyswords:brimstone_claymore"
+			}
+			id: "2F1F1047E8A734EC"
+			rewards: [{
+				id: "721FF67AC2FD6B87"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "556B9A1598F323B6"
+				item: { components: { "patchouli:book": "simplyswords:runic_grimoire" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F1F1047E8A734EC"]
+			id: "3D8B2D9B4488D1C4"
+			rewards: [
+				{
+					id: "3044588ADA2C34F9"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					id: "79F86FB1A5010108"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 4
+					id: "06287D4183F54125"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49E5F5147F07C67B"
+				item: { count: 1, id: "simplyswords:empowered_remnant" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D8B2D9B4488D1C4"]
+			id: "374A73FE0C12C105"
+			rewards: [
+				{
+					id: "6C6877A0C6DC69B4"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0A8AA9F560CC2350"
+					item: {
+						count: 1
+						id: "simplyswords:runic_tablet"
+					}
+					type: "item"
+				}
+				{
+					id: "0EB8AE0F42606004"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "5FA9B1D918EC6529"
+				item: { count: 1, id: "simplyswords:netherfused_gem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3D8B2D9B4488D1C4"]
+			id: "4E2CDE150137F5E9"
+			rewards: [
+				{
+					id: "532BB8E9D9518DEA"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "03BCC3F031B22DE0"
+					item: {
+						count: 1
+						id: "simplyswords:runic_tablet"
+					}
+					type: "item"
+				}
+				{
+					id: "412AC6A306F89E98"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "5EC926FCEC96ADAC"
+				item: { count: 1, id: "simplyswords:runefused_gem" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["737CFB455ADB0F15"]
+			hide_dependent_lines: true
+			id: "640C3588E6BA8DF2"
+			rewards: [{
+				id: "71C3D2FFBD888B63"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "66A18BC1D70CC3C1"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+	]
+}

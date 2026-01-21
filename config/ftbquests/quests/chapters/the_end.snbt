@@ -1,0 +1,923 @@
+{
+	autofocus_id: "07655CF543C452F8"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: "0A9C251924B77A88"
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "42EC718DA49B4AB2"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4300E87679E7D662"
+			rewards: [{
+				id: "5F14B33AAEFB8BCC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecraft:end/root"
+				criterion: ""
+				id: "79FA32FB1E44A2B8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2C2B04EB1BB3A272"
+			rewards: [{
+				id: "0FA6394155F061D1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "0E41B5DEA510CC66"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "1BFFE2477366DFC7"
+			rewards: [{
+				id: "1533E072C05E8474"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+				id: "283646F79BFEAC7F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "24149EA00CB3B351"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "290FDA76BC526BE2"
+				type: "kill"
+				value: 5L
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["24149EA00CB3B351"]
+			id: "674B3B477110CE0C"
+			rewards: [{
+				count: 2
+				id: "14B235B83682184D"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FB9672D13DC73D1"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["674B3B477110CE0C"]
+			id: "47C361784A461BE4"
+			rewards: [{
+				id: "7471E847E5445B46"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				count: 10L
+				id: "74CE25FCDF48842E"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1BFFE2477366DFC7"]
+			id: "3DE11C6E8AACD30D"
+			rewards: [{
+				count: 15
+				id: "6DF086BF2CC1D41D"
+				item: {
+					count: 1
+					id: "minecraft:firework_rocket"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "5819F66411C08AB9"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["47C361784A461BE4"]
+			id: "70F32C3C44631F0A"
+			rewards: [
+				{
+					id: "5BDA0EA40EC9BD5D"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+				{
+					id: "2990DD4B417D508A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "139E6CCF30D6F0BE"
+				item: { count: 1, id: "minecraft:ender_chest" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "4E983D69CD3334E2"
+			rewards: [{
+				id: "7941C94401C0A164"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "10931E44180AEF03"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "67ABBF8A261CF249"
+			rewards: [{
+				id: "10B75456C44235DC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "stellarity:exploration/find_end_village"
+				criterion: ""
+				id: "0C07D47BEF08E375"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "2CA428D9215811E1"
+			tasks: [{
+				entity: "minecraft:phantom"
+				id: "0FF873E726CAFC58"
+				type: "kill"
+				value: 3L
+			}]
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["21A0FD474FBB49F7"]
+			id: "2B115519A21F9CB7"
+			rewards: [
+				{
+					id: "740082C803FCA043"
+					item: {
+						count: 1
+						id: "cataclysm:music_disc_ender_guardian"
+					}
+					type: "item"
+				}
+				{
+					id: "2045595195B4DD3E"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "56CD54E84D962527"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.267857142857146d
+			y: -1.9821428571428612d
+		}
+		{
+			dependencies: ["4E983D69CD3334E2"]
+			icon: {
+				id: "cataclysm:void_infused_end_stone_bricks"
+			}
+			id: "21A0FD474FBB49F7"
+			rewards: [{
+				id: "186DE226DDA7D08D"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			size: 1.25d
+			tasks: [{
+				id: "20930238A87763FA"
+				structure: "cataclysm:ruined_citadel"
+				type: "structure"
+			}]
+			x: 4.267857142857146d
+			y: 0.017857142857138797d
+		}
+		{
+			dependencies: ["2B115519A21F9CB7"]
+			id: "2CD58FC229BC0C28"
+			rewards: [{
+				id: "5FBAF52AFC6CDFC4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "4B57B1AC4E115AFD"
+				item: { count: 1, id: "cataclysm:gauntlet_of_guard" }
+				type: "item"
+			}]
+			x: 8.250000000000007d
+			y: -3.482142857142861d
+		}
+		{
+			dependencies: ["21A0FD474FBB49F7"]
+			id: "6B5BC33667C782EC"
+			rewards: [{
+				id: "3F4F8C549F13E312"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "circle"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				id: "37AF6786E3E6BE61"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.767857142857146d
+			y: -1.9821428571428612d
+		}
+		{
+			dependencies: ["21A0FD474FBB49F7"]
+			id: "465B08461B460DAC"
+			rewards: [
+				{
+					count: 3
+					id: "1C8F230A3F989084"
+					item: {
+						count: 1
+						id: "cataclysm:void_jaw"
+					}
+					type: "item"
+				}
+				{
+					id: "6418AEAEA11F91BA"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "cataclysm:endermaptera"
+				id: "5A4F3C501FCA8D4A"
+				type: "kill"
+				value: 3L
+			}]
+			x: 6.267857142857146d
+			y: -0.4821428571428612d
+		}
+		{
+			dependencies: ["6B5BC33667C782EC"]
+			id: "35E42F7925CA097A"
+			rewards: [{
+				id: "0FB8F2CFB6398BF6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "0F638F28617D25D9"
+				item: { count: 1, id: "cataclysm:void_core" }
+				type: "item"
+			}]
+			x: 7.250000000000007d
+			y: -4.482142857142861d
+		}
+		{
+			dependencies: ["465B08461B460DAC"]
+			id: "05DE9E1CDFBC22DE"
+			rewards: [
+				{
+					count: 16
+					id: "496D5A55529C1BFF"
+					item: {
+						count: 1
+						id: "cataclysm:void_scatter_arrow"
+					}
+					type: "item"
+				}
+				{
+					id: "15899A810BF52CBA"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "44CB083FE59B6184"
+				item: { count: 1, id: "cataclysm:void_scatter_arrow" }
+				type: "item"
+			}]
+			x: 9.250000000000007d
+			y: -2.482142857142861d
+		}
+		{
+			id: "38C09CF7914BEE30"
+			rewards: [{
+				id: "36ADBB6B6002B69C"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "03BBDE7F498EA734"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			id: "047ACE4F6C1560F0"
+			rewards: [{
+				id: "49E87057F15759B9"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "49FD7EBD2F252C09"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			id: "498D22534A947B79"
+			rewards: [{
+				id: "2C105732C749E77A"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6030ACF39D2AE60F"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			id: "41C643E334BA412E"
+			rewards: [{
+				id: "4BF1C08EEF8D1191"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "07551255E03F8720"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "79B7F2CF9843FFCB"
+			rewards: [{
+				id: "0489CEFD7C24D096"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3F8715E27985B8D4"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			id: "473610BEA4E1765D"
+			rewards: [{
+				id: "6E54EFB7B95866E5"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4BC19283BBBB6725"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			id: "4D54723C26FB8C44"
+			rewards: [{
+				id: "3E3A8177CD44370B"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "27973190F35E7A37"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "5B2ECDE4D4FF3D8D"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "4BF11700E35278B9"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4B7EDC6777C37671"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "509760809535E55E"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "59D101B1AE99A085"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2192A51B50E6D55A"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "1B876E65905AE114"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "51CC91D19E89E084"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5F06D21207C52E7F"
+				item: { count: 1, id: "endrem:black_eye" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			id: "7DDA573B83BD4B2D"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "75C78C022C18AEBB"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2C4615E77E17AB5C"
+				item: { count: 1, id: "endrem:witch_eye" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			id: "1A1A29A846DABADB"
+			rewards: [{
+				id: "4BC88A230CCF33B9"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:heart_container"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1403EF56C46F4E81"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"047ACE4F6C1560F0"
+				"79B7F2CF9843FFCB"
+				"7DDA573B83BD4B2D"
+				"41C643E334BA412E"
+				"1A1A29A846DABADB"
+				"498D22534A947B79"
+				"473610BEA4E1765D"
+				"4D54723C26FB8C44"
+				"5B2ECDE4D4FF3D8D"
+				"38C09CF7914BEE30"
+				"509760809535E55E"
+				"1B876E65905AE114"
+			]
+			hide_dependency_lines: true
+			id: "3D6259FBCAA99583"
+			rewards: [{
+				id: "620A0DB3D8E30D97"
+				type: "xp"
+				xp: 50
+			}]
+			size: 3.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "343ED73AE0A17261"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -4.4d
+		}
+		{
+			dependencies: ["4300E87679E7D662"]
+			id: "07655CF543C452F8"
+			rewards: [
+				{
+					id: "0354D96FC9B509BC"
+					item: {
+						count: 1
+						id: "create_sa:heap_of_experience"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "44EA99BDE4A6C0C3"
+					item: {
+						components: {
+							"ftbquests:missing_item": "magic_coins:silver_coin"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/dragon_breath"
+				criterion: ""
+				id: "0D5FDB7F41EE9FD3"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2C2B04EB1BB3A272"]
+			id: "7C185DB8566F7E33"
+			rewards: [
+				{
+					id: "214C7068BF2A23E7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "7F33BFF7FD7C7785"
+					item: {
+						components: {
+							"ftbquests:missing_item": "magic_coins:silver_coin"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				advancement: "minecraft:end/dragon_egg"
+				criterion: ""
+				id: "1F7A7FA9CAFCCC1F"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

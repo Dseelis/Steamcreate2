@@ -1,0 +1,150 @@
+{
+	id: "59C15B9D0F7ED5E1"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 12
+			id: "3D51C2532B93860B"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 12
+			id: "4BD6A29F07BF013B"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 12
+			id: "6AD70DDA968ADB3B"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 12
+			id: "35804ACBBB89E8B5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:silver_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 8
+			id: "539063CFAEA6A799"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ingot_osmium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 12
+			id: "60AAF0BB60AC7075"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:lead_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 12
+			id: "0735D31893546954"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:tin_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 16
+			id: "0BBC45CE858B5413"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 16
+			id: "512633B06CE775A8"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 16
+			id: "4D65F84D71F88DDF"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 4
+			id: "6058F40F74B2D01C"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 2
+			id: "53E71F09C38689A5"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 16
+			id: "384C9AFD0F7AA4F4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:lignite_coal"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 16
+			id: "6D842CB889DB35B0"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 8
+			id: "4833BD5054447F71"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 16
+			id: "582DD6FA4B11D9D0"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+		}
+	]
+}

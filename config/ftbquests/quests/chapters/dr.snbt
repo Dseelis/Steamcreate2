@@ -1,0 +1,404 @@
+{
+	autofocus_id: "2D8EB2902477E0E0"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dr"
+	group: ""
+	icon: {
+		id: "createcasing:chorium_ingot"
+	}
+	id: "26C73B03C6536E13"
+	images: [
+		{
+			height: 1.0d
+			image: "ftbquests:block/menuanim"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 0.0d
+			y: -14.0d
+		}
+		{
+			height: 30.0d
+			image: "steamcore:textures/pe2.png"
+			rotation: 0.0d
+			width: 52.0d
+			x: 2.0d
+			y: -25.5d
+		}
+		{
+			height: 1.0d
+			image: "steamcore:textures/mechanics.png"
+			rotation: 0.0d
+			width: 8.987341772151899d
+			x: 1.9285714285714306d
+			y: -28.535714285714278d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			hide_until_deps_visible: true
+			icon: {
+				id: "ftbquests:book"
+			}
+			icon_scale: 1.2d
+			id: "2D8EB2902477E0E0"
+			rewards: [{
+				id: "1B2F7CCBA68A8A51"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "2218FB3B73A76CDA"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -24.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "52049B8E4CB25B43"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "60CAA55DDB2D54AB"
+				type: "checkmark"
+			}]
+			x: 5.25d
+			y: -24.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "5230976ED3D20025"
+			optional: true
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "19FDFEB98A0FF553"
+				type: "checkmark"
+			}]
+			x: -0.21428571428568688d
+			y: -26.035714285714278d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "sereneseasons:calendar"
+			}
+			id: "386C7A1CDF6B1509"
+			rewards: [{
+				id: "5CFBE44118674D14"
+				item: {
+					count: 1
+					id: "sereneseasons:calendar"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1CC302089BA513A6"
+				type: "checkmark"
+			}]
+			x: 2.035714285714292d
+			y: -26.607142857142875d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "steamcore:eternal_core"
+			}
+			id: "2188E4F0F1D67AF7"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "76677A9010FD1BE4"
+				type: "checkmark"
+			}]
+			x: -1.3571428571428257d
+			y: -24.035714285714278d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			id: "4823F73FBA0274DF"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "79AEC1A8DBBB97D8"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: 4.214285714285751d
+			y: -26.071428571428562d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "cold_sweat:thermometer"
+			}
+			id: "245FCF3E018D9760"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "29A3FED445B36C9C"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -22.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "519BAC5CAE362B19"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0F220A36FACE8C43"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -22.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "5D4225060460C74E"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "458104B02A3023D0"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -21.5357142857143d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"patchouli:book": "parcool:parcool_guide"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "47F3CAF52D04CF8D"
+			rewards: [{
+				id: "40D83DE574437E6B"
+				item: {
+					components: {
+						"patchouli:book": "parcool:parcool_guide"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "27005AC3F2E038DF"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -18.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "ftbquests:book"
+			}
+			id: "2D4882ADCEA8C398"
+			rewards: [{
+				id: "772B2822CFD3772E"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F0C3CE5FAD7C1A1"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -18.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "68789BCAD0BF39ED"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "32501AA47DE2761A"
+				type: "checkmark"
+			}]
+			x: 6.75d
+			y: -24.0d
+		}
+		{
+			dependencies: ["245FCF3E018D9760"]
+			icon: {
+				id: "create:goggles"
+			}
+			id: "750B47CFDC4FAFEC"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "560373224EF105C5"
+				type: "checkmark"
+			}]
+			x: -1.971428571428575d
+			y: -20.97142857142856d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "4775178C26F9B458"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "58DB30E149A9D7A9"
+				type: "checkmark"
+			}]
+			x: -1.4571428571428626d
+			y: -27.085714285714275d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "irons_jewelry:jewelcrafting_guide"
+			}
+			id: "19E7D8B9CD473791"
+			rewards: [{
+				id: "66C8E517E5D537A5"
+				item: {
+					count: 1
+					id: "irons_jewelry:jewelcrafting_guide"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "11D7E9473966533F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["519BAC5CAE362B19"]
+			icon: {
+				components: {
+					"ftbquests:icon": "improvableskills:textures/gui/xp_bank.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4B5DC574BCA847A5"
+			rewards: [{
+				id: "02B36CA174344464"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7F9315F314FA9803"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -21.0d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "5C51BCB4313FF946"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "17FAEC4ADA7E5C69"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -19.89285714285714d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "ae2:guide"
+			}
+			id: "7DC321C2DE684FC1"
+			rewards: [{
+				id: "1DBE8044A3720796"
+				item: {
+					count: 1
+					id: "ae2:guide"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7690F19984AEEF7F"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -17.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"patchouli:book": "simplyswords:runic_grimoire"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "4527D540B69980FD"
+			rewards: [{
+				id: "354AE8BCDBABE9FA"
+				item: {
+					components: {
+						"patchouli:book": "simplyswords:runic_grimoire"
+					}
+					count: 1
+					id: "patchouli:guide_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E31C353ACCA5A20"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			icon: {
+				id: "cataclysm:altar_of_fire"
+			}
+			id: "1950E4C67EC16413"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "71D6D4C6692C3627"
+				type: "checkmark"
+			}]
+			x: 8.25d
+			y: -24.0d
+		}
+	]
+}

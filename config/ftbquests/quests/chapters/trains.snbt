@@ -1,0 +1,628 @@
+{
+	autofocus_id: "36535299A357ACC6"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trains"
+	group: "7319C72952402764"
+	icon: {
+		id: "immersive_aircraft:biplane"
+	}
+	id: "41C9BB0FB139EA18"
+	images: [{
+		height: 3.0d
+		hover: ["Train & Wind Power"]
+		image: "create:item/train_door"
+		rotation: 0.0d
+		width: 3.0d
+		x: 2.0d
+		y: 2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "7936CCA5490F1C60"
+			rewards: [
+				{
+					count: 10
+					id: "515AD4B856E6F128"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					random_bonus: 20
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5B09F0F73158DF10"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "79EBF5B4CA73DEA8"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.1999999999999993d
+		}
+		{
+			dependencies: ["7936CCA5490F1C60"]
+			id: "73866AF524F9F82F"
+			rewards: [{
+				count: 5
+				id: "18FBCDAF57D2D033"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "7784F4BBBF4493EC"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: -2.549999999999997d
+			y: 0.1999999999999993d
+		}
+		{
+			dependencies: ["30C9759AD5ED60C9"]
+			id: "0A6B65C5893B9BD4"
+			rewards: [{
+				count: 5
+				id: "040C64A3CBBFEECB"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "265085629F862E7F"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			x: 1.3500000000000085d
+			y: 0.1999999999999993d
+		}
+		{
+			dependencies: ["73866AF524F9F82F"]
+			id: "30C9759AD5ED60C9"
+			rewards: [{
+				count: 5
+				id: "5EB30BC8009339AC"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "4D54B6B3B2CABCB2"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:seats))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5499999999999972d
+			y: 0.1999999999999993d
+		}
+		{
+			dependencies: ["178F6215923BB915"]
+			id: "4BB82F98EE45B740"
+			rewards: [{
+				count: 5
+				id: "70D0C286F69D882E"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "38F9B02DF41D081E"
+				item: { count: 1, id: "create:track_observer" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["178F6215923BB915"]
+			id: "357AADC47C38165A"
+			rewards: [
+				{
+					count: 4
+					id: "7A445ECF6E38D1A8"
+					item: {
+						count: 1
+						id: "create:nixie_tube"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "37F0E62BE0F6E4B1"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "44260B35DFB4DD14"
+				item: { count: 1, id: "create:track_signal" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A6B65C5893B9BD4"]
+			id: "178F6215923BB915"
+			rewards: [{
+				count: 5
+				id: "21978CA9E4239D4E"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "77BD03D7E14D2830"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.1999999999999993d
+		}
+		{
+			dependencies: ["178F6215923BB915"]
+			id: "21E5B83843A2DA2A"
+			rewards: [{
+				count: 5
+				id: "5872E887B6369EE7"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "12AA8923400C9F29"
+				item: { count: 1, id: "create_things_and_misc:train_buffer" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30C9759AD5ED60C9"]
+			id: "1207684A98BAEDEE"
+			rewards: [
+				{
+					id: "562572A6EAFE3607"
+					item: {
+						count: 1
+						id: "minecraft:iron_axe"
+					}
+					type: "item"
+				}
+				{
+					id: "20D3091B9F8DAA59"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "18C78360ED23006E"
+				item: { count: 1, id: "create:train_door" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["178F6215923BB915"]
+			id: "2801DAB4C514DE98"
+			rewards: [{
+				id: "2D77B322F9512A7C"
+				item: {
+					count: 1
+					id: "minecraft:iron_chestplate"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "136CF6483DF39771"
+				item: { count: 1, id: "create:minecart_coupling" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: -1.0d
+		}
+		{
+			id: "20CE45C10A58D357"
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "071621FAD0117C3E"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "74453E3420E1AD73"
+			rewards: [{
+				id: "69B3FA6E7F08DCFC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01E421D85117D707"
+				item: { count: 1, id: "immersive_aircraft:biplane" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "17F2A3CF50BDF095"
+			rewards: [{
+				id: "58A2A307C3E608AB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E85EFDB34189A40"
+				item: { count: 1, id: "immersive_aircraft:airship" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "1E7A8CADBC6BF73C"
+			rewards: [{
+				id: "34257E2DA3658B44"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5F1B66A0458CFB52"
+				item: { count: 1, id: "immersive_aircraft:gyrodyne" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "71CC0C32A62A110C"
+			rewards: [{
+				id: "07B69B6FE931C746"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2A5988EF2D23F10A"
+				item: { count: 1, id: "immersive_aircraft:quadrocopter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "10B6AE2CDC48D574"
+			rewards: [{
+				id: "26E78001439B3A2D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "72A9F525EEE5755A"
+				item: { count: 1, id: "immersive_aircraft:warship" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["17F2A3CF50BDF095"]
+			id: "2532D37C9CBAEF77"
+			rewards: [{
+				id: "2D42DBA0812EB220"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "597D266B3AD22C4D"
+				item: { count: 1, id: "immersive_aircraft:cargo_airship" }
+				type: "item"
+			}]
+			x: -1.5714285714285694d
+			y: 9.5d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "5D6271AF25237B2E"
+			rewards: [{
+				id: "4FE5D748C3E8476C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F1EDAE24CB6CE36"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5D6271AF25237B2E"]
+			id: "19D3A2C865857203"
+			rewards: [{
+				id: "46A3BA43402C1CF5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3CEC1274BCD269BE"
+				item: { count: 1, id: "immersive_aircraft:rotary_cannon" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5D6271AF25237B2E"]
+			id: "221AD10D242035D1"
+			rewards: [{
+				id: "32E8027902333EB8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A77F3B3263EF26C"
+				item: { count: 1, id: "immersive_aircraft:heavy_crossbow" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5D6271AF25237B2E"]
+			id: "4322A3731757CC6D"
+			rewards: [{
+				id: "5EAD2D9851BC8113"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0C69D1C8A6EAE679"
+				item: { count: 1, id: "immersive_aircraft:bomb_bay" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5D6271AF25237B2E"]
+			id: "0806F6D61D04BED0"
+			rewards: [{
+				id: "76EAC262B9E02EB2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3167A638C48D71CA"
+				item: { count: 1, id: "immersive_aircraft:telescope" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["20CE45C10A58D357"]
+			id: "669470AF4A543CB7"
+			rewards: [{
+				id: "230A5155662E2E10"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3DB26C03AA267EC0"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "5114FEE11E7030C9"
+			rewards: [{
+				id: "2E71F2F081836CD3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "709F527C4A365F66"
+				item: { count: 1, id: "immersive_aircraft:industrial_gears" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "0964C5C4D8D33E5F"
+			rewards: [{
+				id: "268F107BE03E03A4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "09C30C0DD74D2D0B"
+				item: { count: 1, id: "immersive_aircraft:steel_boiler" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "62B11024B2C49C0C"
+			rewards: [{
+				id: "57A64718AF0F9E9F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6B130CA123696C14"
+				item: { count: 1, id: "immersive_aircraft:eco_engine" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "7AAC9B89708E9C7E"
+			rewards: [{
+				id: "5768D8D7AC1D16B9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "372D1871464940D9"
+				item: { count: 1, id: "immersive_aircraft:improved_landing_gear" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "078C4BD0C9D079E3"
+			rewards: [{
+				id: "19A050838E9A1D15"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "474E3445B38F17F4"
+				item: { count: 1, id: "immersive_aircraft:gyroscope" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "18E0360F9A93DD58"
+			rewards: [{
+				id: "503496D90EAB18CC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4D1903C8E8AA6588"
+				item: { count: 1, id: "immersive_aircraft:hull_reinforcement" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "6D08330CFC144654"
+			rewards: [{
+				id: "5A4EAFC1C04FD7CD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6D1A20C64E28805B"
+				item: { count: 1, id: "immersive_aircraft:sturdy_pipes" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "1844549B34A9E167"
+			rewards: [{
+				id: "109E07E037A1C767"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "22CC37069EB12EB2"
+				item: { count: 1, id: "immersive_aircraft:nether_engine" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "2E156E1D6BA5517A"
+			rewards: [{
+				id: "78EC194DA9CC2A45"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "64D877664573D2EF"
+				item: { count: 1, id: "immersive_aircraft:enhanced_propeller" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["74453E3420E1AD73"]
+			id: "6A15D90E95F4E03A"
+			tasks: [{
+				id: "588D68D0634BF64D"
+				item: { count: 1, id: "immersive_aircraft:bamboo_hopper" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			id: "36535299A357ACC6"
+			invisible: true
+			tasks: [{
+				id: "0EE673C796AA5C29"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+	]
+}

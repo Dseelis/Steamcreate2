@@ -1,0 +1,255 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villages"
+	group: "5BE995FAC225BED6"
+	icon: {
+		id: "minecraft:emerald"
+	}
+	id: "3949BAC48E29E31A"
+	images: [
+		{
+			height: 3.0d
+			image: "minecraft:block/cartography_table_top"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/essence_of_the_storm"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0AD5873FC3E09219"
+			tasks: [{
+				id: "342E93F8F09CA8C2"
+				item: { count: 1, id: "minecraft:shears" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "40A80DABB31AE408"
+			rewards: [{
+				id: "6490C6D82535F02F"
+				item: {
+					count: 1
+					id: "minecraft:shield"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D23DDF84987D08E"
+				item: { count: 1, id: "minecraft:blast_furnace" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "12076AE267313594"
+			tasks: [{
+				id: "5278A48FDDB62177"
+				item: { count: 1, id: "minecraft:grindstone" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			id: "3AE2AEDFBA42CA7E"
+			tasks: [{
+				id: "1C6580FF0530E25F"
+				item: { count: 1, id: "minecraft:fletching_table" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			id: "17868580B74C1D26"
+			rewards: [
+				{
+					id: "171F7341D65B3C49"
+					item: {
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "6A7771D04769AD6E"
+					item: {
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55DC5AD16D277956"
+				item: { count: 1, id: "minecraft:brewing_stand" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			id: "3725D82BCE446E92"
+			tasks: [{
+				id: "7C3CE66D9973F1C9"
+				item: { count: 1, id: "minecraft:cartography_table" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			id: "5FA0A81D85BE46AD"
+			tasks: [{
+				id: "1C741A6AC3FE197A"
+				item: { count: 1, id: "minecraft:composter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			id: "0E8BFAD5391D9DFB"
+			tasks: [{
+				id: "0154156CE9E197A0"
+				item: { count: 1, id: "minecraft:loom" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			id: "262882567AF7B120"
+			tasks: [{
+				id: "4869434F109B2D9A"
+				item: { count: 1, id: "minecraft:smoker" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			id: "56AA9536A9F46CB2"
+			tasks: [{
+				id: "74B48609E04A55CF"
+				item: { count: 1, id: "minecraft:stonecutter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			id: "1B3643A14321612F"
+			tasks: [{
+				id: "5ADEB707C53A2ECA"
+				item: { count: 1, id: "minecraft:smithing_table" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			id: "0711445B9611D504"
+			rewards: [{
+				id: "3E4235EB199A2E26"
+				item: {
+					count: 1
+					id: "minecraft:fishing_rod"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C39264CFD9CDA2C"
+				item: { count: 1, id: "minecraft:barrel" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			id: "173BFC78F9D67346"
+			tasks: [{
+				id: "4F12EAEC758F6633"
+				item: { count: 1, id: "minecraft:lectern" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			id: "13ADD27B972AA1AE"
+			tasks: [{
+				id: "7E6123BD08FD573F"
+				item: { count: 1, id: "minecraft:cauldron" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["17868580B74C1D26"]
+			id: "6D231D21FE4502B0"
+			rewards: [
+				{
+					id: "703FC6E687BD1E5E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "0F1BBA881F0E6F81"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FDA3E1F461441C9"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			id: "05E8D217442F6761"
+			rewards: [{
+				id: "5BC5F8D3EFA16078"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "4EAB76A731D14C91"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "317509DA2AEC22AF"
+			tasks: [{
+				id: "7EF74B1D0EAC85EE"
+				item: { count: 1, id: "irons_jewelry:jewelcrafting_station" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+	]
+}

@@ -1,0 +1,308 @@
+{
+	id: "70AB0C6C8A231FA3"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 2
+			id: "67BC0913422B64A4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:red_grape"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 3
+		}
+		{
+			count: 3
+			id: "459C417A91F6BB8D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:cherry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 5
+			id: "3E7BAB6E20CD0FA5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:rotten_cherry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 6
+			weight: 1.2f
+		}
+		{
+			count: 2
+			id: "5AC0C68C6E8E6C9F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:white_grape"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+		}
+		{
+			count: 4
+			id: "3EFD4DE0A617451E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:savanna_grapes_red"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 3
+			id: "7B3DE80FDAECC67C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:savanna_grapes_white"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 4
+			id: "252D7745A1322002"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:taiga_grapes_red"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 7
+			id: "51F2E4C5C22F7A71"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:taiga_grapes_white"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "4698E79239D05FE4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:jungle_grapes_white"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 3
+		}
+		{
+			count: 2
+			id: "2845146619772F0F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:apple_tree_sapling"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+			weight: 0.8f
+		}
+		{
+			id: "6517494012DF092F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:straw_hat"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.55f
+		}
+		{
+			id: "34BFE92C4D05C59C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:winemaker_leggings"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "2562279F14C6C00F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "vinery:winemaker_boots"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "45C504803DC61490"
+			item: {
+				components: {
+					"ftbquests:missing_item": "beachparty:sunglasses"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "542ABF20B8C7C400"
+			item: {
+				components: {
+					"ftbquests:missing_item": "beachparty:trunks"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "722E3EF277732068"
+			item: {
+				components: {
+					"ftbquests:missing_item": "beachparty:palm_bar"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 2
+			id: "34BCCD3E9B9E70BF"
+			item: {
+				components: {
+					"ftbquests:missing_item": "herbalbrews:wild_coffee_plant"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 4
+			weight: 0.9f
+		}
+		{
+			count: 3
+			id: "11E7ABC7E4DCE786"
+			item: {
+				components: {
+					"ftbquests:missing_item": "herbalbrews:wild_yerba_mate_plant"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "15C063D2B4EA154E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "herbalbrews:hibiscus_tea"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "76386CF2C7FEC580"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_regalia"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "72FC48ADBD4C5480"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_blouse"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "0C6B72CF8A4AB5D9"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_trousers"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.55f
+		}
+		{
+			id: "5645EB36F47303BD"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_dress"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.85f
+		}
+		{
+			id: "126A365ADCCA599B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_hat_red"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.08f
+		}
+		{
+			id: "1342BB97E22A3CB1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "brewery:brewfest_shoes"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.1f
+		}
+		{ id: "72B62B6BCB4E5FCF", item: { components: { "ftbquests:missing_item": "brewery:hops_seeds" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			id: "5085E90F0A13102B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "herbalbrews:top_hat"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 0.09f
+		}
+	]
+}

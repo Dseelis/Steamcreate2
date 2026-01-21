@@ -1,0 +1,89 @@
+{
+	id: "769C9AEC3DB2FA42"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 2
+			id: "50985197DDBBE3AA"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 2
+			id: "64B657F14C942E7C"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+			random_bonus: 6
+		}
+		{
+			count: 4
+			id: "5D8A9C8F0453B0F6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "modern_industrialization:steel_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 4
+			id: "4822F4CF30A22F63"
+			item: {
+				count: 1
+				id: "mekanism:enriched_iron"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 4
+			id: "55EDE3A4A02BC956"
+			item: {
+				count: 1
+				id: "mekanism:enriched_redstone"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 2
+			id: "23DE45B350BC99DB"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_speed"
+			}
+		}
+		{
+			count: 2
+			id: "2411BB668A1917A3"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_energy"
+			}
+		}
+		{
+			count: 8
+			id: "7094A64B050C761A"
+			item: {
+				count: 1
+				id: "mekanism:ingot_osmium"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 2
+			id: "523273D439D890B9"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 4
+		}
+	]
+}

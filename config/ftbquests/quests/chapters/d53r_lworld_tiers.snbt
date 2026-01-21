@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d53r_lworld_tiers"
+	group: "62DBE3172393A251"
+	id: "085467E2D3F4DEF8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,77 @@
+{
+	id: "0414572B7C36F04F"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "common_powah_lootbox"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			id: "0CED6828A17A9C86"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic_tiny"
+			}
+		}
+		{
+			count: 16
+			id: "60723A856A4F6541"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic"
+			}
+		}
+		{ id: "7F169AD556E72560", item: { count: 1, id: "powah:battery_starter" } }
+		{
+			count: 64
+			id: "0341A8467D342F3C"
+			item: {
+				count: 1
+				id: "powah:dielectric_paste"
+			}
+		}
+		{ id: "589E04CA46809879", item: { count: 1, id: "powah:binding_card" } }
+		{ id: "7FE720DA943ED756", item: { count: 1, id: "powah:thermo_generator_starter" } }
+		{
+			count: 8
+			id: "55D96CFAA65A780A"
+			item: {
+				count: 1
+				id: "powah:steel_energized"
+			}
+		}
+		{
+			count: 32
+			id: "3533CDFAC29FB448"
+			item: {
+				count: 1
+				id: "powah:uraninite"
+			}
+		}
+		{
+			count: 8
+			id: "287110BE1EDCA2BB"
+			item: {
+				count: 1
+				id: "powah:dielectric_casing"
+			}
+		}
+		{
+			count: 2
+			id: "6954FAA928CF39D0"
+			item: {
+				count: 1
+				id: "powah:energizing_rod_hardened"
+			}
+		}
+		{ id: "246B49E9D1DE74F7", item: { count: 1, id: "powah:battery_basic" } }
+		{ id: "5500F8F962036784", item: { count: 1, id: "powah:crystal_nitro" } }
+	]
+}

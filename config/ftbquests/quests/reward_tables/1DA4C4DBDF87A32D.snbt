@@ -1,0 +1,20 @@
+{
+	id: "1DA4C4DBDF87A32D"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ id: "2656B54F038CB462", item: { count: 1, id: "minecraft:golden_sword" } }
+		{ id: "36F68AB9EE77EBC5", item: { count: 1, id: "minecraft:golden_hoe" } }
+		{ id: "4264621D13914D77", item: { count: 1, id: "minecraft:golden_pickaxe" } }
+		{ id: "7B51E949952B6DDA", item: { count: 1, id: "minecraft:golden_axe" } }
+		{ id: "2E460A4910FCFB1C", item: { count: 1, id: "minecraft:golden_shovel" } }
+		{
+			id: "17E57413DAB7B1E3"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold_block"
+			}
+			weight: 0.7f
+		}
+	]
+}

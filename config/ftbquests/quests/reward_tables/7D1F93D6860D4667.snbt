@@ -1,0 +1,87 @@
+{
+	id: "7D1F93D6860D4667"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 3
+			id: "6CC18D3CD3D0A870"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+		}
+		{
+			count: 6
+			id: "20FA9B17F82781B1"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+		}
+		{
+			count: 8
+			id: "2FF624F032311068"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 16
+			id: "7CAAFB783BB00BD1"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 4
+			id: "67304D2C589C0512"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "2A4A687FD75E75A3"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "7D19FF54CF21C0D5"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+		}
+		{
+			count: 16
+			id: "54A8F54147C9774A"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 16
+			id: "42F76B5B8968763F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 32
+			id: "0E79645A33D2AFA3"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+	]
+}

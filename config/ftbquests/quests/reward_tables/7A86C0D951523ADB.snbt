@@ -1,0 +1,36 @@
+{
+	id: "7A86C0D951523ADB"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ id: "37CB2BB48D9B5983", item: { count: 1, id: "minecraft:netherite_shovel" } }
+		{ id: "74735492A9659C46", item: { count: 1, id: "minecraft:netherite_pickaxe" } }
+		{ id: "4C1E0B532D2574DA", item: { count: 1, id: "minecraft:netherite_axe" } }
+		{
+			id: "1710DE9413C84163"
+			item: {
+				count: 1
+				id: "minecraft:netherite_hoe"
+			}
+			weight: 0.1f
+		}
+		{ id: "2E896E23FEB5157A", item: { count: 1, id: "minecraft:netherite_sword" } }
+		{
+			count: 4
+			id: "2CF03EB7DED36E09"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "105DCE85C1E035FB"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 0.4f
+		}
+	]
+}

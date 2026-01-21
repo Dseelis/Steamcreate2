@@ -1,0 +1,1108 @@
+{
+	autofocus_id: "1BFDCA5DB4D24050"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "Relics and Artifacts"
+	group: "62DBE3172393A251"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "relics:space_dissector"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "2A4C06811555B5D0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.5d
+			id: "1A7191A0861F8923"
+			rewards: [{
+				id: "2859E5470C20B195"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "015AB5CE32827AEF"
+				item: { components: { "ftbquests:missing_item": "relics:reflection_necklace" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 16.875d
+			y: -1.75d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "24C3C90286D92869"
+			rewards: [{
+				id: "24CCD3423DC8DE94"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4B75B7E86679964B"
+				item: { components: { "ftbquests:missing_item": "relics:magma_walker" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.375d
+			y: -7.375d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "73408E37869116A3"
+			rewards: [{
+				id: "6210251C89DA4044"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2ABDAFA70CAE3BCE"
+				item: { components: { "ftbquests:missing_item": "relics:aqua_walker" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.875d
+			y: 1.375d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "361C81931FEA5411"
+			rewards: [{
+				id: "0E71CFE5356C6C40"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "79BC78C1C134331B"
+				item: { components: { "ftbquests:missing_item": "relics:midnight_robe" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.625d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "0073FC661C34F787"
+			rewards: [{
+				id: "465125343EFCB6DD"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7311EF27CC52E1BF"
+				item: { components: { "ftbquests:missing_item": "relics:drowned_belt" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.375d
+			y: 6.375d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "1DBBF47A0E25730F"
+			rewards: [{
+				id: "5E032CFA0657EF5C"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4888C8E580C48680"
+				item: { components: { "ftbquests:missing_item": "relics:jellyfish_necklace" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.125d
+			y: 3.875d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "3F299717033E967F"
+			rewards: [{
+				id: "5BC2542CD99A4E82"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "47FED010DD90362D"
+				item: { components: { "ftbquests:missing_item": "relics:hunter_belt" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 13.125d
+			y: -4.25d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "2B9944C95AB4BBEA"
+			rewards: [{
+				id: "748323CBB5F02D9E"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "783B4BE12ABA9E70"
+				item: { components: { "ftbquests:missing_item": "relics:rage_glove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 15.625d
+			y: -3.625d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "22666B65C10D05C3"
+			rewards: [{
+				id: "4F039DE5B2DB460E"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7D75C6BFDFADE596"
+				item: { components: { "ftbquests:missing_item": "relics:ice_skates" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.125d
+			y: -4.25d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "53877B65F7D27FD6"
+			rewards: [{
+				id: "15E8BE566FB915E4"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "5F1AD8142DF21F54"
+				item: { components: { "ftbquests:missing_item": "relics:chorus_inhibitor" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.125d
+			y: 0.75d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "033581BFCC53F7DF"
+			rewards: [{
+				id: "245563A5EF29A1FC"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4D131A1C86AFD690"
+				item: { components: { "ftbquests:missing_item": "relics:bastion_ring" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 10.625d
+			y: -3.0d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "02575C87933FF39C"
+			rewards: [{
+				id: "4FAA076809807BC4"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7BA80EC4B8040AA1"
+				item: { components: { "ftbquests:missing_item": "relics:space_dissector" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.125d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "2FF157E7549611DA"
+			rewards: [{
+				id: "0409628875081206"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "09E07110691DBDB1"
+				item: { components: { "ftbquests:missing_item": "relics:holy_locket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -8.0d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "032C710AD746F5CC"
+			rewards: [{
+				id: "1D188F5FD348CC06"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "0B50283D80BDA3C6"
+				item: { components: { "ftbquests:missing_item": "relics:enders_hand" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 13.125d
+			y: 3.875d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "6A9B602109D060CA"
+			rewards: [{
+				id: "7F0BB48D6C48110A"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "49E064750902DBE0"
+				item: { components: { "ftbquests:missing_item": "relics:elytra_booster" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.375d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "2B7943458DE4DD38"
+			rewards: [{
+				id: "2307FEE74C1208B3"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "50CB32ABE40F8F3A"
+				item: { components: { "ftbquests:missing_item": "relics:magic_mirror" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 10.625d
+			y: 3.875d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "4660A9612E6F1763"
+			rewards: [{
+				id: "58A1C608B38530D6"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "6F2F9FACC5D6EC38"
+				item: { components: { "ftbquests:missing_item": "relics:ice_breaker" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 16.25d
+			y: 5.125d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "61EF303F48808AD4"
+			rewards: [{
+				id: "6B81455324C8E9A2"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "76DAFCD6A04785DF"
+				item: { components: { "ftbquests:missing_item": "relics:blazing_flask" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "7E7D9F00D412CF17"
+			rewards: [{
+				id: "49BFFFC52C52428A"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "05DB2D1EDF77B686"
+				item: { components: { "ftbquests:missing_item": "relics:spore_sack" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.75d
+			y: 3.875d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "65449150E724FB60"
+			rewards: [{
+				id: "02F10CEBC55C7560"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "3385C1A97BD70633"
+				item: { components: { "ftbquests:missing_item": "relics:shadow_glaive" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 13.75d
+			y: 6.375d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "672DBB368CA56FB6"
+			rewards: [{
+				id: "45110B83B70F9BA5"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7B7C2D4D792D8E32"
+				item: { components: { "ftbquests:missing_item": "relics:roller_skates" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.375d
+			y: -1.125d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "1889B98B321E0B10"
+			rewards: [{
+				id: "338B1D95F4C00500"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "6246E1789C4DF46D"
+				item: { components: { "ftbquests:missing_item": "relics:infinity_ham" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 15.625d
+			y: -6.125d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "5FC79456B9AB5449"
+			rewards: [{
+				id: "2A768A4340D91E29"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "76607E54F466F6C7"
+				item: { components: { "ftbquests:missing_item": "relics:leather_belt" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -6.75d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "7A5E91133F7860EA"
+			rewards: [{
+				id: "3CEFD2221EEC4084"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "0A29E907748F64AF"
+				item: { components: { "ftbquests:missing_item": "relics:wool_mitten" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.125d
+		}
+		{
+			hide_dependency_lines: true
+			icon_scale: 1.5d
+			id: "14C3ADDA1C2770EF"
+			rewards: [{
+				id: "7837E34E1340F6C6"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "6A8E3D8867F13DA6"
+				item: { components: { "ftbquests:missing_item": "relics:amphibian_boot" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.75d
+		}
+		{
+			icon_scale: 1.5d
+			id: "76AA57FEAF7C4A4D"
+			rewards: [{
+				id: "06CD221BAE7A9F26"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "189785EE1B5875CF"
+				item: { components: { "ftbquests:missing_item": "relics:reflection_necklace" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.875d
+			y: 7.0d
+		}
+		{
+			id: "64E5F767E6E14F74"
+			rewards: [{
+				id: "232746A5CCC9CD3B"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4647149228853B80"
+				item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:scouring_eye" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 23.125d
+			y: -1.25d
+		}
+		{
+			id: "255B305A5EE899B5"
+			rewards: [{
+				id: "5F1B713436618F20"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7EFA7FD7327B0236"
+				item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:void_cloak" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 24.375d
+			y: -2.5d
+		}
+		{
+			id: "4ED83903ED9A6F79"
+			rewards: [{
+				id: "633F038115236DF0"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "22AE728E225B2676"
+				item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:vacuum_glove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: -5.625d
+		}
+		{
+			id: "37C149AC4074ABED"
+			rewards: [{
+				id: "239CCFCACB3A246B"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "1F2B5A46756947B0"
+				item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:void_bubble" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 24.375d
+			y: -7.5d
+		}
+		{
+			id: "5CE6670C9B217ADE"
+			rewards: [{
+				id: "2DA9772A4F8DB9F2"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "50C71EDE7CC2597C"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:cloak_of_concealment" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: -0.625d
+		}
+		{
+			id: "122A4369056C5C7A"
+			rewards: [{
+				id: "58789190C5625DEC"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2046DC06E96E0566"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:flaming_bracer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: -3.75d
+		}
+		{
+			id: "45438A1161CA9B2D"
+			rewards: [{
+				id: "03F6E7EE1771DFCB"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4801367E2FE0DD7D"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:ring_of_the_spectral_walker" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.875d
+			y: 2.5d
+		}
+		{
+			id: "0D8F9C134C428D34"
+			rewards: [{
+				id: "4BCE3126EB8B9559"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "331749063873AB9A"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:quantum_bubble" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 26.875d
+			y: -5.0d
+		}
+		{
+			id: "630E27F27CD258E3"
+			rewards: [{
+				id: "4CAE89780A4256FA"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4F7DE52852CCE970"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:emblem_of_defense" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 26.875d
+			y: -2.5d
+		}
+		{
+			id: "6A6D181A896BE489"
+			rewards: [{
+				id: "5CEB2AE017B5144B"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "73F0A3A9B97E2D58"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:emblem_of_assault" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: 2.5d
+		}
+		{
+			id: "6C5AC0417868823C"
+			rewards: [{
+				id: "1033A4DE0D5241EB"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "518400D041E817DA"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:mana_ring" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.625d
+			y: -0.625d
+		}
+		{
+			id: "110E86F176C9771A"
+			rewards: [{
+				id: "0FFE7A3EA9D0786F"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "0ADC7FAB786BF205"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:archmage_glove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 23.125d
+			y: -7.5d
+		}
+		{
+			id: "039C18291248AC68"
+			rewards: [{
+				id: "5E134A28EB3E6B5F"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7C636AD78DA433B6"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:ring_of_thrift" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 16.25d
+			y: 6.875d
+		}
+		{
+			id: "292A03DD554B450F"
+			rewards: [{
+				id: "61093A38FACFA5F9"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "0559371957546158"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:whirlisprig_petals" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.75d
+			y: 2.5d
+		}
+		{
+			id: "3B89EFF9A9D0D947"
+			rewards: [{
+				id: "5BCED10BB82517BE"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "76655F1C23ACC8DA"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:spiked_cloak" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 23.75d
+			y: 4.375d
+		}
+		{
+			id: "62DBFED2151BE479"
+			rewards: [{
+				id: "26E7929FEF2751F2"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "33E73855091BF3B2"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:horn_of_the_wild_hunter" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 25.625d
+			y: -3.75d
+		}
+		{
+			id: "4BA9E0DF04EE599B"
+			rewards: [{
+				id: "4C14BA535819BCD4"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "186515A3F384DAB0"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:wing_of_the_wild_stalker" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 25.625d
+			y: 0.625d
+		}
+		{
+			id: "2312DAD7180F0646"
+			rewards: [{
+				id: "0D243EB6A453E4EB"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "21018D47BAB5B37A"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:whirling_broom" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 22.5d
+			y: 2.5d
+		}
+		{
+			id: "6324163A626D1DCB"
+			rewards: [{
+				id: "09683FAFF620A44C"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "286167866994092F"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:ballistarian_bracer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.75d
+			y: -7.5d
+		}
+		{
+			id: "157252B1FA7EB29D"
+			rewards: [{
+				id: "0A8BB1FEEA6ED8E3"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "35DCDC1A54A9EDEB"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:ring_of_last_will" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.25d
+			y: -2.5d
+		}
+		{
+			id: "1104ACC0CB2F64A4"
+			rewards: [{
+				id: "5CF4ACFFC3B59BA5"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "44599B89D4776F8A"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:illusionists_mantle" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.875d
+			y: -5.0d
+		}
+		{
+			id: "23D4BBA7B8409FB2"
+			rewards: [{
+				id: "04CF18E2A49584C0"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "379F60BC296717AA"
+				item: { components: { "ftbquests:missing_item": "reliquified_ars_nouveau:architects_staff" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 22.5d
+			y: -6.25d
+		}
+		{
+			id: "729CFA791569453C"
+			rewards: [{
+				id: "4BE416E48C01EBEA"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2555F89DC049C57C"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:parasite_116" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -6.25d
+		}
+		{
+			id: "33FC0F3F4E7DE0B5"
+			rewards: [{
+				id: "23D2CAF8E2417026"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "16FE972D769FB563"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:parasite_115" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.125d
+			y: -5.0d
+		}
+		{
+			id: "78FCC47A60A3C168"
+			rewards: [{
+				id: "76787C26B9DC028A"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "42F9DC027F5357ED"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:firefly_queen" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -4.375d
+		}
+		{
+			id: "0E8CCDBCB1DE2931"
+			rewards: [{
+				id: "5C68A208A559540D"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4F57C1FE552C67D1"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:invisibility_cloak" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 23.125d
+			y: -3.75d
+		}
+		{
+			id: "56A0D5B43B727E25"
+			rewards: [{
+				id: "47C9CA781449A7AA"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "7A3E80145CFC7CF7"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:maple_syrup_bottle" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 19.375d
+			y: -3.125d
+		}
+		{
+			id: "1A07C579E5D3EAC6"
+			rewards: [{
+				id: "4587AEB1EF69C795"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "6E7ABC2F5B241ECA"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:chromatic_cloak" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.625d
+			y: -7.5d
+		}
+		{
+			id: "77C0E505E6A0997B"
+			rewards: [{
+				id: "24F38A5D82EF53BD"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "479DA026D5723BE5"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:giant_glove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.625d
+			y: 1.875d
+		}
+		{
+			id: "7427E602FA97BD81"
+			rewards: [{
+				id: "2094CF6A81AE9BA9"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4644ECEA12760CBA"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:twilight_feather" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.625d
+		}
+		{
+			id: "19EB7B86741DDA2E"
+			rewards: [{
+				id: "4C477EF43D04A41E"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "1BDC7D6AD90E1F76"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:charm_backpack" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.25d
+			y: 4.375d
+		}
+		{
+			id: "47B87F420315AEFF"
+			rewards: [{
+				id: "16D3EB278C724DC1"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2EE68D5790BEEA89"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:thorn_crown" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.75d
+			y: -1.25d
+		}
+		{
+			id: "3DCF417315852BD9"
+			rewards: [{
+				id: "43AA5FC666B5B4D8"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "419D98EDF12EFF5A"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:steel_cape" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 19.375d
+			y: 0.625d
+		}
+		{
+			id: "0F72B9EB3C84C492"
+			rewards: [{
+				id: "156F291F278F64CA"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2AA12459ECC59913"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:cicada_bottle" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 14.375d
+			y: -1.875d
+		}
+		{
+			id: "3E351241FDEC6FD3"
+			rewards: [{
+				id: "41DD65B9542DF03B"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "2F400FE361B67F7C"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:scaled_cloak" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.875d
+			y: 0.625d
+		}
+		{
+			id: "76648829F05E70AE"
+			rewards: [{
+				id: "4BCF4BD7B188C935"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "1FF0299F0729FC03"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:deer_antler" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 19.375d
+			y: 6.25d
+		}
+		{
+			id: "751488A98C3E6581"
+			rewards: [{
+				id: "14DA789D6009DBCF"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "0BA39EF7B2E3938F"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:minotaur_hoof" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 23.75d
+			y: 0.625d
+		}
+		{
+			id: "535423F35B526078"
+			rewards: [{
+				id: "2BC529A47BF21189"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "02E289E19B571105"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:hydra_heart" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.25d
+			y: -0.625d
+		}
+		{
+			id: "1FC00988358A112F"
+			rewards: [{
+				id: "7214B1E0ADC3D122"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "4DC96A2691F7D36A"
+				item: { components: { "ftbquests:missing_item": "reliquified_twilight_forest:lich_crown" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.625d
+		}
+	]
+}

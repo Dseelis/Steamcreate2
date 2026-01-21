@@ -1,0 +1,12 @@
+{
+	id: "69F2857425A670D2"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "5CDC76126D95B123", item: { count: 1, id: "minecraft:wooden_sword" } }
+		{ id: "683B03D6357932B6", item: { count: 1, id: "minecraft:wooden_hoe" } }
+		{ id: "2266089C5A5F6A8B", item: { count: 1, id: "minecraft:wooden_axe" } }
+		{ id: "38AEC27BE9B722C4", item: { count: 1, id: "minecraft:wooden_pickaxe" } }
+		{ id: "114C2BE2A0F50519", item: { count: 1, id: "minecraft:wooden_shovel" } }
+	]
+}
