@@ -1,7 +1,6 @@
 # Steamcreate2 Modpack Custom License  v1.0  (2025-2026)
 **Original Modpack Author:** : Dseelis
 
----
 
 ## 1. Permissions
 
@@ -11,8 +10,6 @@ You are allowed to:
 - Create videos, streams, and other media content related to the modpack,
   including **monetized content** (YouTube, Twitch, etc.)
 
----
-
 ## 2. Modifications and Redistribution
 
 - Redistribution of **modified versions** of the modpack is **strictly prohibited**
@@ -21,8 +18,6 @@ You are allowed to:
 This rule exists to prevent partial changes (e.g. removing several mods)
 from being redistributed as a “new” or “alternative” version of the modpack.
 
----
-
 ## 3. Attribution
 
 When redistribution is permitted, you MUST:
@@ -30,8 +25,6 @@ When redistribution is permitted, you MUST:
 
 Providing a link to the original source is appreciated,
 but not strictly required.
-
----
 
 ## 4. Commercial Use
 
@@ -42,8 +35,6 @@ The following is **NOT allowed** without written permission:
 
 **Monetization of videos or streams featuring the modpack  
 does NOT count as commercial use of the modpack.**
-
----
 
 ## 5 Server Usage
 
@@ -61,8 +52,6 @@ is allowed **ONLY with explicit permission from the author**.
 Failure to provide proper attribution or unauthorized monetization
 voids this permission.
 
----
-
 ## 6. Mods Included in the Modpack
 
 All mods included in this modpack are the property of their
@@ -70,8 +59,6 @@ respective authors and are distributed under their own licenses.
 
 This license applies **only to the modpack as a compiled project**
 and does not override or replace individual mod licenses.
-
----
 
 ## 7. Contact and Permissions
 
