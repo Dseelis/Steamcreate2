@@ -4,10 +4,10 @@
 	all_deaths = false
 	#Show death message for tamed entities.
 	#Default Value: true
-	pet_deaths = true
+	pet_deaths = false
 	#Show death message for named entities.
 	#Default Value: true
-	named_entity_deaths = true
+	named_entity_deaths = false
 	#Show death message for players.
 	#Default Value: true
 	player_deaths = true
