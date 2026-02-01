@@ -1930,7 +1930,7 @@
 			id: "71F64BEB029CCF41"
 			tasks: [{
 				id: "46D9732D5B655D4C"
-				item: { count: 1, id: "steamcore:unfinishedengineeringpress" }
+				item: { count: 1, id: "steamcore:unfinished_silicon_press" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1940,7 +1940,7 @@
 			id: "78265ABF472DEA56"
 			tasks: [{
 				id: "051AEC4D55FD8FDF"
-				item: { count: 1, id: "steamcore:unfinishedsiliconpress" }
+				item: { count: 1, id: "steamcore:unfinished_engineering_press" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1950,7 +1950,7 @@
 			id: "171F26E818941DF5"
 			tasks: [{
 				id: "455E7C76532E4075"
-				item: { count: 1, id: "steamcore:unfinishedlogicpress" }
+				item: { count: 1, id: "steamcore:unfinished_calculation_press" }
 				type: "item"
 			}]
 			x: -4.535714285714285d
@@ -1960,7 +1960,7 @@
 			id: "02992AD52C616EA5"
 			tasks: [{
 				id: "3F614C58EAC114D2"
-				item: { count: 1, id: "steamcore:unfinishedcalculationpress" }
+				item: { count: 1, id: "steamcore:unfinished_logic_press" }
 				type: "item"
 			}]
 			x: -7.392857142857146d

@@ -738,6 +738,7 @@
 		"There is a temperature mechanic in the world that is partially integrated into mods such as Create."
 		"You can lower the difficulty in the settings. "
 	]
+	quest.245FCF3E018D9760.quest_subtitle: "May be deleted in the future"
 	quest.245FCF3E018D9760.title: "Temperature"
 	quest.248343A8203E7CDC.quest_desc: ["Single Headed tools are the most simple tools you can make."]
 	quest.24A4F1AA0BFFE867.title: "Electric blast furnace"
@@ -1093,6 +1094,7 @@
 		""
 		"- Some crops will not grow depending on the time of year"
 	]
+	quest.386C7A1CDF6B1509.quest_subtitle: "May be deleted in the future"
 	quest.386C7A1CDF6B1509.title: "Seasons"
 	quest.38A2EA4D5BB0035B.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.38B08A136E92B917.quest_desc: [
@@ -1355,7 +1357,6 @@
 	]
 	quest.47CEF7F4A5DE9EBF.quest_desc: ["Here are all the basic ways to store your resources and organize your warehouse."]
 	quest.47CEF7F4A5DE9EBF.title: "Storage"
-	quest.47F3CAF52D04CF8D.title: "Parcool Guide"
 	quest.4823F73FBA0274DF.quest_desc: [
 		"To use the zoom you will need a &3spyglass."
 		""
@@ -1398,6 +1399,7 @@
 	quest.4B2D031595A25305.quest_subtitle: "A component used in the creation of an ME Terminal."
 	quest.4B486C7CC66F1745.title: "Netherite-emerald armor"
 	quest.4B5DC574BCA847A5.quest_desc: ["You can increase the difficulty of the world, thereby obtaining better stones that can be inserted into armor and weapons, giving them special properties. To open the world menu, press &5ctrl+t&r."]
+	quest.4B5DC574BCA847A5.quest_subtitle: "May be deleted in the future"
 	quest.4B5DC574BCA847A5.title: "World level &6WIP"
 	quest.4B656D6D4F32D64E.quest_desc: ["Создайте комплект &4брони&r, а также &4лук&r из теневого шёлка и других ресурсов &4забвенных пустот&r."]
 	quest.4BBF987FEF639801.title: "Alloy Kiln"
@@ -1484,11 +1486,12 @@
 		""
 		"- &dApothic Spawners&r allows you to obtain mob eggs and upgrade spawners"
 	]
+	quest.519BAC5CAE362B19.quest_subtitle: "May be deleted in the future"
 	quest.519BAC5CAE362B19.title: "Enchanting and Spawners"
 	quest.51B07F08608F0587.quest_desc: [
 		"By breaking this block, you will receive molds for creating various items from the &5AE2&r mod."
 		""
-		"&cIt may not drop all the necessary molds; instead, it may drop duplicates of molds you already have.&r"
+		""
 	]
 	quest.51F4741C1ABAB3FF.quest_subtitle: "Found upon his throne in &eSavanna &rbiomes"
 	quest.51F7173FC0885F08.quest_desc: ["Works like an exhaust, but holds more and can be stacked on top of each other."]
@@ -1666,8 +1669,6 @@
 	quest.5C3FF43CF16BCF30.quest_desc: ["With Source Gems, you can get started crafting the various machines by creating &5Sourcestones&r."]
 	quest.5C3FF43CF16BCF30.quest_subtitle: "Formerly known as \"Arcane Stones\""
 	quest.5C3FF43CF16BCF30.title: "Sourcestones"
-	quest.5C51BCB4313FF946.quest_desc: ["&zWaystones&r are used for fast travel in modpack. Their crafting recipe has been &4changed.&r"]
-	quest.5C51BCB4313FF946.title: "Fast Travel"
 	quest.5C593430DA232A34.quest_desc: ["Одолейте древнюю &7самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &7бестиарии&r."]
 	quest.5C593430DA232A34.quest_subtitle: "&7Серебряное"
 	quest.5C78BBC3403DFB6F.quest_subtitle: "This Binding Card will allow wireless charging across dimensions, but must use a binding card on an Enderman to work."
@@ -1700,12 +1701,6 @@
 		""
 	]
 	quest.5CFE6E363FC52BDD.quest_subtitle: "Most Advanced Processor."
-	quest.5D4225060460C74E.quest_desc: [
-		"&2Parcool&r is a mod that can be removed in future, but for now it is present and allows you to perform many different movements, from fast running, dashing, climbing ropes, and more.  "
-		""
-		"&5I recommend reading the guide in the book&r. "
-	]
-	quest.5D4225060460C74E.title: "Parkour"
 	quest.5D6271AF25237B2E.title: "Millitary Upgades"
 	quest.5D77F808FB789F64.quest_desc: ["Создайте &dволшебную палочку пикси&r."]
 	quest.5D82F035B9D23B6E.title: "Time to sleep"
@@ -1956,11 +1951,7 @@
 	quest.6D0EB1A5C4C4A913.title: "Адский завтрак"
 	quest.6D17293BBEDF3958.quest_subtitle: "A component used to create an ME Terminal."
 	quest.6D179594F4C5F517.quest_subtitle: "Find a gilding scroll in a nether fortress"
-	quest.6D231D21FE4502B0.quest_desc: [
-		"RU - После зелья покорми его этим яблоком! Не теряй время, зелье не будет действовать вечно!"
-		""
-		"EN - After the potion, feed him with this apple! Don't waste your time, the potion won't last forever!"
-	]
+	quest.6D231D21FE4502B0.quest_desc: [" After the potion, feed him with this apple! Don't waste your time, the potion won't last forever!"]
 	quest.6D86B78C1DA0BB65.quest_desc: ["Когда-то драконов в мире было намного больше, но рыцари-драконоборцы очень сильно сократили их популяцию. Теперь найти настоящего древнего дракона - большая редкость. Эта тяжёлая древняя броня,, принадлежавшая когда-то одному из сильнейших драконоборцев, впитала в себя силу поверженных драконов. Обеспечивает огромную защиту против драконов."]
 	quest.6D86B78C1DA0BB65.title: "Шлем драконоборца"
 	quest.6DA736BAF10D92E2.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]

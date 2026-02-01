@@ -611,8 +611,8 @@
 				item: { count: 1, id: "immersive_aircraft:bamboo_hopper" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 8.0d
+			x: -2.0d
+			y: 7.0d
 		}
 		{
 			id: "36535299A357ACC6"
@@ -623,6 +623,28 @@
 			}]
 			x: -2.0d
 			y: 4.0d
+		}
+		{
+			dependencies: ["74453E3420E1AD73"]
+			id: "32873F601E2B1706"
+			tasks: [{
+				id: "3BA4ACDB47BF8A07"
+				item: { count: 1, id: "man_of_many_planes:economy_plane" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["32873F601E2B1706"]
+			id: "68DB13B848A61825"
+			tasks: [{
+				id: "4C9BDE6D53732A64"
+				item: { count: 1, id: "man_of_many_planes:scarlet_biplane" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
 		}
 	]
 }

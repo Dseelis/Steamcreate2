@@ -555,17 +555,6 @@
 		}
 		{
 			id: "38C09CF7914BEE30"
-			rewards: [{
-				id: "36ADBB6B6002B69C"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "03BBDE7F498EA734"
@@ -577,17 +566,6 @@
 		}
 		{
 			id: "047ACE4F6C1560F0"
-			rewards: [{
-				id: "49E87057F15759B9"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "49FD7EBD2F252C09"
@@ -599,17 +577,6 @@
 		}
 		{
 			id: "498D22534A947B79"
-			rewards: [{
-				id: "2C105732C749E77A"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "6030ACF39D2AE60F"
@@ -621,17 +588,6 @@
 		}
 		{
 			id: "41C643E334BA412E"
-			rewards: [{
-				id: "4BF1C08EEF8D1191"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "07551255E03F8720"
@@ -643,17 +599,6 @@
 		}
 		{
 			id: "79B7F2CF9843FFCB"
-			rewards: [{
-				id: "0489CEFD7C24D096"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "3F8715E27985B8D4"
@@ -665,17 +610,6 @@
 		}
 		{
 			id: "473610BEA4E1765D"
-			rewards: [{
-				id: "6E54EFB7B95866E5"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4BC19283BBBB6725"
@@ -687,17 +621,6 @@
 		}
 		{
 			id: "4D54723C26FB8C44"
-			rewards: [{
-				id: "3E3A8177CD44370B"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "27973190F35E7A37"
@@ -710,17 +633,6 @@
 		{
 			id: "5B2ECDE4D4FF3D8D"
 			progression_mode: "flexible"
-			rewards: [{
-				id: "4BF11700E35278B9"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4B7EDC6777C37671"
@@ -733,17 +645,6 @@
 		{
 			id: "509760809535E55E"
 			progression_mode: "flexible"
-			rewards: [{
-				id: "59D101B1AE99A085"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2192A51B50E6D55A"
@@ -756,17 +657,6 @@
 		{
 			id: "1B876E65905AE114"
 			progression_mode: "flexible"
-			rewards: [{
-				id: "51CC91D19E89E084"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "5F06D21207C52E7F"
@@ -779,17 +669,6 @@
 		{
 			id: "7DDA573B83BD4B2D"
 			progression_mode: "flexible"
-			rewards: [{
-				id: "75C78C022C18AEBB"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2C4615E77E17AB5C"
@@ -801,17 +680,6 @@
 		}
 		{
 			id: "1A1A29A846DABADB"
-			rewards: [{
-				id: "4BC88A230CCF33B9"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "1403EF56C46F4E81"
@@ -838,11 +706,6 @@
 			]
 			hide_dependency_lines: true
 			id: "3D6259FBCAA99583"
-			rewards: [{
-				id: "620A0DB3D8E30D97"
-				type: "xp"
-				xp: 50
-			}]
 			size: 3.0d
 			tasks: [{
 				dimension: "minecraft:the_end"
@@ -855,28 +718,14 @@
 		{
 			dependencies: ["4300E87679E7D662"]
 			id: "07655CF543C452F8"
-			rewards: [
-				{
-					id: "0354D96FC9B509BC"
-					item: {
-						count: 1
-						id: "create_sa:heap_of_experience"
-					}
-					type: "item"
+			rewards: [{
+				id: "0354D96FC9B509BC"
+				item: {
+					count: 1
+					id: "create_sa:heap_of_experience"
 				}
-				{
-					count: 3
-					id: "44EA99BDE4A6C0C3"
-					item: {
-						components: {
-							"ftbquests:missing_item": "magic_coins:silver_coin"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				advancement: "minecraft:end/dragon_breath"
 				criterion: ""
@@ -889,25 +738,11 @@
 		{
 			dependencies: ["2C2B04EB1BB3A272"]
 			id: "7C185DB8566F7E33"
-			rewards: [
-				{
-					id: "214C7068BF2A23E7"
-					type: "xp"
-					xp: 100
-				}
-				{
-					count: 3
-					id: "7F33BFF7FD7C7785"
-					item: {
-						components: {
-							"ftbquests:missing_item": "magic_coins:silver_coin"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "214C7068BF2A23E7"
+				type: "xp"
+				xp: 100
+			}]
 			shape: "circle"
 			size: 1.0d
 			tasks: [{

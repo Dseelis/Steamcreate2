@@ -1,3 +1,16 @@
+# [2.0.5b] - 01-02-2026
+Modrinth release (modpack under review)
+- Changes to quests
+- Mods updated
+- Parcool, JEI, ETF and ETM, Euphoria Patches, Burnt removed
+- Crawl, Man of many planes, Entity culling, TMRV, Burnt basics added
+- NeoForge updated to 21.1.219
+
+# [2.0.4b] - 21-01-2026
+- Now the main menu shows your current version of the modpack. 
+- Minor fixes.
+- Unused mods have been removed.
+
 # [2.0.3b] - 20-01-2026
 - Minor fixes
 - Changes to ME system quest progression
