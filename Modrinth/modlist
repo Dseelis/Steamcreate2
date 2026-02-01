@@ -15,7 +15,6 @@ Applied Energistics 2
 AppliedFlux
 Architectury
 Athena
-Atlas API
 Balm
 Better Advancements
 Better Combat
@@ -54,7 +53,6 @@ Create: Steam 'n' Rails 1.21.1
 Create: The Factory Must Grow
 CreativeCore
 Cryonic Config
-Cupboard mod
 Curios API
 Default Options
 Detected SetBlock Be Gone
@@ -68,18 +66,9 @@ Easy Disenchanting
 Eating Animation
 End Remastered
 EntityCulling
-Euphoria Patcher
 ExtendedAE
-FTB Chunks
-FTB Chunks x Xaero's Map Compat
-FTB Filter System
-FTB Library
-FTB Quests
-FTB Teams
-FTB XMod Compat
 Factory Blocks
 FancyMenu
-Farsight mod
 Fast Suite
 Ferrite Core
 Fragmentum
@@ -87,7 +76,6 @@ Fzzy Config
 GeckoLib 4
 GlitchCore
 Glodium
-Gpu memory leak fix
 GroovyModLoader
 GuideME
 HT's TreeChop
@@ -98,13 +86,10 @@ ImmediatelyFast
 Immersive Aircraft
 Immersive Lanterns
 Iris
-Iron's Gems 'n Jewelry
 ItemPhysicLite
 Jade
-Just Enough Items
 Kiwi Library
 Konkrete
-Kotlin for Forge
 L_Ender's Cataclysm 1.21.1
 Let Me Despawn
 Library ferret
@@ -159,6 +144,7 @@ Steamcore
 Storage Drawers
 TerraBlender
 Terralith
+TooManyRecipeViewers
 TxniLib
 UniLib
 VanillaBackport
@@ -185,5 +171,6 @@ You're in Grave Danger
 [Let's Do] Vinery
 create: things and misc
 e4mc
+kotlinforforge-5.11.0-all
 lionfishapi
 oωo
