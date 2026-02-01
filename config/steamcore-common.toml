@@ -1,0 +1,2 @@
+#Show intro messages when entering the world for the first time
+showIntroMessages = false

@@ -34,7 +34,7 @@
 			y: -28.535714285714278d
 		}
 	]
-	order_index: 4
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -171,48 +171,6 @@
 			y: -22.0d
 		}
 		{
-			dependencies: ["2D8EB2902477E0E0"]
-			icon: {
-				id: "minecraft:grass_block"
-			}
-			id: "5D4225060460C74E"
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [{
-				id: "458104B02A3023D0"
-				type: "checkmark"
-			}]
-			x: 2.0d
-			y: -21.5357142857143d
-		}
-		{
-			can_repeat: true
-			icon: {
-				components: {
-					"patchouli:book": "parcool:parcool_guide"
-				}
-				id: "patchouli:guide_book"
-			}
-			id: "47F3CAF52D04CF8D"
-			rewards: [{
-				id: "40D83DE574437E6B"
-				item: {
-					components: {
-						"patchouli:book": "parcool:parcool_guide"
-					}
-					count: 1
-					id: "patchouli:guide_book"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "27005AC3F2E038DF"
-				type: "checkmark"
-			}]
-			x: 0.5d
-			y: -18.5d
-		}
-		{
 			can_repeat: true
 			icon: {
 				id: "ftbquests:book"
@@ -230,8 +188,8 @@
 				id: "7F0C3CE5FAD7C1A1"
 				type: "checkmark"
 			}]
-			x: 3.5d
-			y: -18.5d
+			x: 3.0d
+			y: -19.0d
 		}
 		{
 			dependencies: ["2D8EB2902477E0E0"]
@@ -296,8 +254,8 @@
 				id: "11D7E9473966533F"
 				type: "checkmark"
 			}]
-			x: 2.0d
-			y: -18.5d
+			x: 1.0d
+			y: -19.0d
 		}
 		{
 			dependencies: ["519BAC5CAE362B19"]
@@ -323,21 +281,6 @@
 			y: -21.0d
 		}
 		{
-			dependencies: ["2D8EB2902477E0E0"]
-			icon: {
-				id: "waystones:waystone"
-			}
-			id: "5C51BCB4313FF946"
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [{
-				id: "17FAEC4ADA7E5C69"
-				type: "checkmark"
-			}]
-			x: 2.0d
-			y: -19.89285714285714d
-		}
-		{
 			can_repeat: true
 			icon: {
 				id: "ae2:guide"
@@ -355,8 +298,8 @@
 				id: "7690F19984AEEF7F"
 				type: "checkmark"
 			}]
-			x: 2.5d
-			y: -17.5d
+			x: 2.0d
+			y: -19.0d
 		}
 		{
 			can_repeat: true
@@ -382,8 +325,8 @@
 				id: "3E31C353ACCA5A20"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: -17.5d
+			x: 2.0d
+			y: -20.0d
 		}
 		{
 			dependencies: ["2D8EB2902477E0E0"]

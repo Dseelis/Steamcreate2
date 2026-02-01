@@ -1,7 +1,7 @@
 version:3955
 ao:true
 biomeBlendRadius:2
-enableVsync:false
+enableVsync:true
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -16,7 +16,7 @@ fullscreen:true
 gamma:1.0
 graphicsMode:0
 guiScale:3
-maxFps:120
+maxFps:60
 mipmapLevels:4
 narrator:0
 particles:0
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","generated/fragmentum_layer","file/waystones_1.21.1.zip","file/Fancy Crops v1.3.zip","file/SBMC-1.20.1-3.4.1.zip","file/Stoneborn-1.20.2-1.21.5-V3.2.4.zip","file/Farcr\u0027s Re-Crafted V2.23.zip","file/EP tweak.zip"]
-incompatibleResourcePacks:["file/Create Simple Storage 2.1.zip","file/SBMC-1.20.1-3.4.1.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","generated/fragmentum_layer","file/SBMC-1.20.1-3.4.1.zip","file/Stoneborn-1.20.2-1.21.5-V3.2.4.zip","file/Farcr\u0027s Re-Crafted V2.23.zip","file/EP tweak.zip"]
+incompatibleResourcePacks:["file/SBMC-1.20.1-3.4.1.zip"]
 lastServer:53431
 lang:en_us
 chatVisibility:0
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0

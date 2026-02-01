@@ -178,38 +178,6 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["40EEB0207CDFD670"]
-			id: "52CD60BB56B17A39"
-			tasks: [{
-				id: "4EAD993365D7C9A0"
-				item: { count: 1, id: "create_hypertube:hypertube_entrance" }
-				type: "item"
-			}]
-			x: 10.0d
-			y: -7.5d
-		}
-		{
-			dependencies: ["52CD60BB56B17A39"]
-			id: "74C84002EB8E230E"
-			rewards: [{
-				count: 4
-				id: "2F40533B92209FF8"
-				item: {
-					count: 1
-					id: "create_hypertube:hypertube"
-				}
-				random_bonus: 16
-				type: "item"
-			}]
-			tasks: [{
-				id: "34941D2B046AC4A1"
-				item: { count: 1, id: "create_hypertube:hypertube" }
-				type: "item"
-			}]
-			x: 11.0d
-			y: -7.0d
-		}
-		{
 			dependencies: ["68445BB069625244"]
 			id: "40EEB0207CDFD670"
 			rewards: [
