@@ -22,7 +22,6 @@ Better Combat
 Better ModList
 Better Third Person
 Better village
-Blur+
 Bridging Mod
 Burnt 1.8
 Carry On
@@ -38,11 +37,11 @@ Configured
 CorgiLib
 CraftPresence
 Crash Assistant
+Crawl on Demand
 Create
 Create Deco
 Create Encased
 Create Factory Logistics
-Create Hypertube
 Create Stuff & Additions
 Create: Applied Kinetics
 Create: Bells & Whistles
@@ -53,13 +52,12 @@ Create: Escalated
 Create: Jetpack Curios
 Create: Steam 'n' Rails 1.21.1
 Create: The Factory Must Grow
-Create: Waystones Recipes
 CreativeCore
 Cryonic Config
 Cupboard mod
 Curios API
-Death Finder
 Default Options
+Detected SetBlock Be Gone
 Distraction Free Recipes (EMI)
 Drippy Loading Screen
 Dungeons and Taverns
@@ -69,8 +67,7 @@ EMI Loot
 Easy Disenchanting
 Eating Animation
 End Remastered
-Entity Model Features
-Entity Texture Features
+EntityCulling
 Euphoria Patcher
 ExtendedAE
 FTB Chunks
@@ -121,6 +118,7 @@ Macaw's Holidays
 Macaw's Paths and Pavings
 Macaw's Roofs
 Macaw's Windows
+Man of Many Planes
 Measurements
 Melody
 MidnightLib
@@ -129,15 +127,13 @@ Mouse Tweaks
 Obscure Tooltips
 Oh The Biomes We've Gone
 Oh The Trees You'll Grow
-ParCool!
+Particle Core
 Passable Foliage
 Patchouli
-Ping Wheel
 Placebo
 Platform
 Player Animator
 PlayerRevive
-PrickleMC
 Puzzles Lib
 Realm RPG: Fallen Adventurers
 Redirected
@@ -153,7 +149,6 @@ Sodium Dynamic Lights
 Sodium Extras
 Sodium Leaf Culling
 Sodium Options API
-Sodium Options Mod Compat
 Sophisticated Backpacks
 Sophisticated Backpacks Create Integration
 Sophisticated Core
@@ -162,7 +157,6 @@ Sounds
 Spyglass Improvements
 Steamcore
 Storage Drawers
-Subtle Effects
 TerraBlender
 Terralith
 TxniLib
@@ -170,9 +164,6 @@ UniLib
 VanillaBackport
 Visual Workbench
 Waves
-Waystones
-Xaero Train Map
-Xaero's Maps x Waystones
 Xaero's Minimap
 Xaero's World Map
 YUNG's API
@@ -194,7 +185,5 @@ You're in Grave Danger
 [Let's Do] Vinery
 create: things and misc
 e4mc
-fastasyncworldsave mod
-leaky mod
 lionfishapi
 oωo
