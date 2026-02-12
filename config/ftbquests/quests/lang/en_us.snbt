@@ -1215,7 +1215,7 @@
 	quest.3EDD50F03E605456.quest_desc: [
 		"Expensive, yet needed."
 		""
-		"So have some on the house. :)"
+		""
 	]
 	quest.3EEDC2C14BD73F44.quest_desc: ["Оружие, основанное на явлении радиоактивности."]
 	quest.3EEDC2C14BD73F44.title: "Ядерная мощь"
@@ -1888,9 +1888,9 @@
 	]
 	quest.6A1C0B17B22CE50F.title: "The Amulets"
 	quest.6A26F923739785B5.quest_desc: [
-		"Press a Steel Ingot 3x"
 		""
-		"Yes, it does clog up, so I advise you automate it if possible. TFMG uses a LOT of steel."
+		""
+		""
 	]
 	quest.6A723769F45D3B57.quest_desc: [
 		"Pump crude oil out from the pumpjack base by connecting it with pipes. The crude oil needs to be pumped into the Steel Distillation Controller, not the tank itself. "
