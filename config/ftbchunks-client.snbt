@@ -138,27 +138,27 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:turtle": true
-			"minecraft:bee": true
-			"minecraft:armadillo": true
-			"minecraft:chicken": true
-			"minecraft:witch": true
-			"minecraft:rabbit": true
-			"minecraft:glow_squid": true
-			"minecraft:pig": true
-			"minecraft:cow": true
+			"minecraft:enderman": true
 			"minecraft:skeleton": true
 			"minecraft:pufferfish": false
+			"minecraft:bee": true
+			"minecraft:chicken": true
+			"minecraft:drowned": true
+			"minecraft:zombie_villager": true
+			"minecraft:turtle": true
 			"minecraft:bat": true
 			"minecraft:spider": true
 			"minecraft:sheep": true
-			"minecraft:axolotl": true
-			"minecraft:creeper": true
-			"minecraft:tropical_fish": false
-			"minecraft:drowned": true
 			"minecraft:squid": true
-			"minecraft:zombie_villager": true
-			"minecraft:enderman": true
+			"minecraft:armadillo": true
+			"minecraft:axolotl": true
+			"minecraft:witch": true
+			"minecraft:cow": true
+			"minecraft:rabbit": true
+			"minecraft:pig": true
+			"minecraft:tropical_fish": false
+			"minecraft:creeper": true
+			"minecraft:glow_squid": true
 			"minecraft:zombie": true
 		}
 		
