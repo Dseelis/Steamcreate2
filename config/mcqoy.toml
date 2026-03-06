@@ -25,27 +25,27 @@ galaxiesLikeThis = 3000000000000
 	# all(matches r'#[0-9A-Fa-f]{6}')
 	[uniform.divisionUniforms]
 		Command = "#CAA354"
-		Operations = "#B20000"
 		Sciences = "#003366"
 		Medical = "#4B9ECF"
+		Operations = "#B20000"
 
 # "Damn it, man!"
 [professions]
-	doctor = true
-	"moon shuttle conductor" = false
-	"flesh peddler" = false
-	bricklayer = false
-	surgeon = true
-	psychiatrist = false
-	scientist = false
-	physicist = false
-	escalator = false
-	mechanic = false
-	engineer = false
-	magician = false
 	"old country doctor" = true
-	"coal miner" = false
+	bricklayer = false
 	"torpedo technician" = false
+	escalator = false
+	"coal miner" = false
+	scientist = false
+	surgeon = true
+	mechanic = false
+	"flesh peddler" = false
+	engineer = false
+	physicist = false
+	doctor = true
+	psychiatrist = false
+	"moon shuttle conductor" = false
+	magician = false
 
 # F-
 [curses]
