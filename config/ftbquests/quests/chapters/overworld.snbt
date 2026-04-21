@@ -11,7 +11,7 @@
 	images: [
 		{
 			height: 6.0d
-			image: "biomeswevegone:block/ironwood/crafting_table_top"
+			image: "irons_jewelry:textures/gui/sprites/jewelcrafting_station/input_slot.png"
 			rotation: 0.0d
 			width: 6.0d
 			x: 0.0d

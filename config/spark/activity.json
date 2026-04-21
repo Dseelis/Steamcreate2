@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Dseelis",
+      "uniqueId": "ac214e37-883b-46b7-a8cf-a2ac7677ba24"
+    },
+    "time": 1772821155822,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1J2uHwM0tR"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dseelis",
+      "uniqueId": "ac214e37-883b-46b7-a8cf-a2ac7677ba24"
+    },
+    "time": 1772820834953,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/08DQbsdrGK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dseelis",
+      "uniqueId": "ac214e37-883b-46b7-a8cf-a2ac7677ba24"
+    },
+    "time": 1772820508509,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zn4eKL0py6"
+    }
+  }
+]

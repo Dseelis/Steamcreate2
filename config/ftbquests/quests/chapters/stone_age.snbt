@@ -352,11 +352,9 @@
 			dependencies: ["2350FBB7FBE59199"]
 			icon: {
 				components: {
-					"cold_sweat:armor_insulation": {
-						insulation: [ ]
-					}
+					"ftbquests:missing_item": "create:cardboard_helmet"
 				}
-				id: "create:cardboard_helmet"
+				id: "ftbquests:missing_item"
 			}
 			id: "3DC2E82860976E05"
 			rewards: [{

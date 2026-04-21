@@ -203,11 +203,9 @@
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
 				components: {
-					"cold_sweat:armor_insulation": {
-						insulation: [ ]
-					}
+					"ftbquests:missing_item": "advancednetherite:netherite_iron_helmet"
 				}
-				id: "advancednetherite:netherite_iron_helmet"
+				id: "ftbquests:missing_item"
 			}
 			id: "2230589E0FCA8FDD"
 			rewards: [{
@@ -222,22 +220,22 @@
 			tasks: [
 				{
 					id: "588D7B847C13478C"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_helmet" }
+					item: { count: 1, id: "advancednetherite:netherite_iron_helmet" }
 					type: "item"
 				}
 				{
 					id: "1D010C11F3CDCDBE"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_chestplate" }
+					item: { count: 1, id: "advancednetherite:netherite_iron_chestplate" }
 					type: "item"
 				}
 				{
 					id: "0BE424ECE95F6693"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_leggings" }
+					item: { count: 1, id: "advancednetherite:netherite_iron_leggings" }
 					type: "item"
 				}
 				{
 					id: "1728B7394742A1ED"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_iron_boots" }
+					item: { count: 1, id: "advancednetherite:netherite_iron_boots" }
 					type: "item"
 				}
 			]
@@ -248,11 +246,9 @@
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
 				components: {
-					"cold_sweat:armor_insulation": {
-						insulation: [ ]
-					}
+					"ftbquests:missing_item": "advancednetherite:netherite_gold_helmet"
 				}
-				id: "advancednetherite:netherite_gold_helmet"
+				id: "ftbquests:missing_item"
 			}
 			id: "61D2494A05ED6BFE"
 			rewards: [{
@@ -267,22 +263,22 @@
 			tasks: [
 				{
 					id: "01733E64C2608118"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_helmet" }
+					item: { count: 1, id: "advancednetherite:netherite_gold_helmet" }
 					type: "item"
 				}
 				{
 					id: "5883C28DF6B9939D"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_chestplate" }
+					item: { count: 1, id: "advancednetherite:netherite_gold_chestplate" }
 					type: "item"
 				}
 				{
 					id: "2980DFDDF9FC4084"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_leggings" }
+					item: { count: 1, id: "advancednetherite:netherite_gold_leggings" }
 					type: "item"
 				}
 				{
 					id: "15945314CC1768F5"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_gold_boots" }
+					item: { count: 1, id: "advancednetherite:netherite_gold_boots" }
 					type: "item"
 				}
 			]
@@ -293,11 +289,9 @@
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
 				components: {
-					"cold_sweat:armor_insulation": {
-						insulation: [ ]
-					}
+					"ftbquests:missing_item": "advancednetherite:netherite_emerald_helmet"
 				}
-				id: "advancednetherite:netherite_emerald_helmet"
+				id: "ftbquests:missing_item"
 			}
 			id: "6863855483D18530"
 			rewards: [{
@@ -312,22 +306,22 @@
 			tasks: [
 				{
 					id: "5413CD3141604F0C"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_helmet" }
+					item: { count: 1, id: "advancednetherite:netherite_emerald_helmet" }
 					type: "item"
 				}
 				{
 					id: "5E1A84E378469E93"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_chestplate" }
+					item: { count: 1, id: "advancednetherite:netherite_emerald_chestplate" }
 					type: "item"
 				}
 				{
 					id: "6DE4CB12145A8FDD"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_leggings" }
+					item: { count: 1, id: "advancednetherite:netherite_emerald_leggings" }
 					type: "item"
 				}
 				{
 					id: "7F5C46FE62609C6D"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_emerald_boots" }
+					item: { count: 1, id: "advancednetherite:netherite_emerald_boots" }
 					type: "item"
 				}
 			]
@@ -338,11 +332,9 @@
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
 				components: {
-					"cold_sweat:armor_insulation": {
-						insulation: [ ]
-					}
+					"ftbquests:missing_item": "advancednetherite:netherite_diamond_helmet"
 				}
-				id: "advancednetherite:netherite_diamond_helmet"
+				id: "ftbquests:missing_item"
 			}
 			id: "65333CAC62E70C32"
 			rewards: [{
@@ -357,22 +349,22 @@
 			tasks: [
 				{
 					id: "783652DB7CF1492B"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_helmet" }
+					item: { count: 1, id: "advancednetherite:netherite_diamond_helmet" }
 					type: "item"
 				}
 				{
 					id: "3D89998C43056FCA"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_chestplate" }
+					item: { count: 1, id: "advancednetherite:netherite_diamond_chestplate" }
 					type: "item"
 				}
 				{
 					id: "5D3A993FA4912BFA"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_leggings" }
+					item: { count: 1, id: "advancednetherite:netherite_diamond_leggings" }
 					type: "item"
 				}
 				{
 					id: "538DC997AAF986A4"
-					item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "advancednetherite:netherite_diamond_boots" }
+					item: { count: 1, id: "advancednetherite:netherite_diamond_boots" }
 					type: "item"
 				}
 			]

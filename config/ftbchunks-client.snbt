@@ -55,6 +55,11 @@
 		# Default: false
 		chunk_grid: false
 		
+		# Claim mode for the chunk claiming screen
+		# Default: "freehand"
+		# Valid values: "freehand", "rectangle", "circle"
+		claim_mode: "freehand"
+		
 		# Show claimed chunks on the map
 		# Default: true
 		claimed_chunks_on_map: true
@@ -133,28 +138,28 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie_villager": true
-			"minecraft:pig": true
-			"minecraft:creeper": true
-			"minecraft:drowned": true
-			"minecraft:witch": true
-			"minecraft:bee": true
-			"minecraft:pufferfish": false
-			"minecraft:skeleton": true
-			"minecraft:spider": true
-			"minecraft:axolotl": true
-			"minecraft:chicken": true
-			"minecraft:zombie": true
-			"minecraft:enderman": true
 			"minecraft:tropical_fish": false
 			"minecraft:bat": true
-			"minecraft:squid": true
-			"minecraft:cow": true
 			"minecraft:turtle": true
-			"minecraft:sheep": true
-			"minecraft:rabbit": true
-			"minecraft:glow_squid": true
 			"minecraft:armadillo": true
+			"minecraft:pufferfish": false
+			"minecraft:creeper": true
+			"minecraft:witch": true
+			"minecraft:bee": true
+			"minecraft:glow_squid": true
+			"minecraft:rabbit": true
+			"minecraft:pig": true
+			"minecraft:chicken": true
+			"minecraft:axolotl": true
+			"minecraft:zombie": true
+			"minecraft:enderman": true
+			"minecraft:cow": true
+			"minecraft:drowned": true
+			"minecraft:sheep": true
+			"minecraft:spider": true
+			"minecraft:skeleton": true
+			"minecraft:squid": true
+			"minecraft:zombie_villager": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

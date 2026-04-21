@@ -1,2 +1,21 @@
-#Show intro messages when entering the world for the first time
-showIntroMessages = false
+[general]
+	#Show intro messages when entering the world
+	showIntroMessages = false
+	#Enable abyss teleport system
+	enableAbyss = false
+	#Enable Gamma Ignite item usage
+	enableGammaIgnite = false
+	#Y level where teleport triggers
+	# Default: -62
+	# Range: -256 ~ 0
+	abyssHeight = -62
+	#Damage dealt before teleport
+	# Default: 4
+	# Range: 0 ~ 40
+	abyssDamage = 4
+	#Allow Nether portals
+	enablePortals = true
+
+[debug]
+	#Enable /steamdebug
+	enableSteamDebugCommand = false

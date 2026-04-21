@@ -75,6 +75,8 @@ globalExecutorParallelism = "default"
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with biolith@3.0.10 (*) (defined in c2me) 
 	useEndBiomeCache = "default"
 	# (Default: true) Whether to enable StructureWeightSampler optimizations to accelerate world generation
 	# 

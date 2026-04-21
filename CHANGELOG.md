@@ -1,3 +1,11 @@
+# [2.1.0b] - 21-04-2026
+- modrith release it will happen, but I can't say when yet.
+- deleted cold sweat, serene seasons and other 
+- added create aeronautics and other addons and mods such as relics (may be deleted in future)
+- quest updates
+- ru translate for for some mods
+- QoL
+
 # [2.0.5b] - 01-02-2026
 Modrinth release (modpack under review)
 - Changes to quests
