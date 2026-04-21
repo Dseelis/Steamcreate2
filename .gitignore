@@ -6,6 +6,7 @@
 # Dev
 .vscode
 .vs
+.idea
 # Client data
 .png
 icon.png

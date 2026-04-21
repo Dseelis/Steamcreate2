@@ -30,9 +30,6 @@
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
 	flywheelSpeedMultiplier = 0.5
-	#.
-	#Don't show the Create: Blocks & Bogies incompatibility warning on the title screen
-	hideBlocksAndBogiesIncompatibilityWarning = true
 
 	#.
 	#Smoke Settings

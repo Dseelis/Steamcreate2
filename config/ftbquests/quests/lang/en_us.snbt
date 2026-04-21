@@ -665,6 +665,11 @@
 		"Molecular assemblers are smart enough to automatically return the cooking result to the same template supplier that provided the ingredients."
 	]
 	quest.20AD73B935309188.quest_subtitle: "Recipes should be coded into templates so that they can be used when creating processors."
+	quest.20CE45C10A58D357.quest_desc: [
+		"Don't think that's all—the “Create Aeronautics” mod has been added to the build, allowing you to build your own vehicles, structures, airplanes, and more."
+		""
+		"Currently, it works fairly well with “Create Big Cannons,” but it &4can cause the game to crash.&r"
+	]
 	quest.20CE45C10A58D357.title: "Transport"
 	quest.20D6B44932002AC1.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
 	quest.20E373424804CEDF.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
@@ -735,11 +740,11 @@
 	quest.24535DA01189CC75.quest_subtitle: "One of the most expensive drills to create, but it is useful for digging up iridium and uranium ores."
 	quest.245946FF40FEFEE2.quest_desc: ["The Axe head allows you to chop tree logs and strip them just like vanilla axes."]
 	quest.245FCF3E018D9760.quest_desc: [
-		"There is a temperature mechanic in the world that is partially integrated into mods such as Create."
+		"In last update we added many artifacts They can make it easier to beat bosses—even if they're optional &0(for now)&r and simply make the gameplay more enjoyable"
 		"You can lower the difficulty in the settings. "
 	]
 	quest.245FCF3E018D9760.quest_subtitle: "May be deleted in the future"
-	quest.245FCF3E018D9760.title: "Temperature"
+	quest.245FCF3E018D9760.title: "Relics"
 	quest.248343A8203E7CDC.quest_desc: ["Single Headed tools are the most simple tools you can make."]
 	quest.24A4F1AA0BFFE867.title: "Electric blast furnace"
 	quest.254982C1D77959B4.quest_desc: [
@@ -1087,15 +1092,6 @@
 	quest.385079198388468C.quest_subtitle: "Such a piece of equipment is surely gonna be important for our uses! It feels like we're doing blacksmith work!"
 	quest.385079198388468C.title: "Are we Blacksmiths?"
 	quest.386BB0A6D8D16F8D.quest_subtitle: "Used in the creation of Calculation Processors in an Inscriber."
-	quest.386C7A1CDF6B1509.quest_desc: [
-		"Mechanics of changing seasons with &2serene seasons&r mod"
-		""
-		"- Different temperature conditions depending on the time of year"
-		""
-		"- Some crops will not grow depending on the time of year"
-	]
-	quest.386C7A1CDF6B1509.quest_subtitle: "May be deleted in the future"
-	quest.386C7A1CDF6B1509.title: "Seasons"
 	quest.38A2EA4D5BB0035B.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.38B08A136E92B917.quest_desc: [
 		"When this treatise is near a workbench any major module made of skin (leather) will do extra damage and have better efficiency."
@@ -1701,7 +1697,6 @@
 		""
 	]
 	quest.5CFE6E363FC52BDD.quest_subtitle: "Most Advanced Processor."
-	quest.5D6271AF25237B2E.title: "Millitary Upgades"
 	quest.5D77F808FB789F64.quest_desc: ["Создайте &dволшебную палочку пикси&r."]
 	quest.5D82F035B9D23B6E.title: "Time to sleep"
 	quest.5D87088E8D71DB9B.title: "Energy Crystal"
@@ -1812,7 +1807,6 @@
 	quest.6615AB6958CDE71C.quest_desc: ["Порции фаршированного хоглина."]
 	quest.6615AB6958CDE71C.title: "Нарезанный хоглин"
 	quest.6656A5E5D8FDABE9.title: "Netherite-diamond armor"
-	quest.669470AF4A543CB7.title: "Upgrades"
 	quest.66C4F35670A11042.quest_desc: ["Сахарный диабет передёт привет."]
 	quest.66C4F35670A11042.title: "Тортики"
 	quest.66D26625F2F9CB42.quest_desc: [

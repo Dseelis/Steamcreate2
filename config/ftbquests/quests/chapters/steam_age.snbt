@@ -1243,7 +1243,7 @@
 			id: "4DFEFB53116BB627"
 			tasks: [{
 				id: "2B7EDA84FE25C0D0"
-				item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "create_sa:copper_jetpack_chestplate" }
+				item: { count: 1, id: "create_sa:copper_jetpack_chestplate" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -1254,7 +1254,7 @@
 			id: "36E6240E46C61F59"
 			tasks: [{
 				id: "408C0AE1E5C8E0EE"
-				item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "create_sa:andesite_jetpack_chestplate" }
+				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -1265,7 +1265,7 @@
 			id: "5C8220ACCDA2B935"
 			tasks: [{
 				id: "084407E3FB7AAA14"
-				item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "create_sa:brass_jetpack_chestplate" }
+				item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
 				type: "item"
 			}]
 			x: 3.5d
@@ -1276,7 +1276,7 @@
 			id: "73F397690D433C3C"
 			tasks: [{
 				id: "019E056222E041DC"
-				item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] } }, count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
 				type: "item"
 			}]
 			x: 3.5d

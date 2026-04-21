@@ -84,10 +84,6 @@
   "apotheosis": {
     "adventure": true
   },
-  "modern_industrialization": {
-    "overclock": true,
-    "pipe": true
-  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
@@ -110,13 +106,8 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
-  "waystones": {
-    "waystone": true
+  "supplementaries": {
+    "hat_stand": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

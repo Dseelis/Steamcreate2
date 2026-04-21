@@ -7,7 +7,7 @@
 		id: "minecraft:spawner"
 	}
 	id: "0E81CBCD6B1D1895"
-	order_index: 1
+	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

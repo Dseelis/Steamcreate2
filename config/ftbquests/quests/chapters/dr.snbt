@@ -34,7 +34,7 @@
 			y: -28.535714285714278d
 		}
 	]
-	order_index: 4
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -92,29 +92,6 @@
 		{
 			dependencies: ["2D8EB2902477E0E0"]
 			icon: {
-				id: "sereneseasons:calendar"
-			}
-			id: "386C7A1CDF6B1509"
-			rewards: [{
-				id: "5CFBE44118674D14"
-				item: {
-					count: 1
-					id: "sereneseasons:calendar"
-				}
-				type: "item"
-			}]
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [{
-				id: "1CC302089BA513A6"
-				type: "checkmark"
-			}]
-			x: 2.035714285714292d
-			y: -26.607142857142875d
-		}
-		{
-			dependencies: ["2D8EB2902477E0E0"]
-			icon: {
 				id: "steamcore:eternal_core"
 			}
 			id: "2188E4F0F1D67AF7"
@@ -143,7 +120,7 @@
 		{
 			dependencies: ["2D8EB2902477E0E0"]
 			icon: {
-				id: "cold_sweat:thermometer"
+				id: "reliquified_artifacts:mimi_dust"
 			}
 			id: "245FCF3E018D9760"
 			shape: "hexagon"
