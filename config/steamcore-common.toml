@@ -4,7 +4,7 @@
 	#Enable abyss teleport system
 	enableAbyss = false
 	#Enable Gamma Ignite item usage
-	enableGammaIgnite = false
+	enableGammaIgnite = true
 	#Y level where teleport triggers
 	# Default: -62
 	# Range: -256 ~ 0

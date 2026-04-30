@@ -137,8 +137,8 @@
 				item: { count: 1, id: "create:track_observer" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 1.0d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["178F6215923BB915"]
@@ -168,8 +168,8 @@
 				item: { count: 1, id: "create:track_signal" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 2.0d
+			x: 5.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0A6B65C5893B9BD4"]
@@ -192,26 +192,6 @@
 			}]
 			x: 3.5d
 			y: 0.1999999999999993d
-		}
-		{
-			dependencies: ["178F6215923BB915"]
-			id: "21E5B83843A2DA2A"
-			rewards: [{
-				count: 5
-				id: "5872E887B6369EE7"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "12AA8923400C9F29"
-				item: { count: 1, id: "create_things_and_misc:train_buffer" }
-				type: "item"
-			}]
-			x: 5.25d
-			y: 0.0d
 		}
 		{
 			dependencies: ["30C9759AD5ED60C9"]
@@ -255,7 +235,7 @@
 				item: { count: 1, id: "create:minecart_coupling" }
 				type: "item"
 			}]
-			x: 5.25d
+			x: 5.0d
 			y: -1.0d
 		}
 		{

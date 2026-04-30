@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: favorites, empty;
 
 	/**
 	 * The subpanels in the left sidebar

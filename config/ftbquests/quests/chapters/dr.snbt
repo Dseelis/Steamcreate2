@@ -5,7 +5,7 @@
 	filename: "dr"
 	group: ""
 	icon: {
-		id: "createcasing:chorium_ingot"
+		id: "createdeco:decal_warning"
 	}
 	id: "26C73B03C6536E13"
 	images: [
@@ -34,7 +34,7 @@
 			y: -28.535714285714278d
 		}
 	]
-	order_index: 0
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
