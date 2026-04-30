@@ -130,54 +130,6 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["5FEA2252462284A4"]
-			id: "550AE537ED3CD72E"
-			optional: true
-			rewards: [
-				{
-					id: "68005C0AA28D09BC"
-					item: {
-						count: 1
-						id: "create_things_and_misc:empty_card"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "35BFF815CBAE4016"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "02240241F3D0CD5C"
-					item: { count: 1, id: "create_things_and_misc:card_press" }
-					type: "item"
-				}
-				{
-					id: "068A5A8FDAADF614"
-					item: { count: 1, id: "create_things_and_misc:card_reader" }
-					type: "item"
-				}
-				{
-					id: "45FA18F51A3A623F"
-					item: { count: 1, id: "create_things_and_misc:empty_card" }
-					type: "item"
-				}
-				{
-					id: "7DCBF13D38433F59"
-					item: { count: 1, id: "create_things_and_misc:magnifying_glass" }
-					type: "item"
-				}
-			]
-			x: 13.0d
-			y: -11.0d
-		}
-		{
 			dependencies: ["68445BB069625244"]
 			id: "40EEB0207CDFD670"
 			rewards: [
@@ -1215,7 +1167,7 @@
 				item: { count: 1, id: "create:clockwork_bearing" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: -11.0d
 		}
 		{
@@ -1291,7 +1243,7 @@
 				type: "item"
 			}]
 			x: 13.5d
-			y: -7.5d
+			y: -8.0d
 		}
 	]
 }

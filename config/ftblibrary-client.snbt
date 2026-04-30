@@ -29,9 +29,9 @@
 				y: -1
 			}
 			"ftbteams:team_lives": {
-				enabled: true
-				x: 1
-				y: 1
+				enabled: false
+				x: -1
+				y: -1
 			}
 			"ftblibrary:toggle/gamemode": {
 				enabled: false
@@ -44,9 +44,9 @@
 				y: 0
 			}
 			"ftblibrary:config": {
-				enabled: true
-				x: 0
-				y: 1
+				enabled: false
+				x: -1
+				y: -1
 			}
 			"ftblibrary:toggle/day": {
 				enabled: false

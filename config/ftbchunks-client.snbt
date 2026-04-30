@@ -58,7 +58,7 @@
 		# Claim mode for the chunk claiming screen
 		# Default: "freehand"
 		# Valid values: "freehand", "rectangle", "circle"
-		claim_mode: "freehand"
+		claim_mode: "rectangle"
 		
 		# Show claimed chunks on the map
 		# Default: true
@@ -138,28 +138,44 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:tropical_fish": false
-			"minecraft:bat": true
-			"minecraft:turtle": true
+			"quark:toretoise": true
+			"minecraft:donkey": true
 			"minecraft:armadillo": true
-			"minecraft:pufferfish": false
-			"minecraft:creeper": true
-			"minecraft:witch": true
-			"minecraft:bee": true
-			"minecraft:glow_squid": true
-			"minecraft:rabbit": true
+			"minecraft:iron_golem": true
 			"minecraft:pig": true
-			"minecraft:chicken": true
-			"minecraft:axolotl": true
-			"minecraft:zombie": true
-			"minecraft:enderman": true
-			"minecraft:cow": true
-			"minecraft:drowned": true
-			"minecraft:sheep": true
-			"minecraft:spider": true
-			"minecraft:skeleton": true
+			"cataclysm:modern_remnant": true
+			"minecraft:wolf": true
+			"minecraft:slime": true
+			"minecraft:phantom": true
 			"minecraft:squid": true
+			"quark:stoneling": true
+			"minecraft:enderman": true
+			"minecraft:rabbit": true
+			"minecraft:creeper": true
+			"minecraft:axolotl": true
+			"minecraft:chicken": true
+			"minecraft:spider": true
+			"minecraft:pufferfish": false
+			"minecraft:skeleton_horse": true
+			"minecraft:drowned": true
+			"minecraft:tropical_fish": false
+			"minecraft:cat": true
+			"minecraft:witch": true
+			"cataclysm:amethyst_crab": true
 			"minecraft:zombie_villager": true
+			"minecraft:cow": true
+			"minecraft:horse": true
+			"minecraft:bat": true
+			"artifacts:mimic": true
+			"minecraft:turtle": true
+			"minecraft:skeleton": true
+			"minecraft:fox": true
+			"minecraft:bee": true
+			"minecraft:zombie": true
+			"minecraft:breeze": true
+			"minecraft:villager": true
+			"minecraft:sheep": true
+			"minecraft:glow_squid": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

@@ -202,10 +202,7 @@
 		{
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "advancednetherite:netherite_iron_helmet"
-				}
-				id: "ftbquests:missing_item"
+				id: "advancednetherite:netherite_iron_helmet"
 			}
 			id: "2230589E0FCA8FDD"
 			rewards: [{
@@ -245,10 +242,7 @@
 		{
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "advancednetherite:netherite_gold_helmet"
-				}
-				id: "ftbquests:missing_item"
+				id: "advancednetherite:netherite_gold_helmet"
 			}
 			id: "61D2494A05ED6BFE"
 			rewards: [{
@@ -288,10 +282,7 @@
 		{
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "advancednetherite:netherite_emerald_helmet"
-				}
-				id: "ftbquests:missing_item"
+				id: "advancednetherite:netherite_emerald_helmet"
 			}
 			id: "6863855483D18530"
 			rewards: [{
@@ -331,10 +322,7 @@
 		{
 			dependencies: ["3CEBC51DB3555C3E"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "advancednetherite:netherite_diamond_helmet"
-				}
-				id: "ftbquests:missing_item"
+				id: "advancednetherite:netherite_diamond_helmet"
 			}
 			id: "65333CAC62E70C32"
 			rewards: [{
@@ -1019,22 +1007,6 @@
 				type: "item"
 			}]
 			x: 17.0d
-			y: -5.0d
-		}
-		{
-			dependencies: ["3D5355746750DF04"]
-			id: "4841CC6210CD8413"
-			rewards: [{
-				id: "5374FF1AB90A3B38"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "30CDF2DEFAA03A40"
-				item: { count: 1, id: "measurements:tape_measure" }
-				type: "item"
-			}]
-			x: 16.0d
 			y: -5.0d
 		}
 		{
