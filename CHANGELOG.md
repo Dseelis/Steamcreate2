@@ -1,3 +1,14 @@
+# [2.1.2b] - 21-04-2026
+deleted ftb chunks xaeroworldmap compat due mp crash
+updated mods
+updated ru translate
+minor quest changes
+
+# [2.1.1b HOTFIX] - 21-04-2026
+The fix was supposed to be released a little earlier, but the delay was caused by the Sable mod being updated late.
+
+The fix should improve performance slightly and fix a few critical bugs
+
 # [2.1.0b] - 21-04-2026
 - modrith release it will happen, but I can't say when yet.
 - deleted cold sweat, serene seasons and other 
