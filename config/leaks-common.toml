@@ -1,0 +1,11 @@
+#Leaks Mod Configuration
+#Entity count threshold per type that triggers a warning. Default: 500
+# Default: 500
+# Range: 10 ~ 10000
+entity_count_warn_threshold = 500
+#How many seconds a chunk must be loaded before flagged as potential leak. Default: 1800 (30 min)
+# Default: 1800
+# Range: 60 ~ 86400
+chunk_leak_age_seconds = 1800
+#Automatically log warnings to console. Default: true
+auto_log_warnings = true

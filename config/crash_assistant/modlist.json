@@ -1,9 +1,9 @@
 {
-  "neoforge-21.1.228 (modloader)": {
-    "jarName": "neoforge-21.1.228 (modloader)",
+  "neoforge-21.1.227 (modloader)": {
+    "jarName": "neoforge-21.1.227 (modloader)",
     "modId": "neoforge",
     "name": "neoforge",
-    "version": "neoforge-21.1.228"
+    "version": "neoforge-21.1.227"
   },
   "[1.21-1.21.1 NeoForge] Additional Placements 3.0.1.jar": {
     "jarName": "[1.21-1.21.1 NeoForge] Additional Placements 3.0.1.jar",
@@ -333,13 +333,13 @@
     "curseForgeHash": 3773115398,
     "modrinthHash": "5146fc22a9385de8103b5ca0151f80dcd0f03978"
   },
-  "createappliedkinetics-1.5.4-1.21.1.jar": {
-    "jarName": "createappliedkinetics-1.5.4-1.21.1.jar",
+  "createappliedkinetics-1.5.3-1.21.1.jar": {
+    "jarName": "createappliedkinetics-1.5.3-1.21.1.jar",
     "modId": "createappliedkinetics",
     "name": "Create: Applied Kinetics",
-    "version": "1.5.4-1.21.1",
-    "curseForgeHash": 2559445894,
-    "modrinthHash": "dd2df3b8febb78721be502aceff16af979a91314"
+    "version": "1.5.3-1.21.1",
+    "curseForgeHash": 602215958,
+    "modrinthHash": "050fa78283731de06e8a4046da5d99bc7466d093"
   },
   "createbigcannons-5.11.3-mc.1.21.1.jar": {
     "jarName": "createbigcannons-5.11.3-mc.1.21.1.jar",
@@ -357,13 +357,13 @@
     "curseForgeHash": 2186625105,
     "modrinthHash": "93d9eff58b46c6953e907d071e6be4e3ce07be38"
   },
-  "CreativeCore_NEOFORGE_v2.13.37_mc1.21.1.jar": {
-    "jarName": "CreativeCore_NEOFORGE_v2.13.37_mc1.21.1.jar",
+  "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar": {
+    "jarName": "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
     "modId": "creativecore",
     "name": "CreativeCore",
-    "version": "2.13.37",
-    "curseForgeHash": 3131169439,
-    "modrinthHash": "64a0ab347875041d8a0e1c18b97a7cbf3fd20cc6"
+    "version": "2.13.38",
+    "curseForgeHash": 1531775076,
+    "modrinthHash": "c3f1aa493ce0d3d60ba76e2b2d6b1dd65f60bde6"
   },
   "curios-neoforge-9.5.1+1.21.1.jar": {
     "jarName": "curios-neoforge-9.5.1+1.21.1.jar",
@@ -589,14 +589,6 @@
     "curseForgeHash": 1792311093,
     "modrinthHash": "79ca4558dd307dea3bd66134f89d617776c2f92b"
   },
-  "imageframe-1.0.0b.jar": {
-    "jarName": "imageframe-1.0.0b.jar",
-    "modId": "imageframe",
-    "name": "Image Frame",
-    "version": "1.0.0b",
-    "curseForgeHash": 1684856400,
-    "modrinthHash": "c38fa934a2583cff78f1affe336bab1dddb5ec58"
-  },
   "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar": {
     "jarName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
     "modId": "immediatelyfast",
@@ -778,14 +770,6 @@
     "curseForgeHash": 2861612356,
     "modrinthHash": "95058da06c16441211619ce46950502fd5ac1f64"
   },
-  "mcwifipnp-1.9.0-1.21-neoforge.jar": {
-    "jarName": "mcwifipnp-1.9.0-1.21-neoforge.jar",
-    "modId": "mcwifipnp",
-    "name": "LAN World Plug-n-Play",
-    "version": "1.9.0",
-    "curseForgeHash": 1585489948,
-    "modrinthHash": "d03f342db41c738252cb9fa932c77616ac1d5ebc"
-  },
   "megacells-4.11.0.jar": {
     "jarName": "megacells-4.11.0.jar",
     "modId": "megacells",
@@ -946,13 +930,13 @@
     "curseForgeHash": 56867381,
     "modrinthHash": "66b009aee6545da64232835a24f1a9a765736720"
   },
-  "relics-1.21.1-0.11.15.jar": {
-    "jarName": "relics-1.21.1-0.11.15.jar",
+  "relics-1.21.1-0.11.16.jar": {
+    "jarName": "relics-1.21.1-0.11.16.jar",
     "modId": "relics",
     "name": "Relics",
-    "version": "0.11.15",
-    "curseForgeHash": 29906597,
-    "modrinthHash": "80d5ffea4b204c1d62da5528479101cf2d625c9a"
+    "version": "0.11.16",
+    "curseForgeHash": 53237912,
+    "modrinthHash": "da5816bdbef3ceeca1146f19a21d17406d661c7a"
   },
   "reliquified_artifacts-1.21.1-1.0.4.jar": {
     "jarName": "reliquified_artifacts-1.21.1-1.0.4.jar",
@@ -970,13 +954,13 @@
     "curseForgeHash": 1530428859,
     "modrinthHash": "ec2e4996f8bee8714173e603e379fef8a6901765"
   },
-  "sable-neoforge-1.21.1-1.2.1.jar": {
-    "jarName": "sable-neoforge-1.21.1-1.2.1.jar",
+  "sable-neoforge-1.21.1-1.2.2.jar": {
+    "jarName": "sable-neoforge-1.21.1-1.2.2.jar",
     "modId": "sable",
     "name": "Sable",
-    "version": "1.2.1",
-    "curseForgeHash": 1808435931,
-    "modrinthHash": "bbd5c57bccb363ba3f96d5339f9a11de9fc0361d"
+    "version": "1.2.2",
+    "curseForgeHash": 1741490269,
+    "modrinthHash": "c5ecd3fcf60a31d84112c708abe29e341b2d1b73"
   },
   "simplyswords-neoforge-1.63.0-1.21.1.jar": {
     "jarName": "simplyswords-neoforge-1.63.0-1.21.1.jar",
@@ -993,14 +977,6 @@
     "version": "0.1.3",
     "curseForgeHash": 1710669293,
     "modrinthHash": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746"
-  },
-  "skinrestorer-2.7.0+1.21-neoforge.jar": {
-    "jarName": "skinrestorer-2.7.0+1.21-neoforge.jar",
-    "modId": "skinrestorer",
-    "name": "SkinRestorer",
-    "version": "2.7.0+1.21-neoforge",
-    "curseForgeHash": 1207309643,
-    "modrinthHash": "332dbd158e3665eb0018b8c8bfdce12c0f97efd0"
   },
   "smoothscrolling-1.21.1-NeoForge-1.0.1.jar": {
     "jarName": "smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
@@ -1058,13 +1034,13 @@
     "curseForgeHash": 489430803,
     "modrinthHash": "cd95506848aaa0aa2ad0d3df3274a28cf49bd7d3"
   },
-  "sophisticatedcore-1.21.1-1.4.29.1752.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.4.29.1752.jar",
+  "sophisticatedcore-1.21.1-1.4.32.1794.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.4.29",
-    "curseForgeHash": 3925482076,
-    "modrinthHash": "ed8a8ec817e2e5b46e97e510602f6da67288f17c"
+    "version": "1.4.32",
+    "curseForgeHash": 2890804387,
+    "modrinthHash": "d4756ed1cec65c3ca62e478844e04eb136574ce1"
   },
   "sounds-2.4.22+lts+1.21.1-neoforge.jar": {
     "jarName": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
