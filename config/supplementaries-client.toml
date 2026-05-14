@@ -144,8 +144,6 @@
 	dynamic_assets_generation_mode = "CACHED"
 	#Disables Optifine warn screen
 	no_optifine_warn_screen = false
-	#Disables Amendments suggestion screen
-	no_amendments_screen = false
 	#Disable incompatible mods warning screen
 	no_incompatible_mods_screen = false
 	#Enable Quark style config button on main menu. Needs Configured installed to work

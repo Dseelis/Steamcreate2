@@ -11,7 +11,7 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "1430133545610907748",
+    "clientId": "450485984333660181",
     "defaultIcon": "grass",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
@@ -133,9 +133,7 @@
       "endTimestamp": "",
       "buttons": {}
     },
-    "dynamicIcons": {
-      "look-ownership.gl.joinmc.link": "https://api.mcsrvstat.us/icon/look-ownership.gl.joinmc.link"
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",

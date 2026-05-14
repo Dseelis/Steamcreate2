@@ -5,6 +5,10 @@
 	enableAbyss = false
 	#Enable Gamma Ignite item usage
 	enableGammaIgnite = true
+	#Chance of failed disassembly (0.0 - 1.0)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	disassemblyFailChance = 0.15
 	#Y level where teleport triggers
 	# Default: -62
 	# Range: -256 ~ 0

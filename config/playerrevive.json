@@ -6,6 +6,7 @@
     "bleedingMessage": true,
     "bleedingMessageTrackingOnly": true,
     "shouldGlow": false,
+    "disableJump": true,
     "bleedingEffects": [
       {
         "effect": "minecraft:slowness",
@@ -35,6 +36,7 @@
     "selfRevive": {
       "enabled": false,
       "item": "{id:\"item\",item:\"minecraft:paper\"}",
+      "itemCount": 1,
       "consumeItem": true,
       "progress": 0.1,
       "sound": {
@@ -58,6 +60,7 @@
       }
     ],
     "reviveItem": "{id:\"item\",item:\"minecraft:paper\"}",
+    "reviveItemCount": 1,
     "needReviveItem": false,
     "consumeReviveItem": false,
     "teammatesOnly": false,

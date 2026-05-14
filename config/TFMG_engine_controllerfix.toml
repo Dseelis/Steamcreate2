@@ -1,0 +1,7 @@
+[engine_controller]
+	#Maximum gear ratio magnitude for all gears.
+	# Default: 4.0
+	# Range: 0.1 ~ 64.0
+	max_ration = 4.0
+	#Show and enable additional functions button.
+	additional_functions = false

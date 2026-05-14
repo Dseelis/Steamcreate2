@@ -69,7 +69,7 @@
 	matterCannon = 200000
 
 [worldGen]
-	spawnPressesInMeteorites = false
+	spawnPressesInMeteorites = true
 	spawnFlawlessOnly = false
 
 [wireless]

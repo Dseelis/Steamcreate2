@@ -138,44 +138,44 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"quark:stoneling": true
-			"minecraft:bee": true
+			"minecraft:chicken": true
+			"minecraft:zombie_villager": true
+			"minecraft:sheep": true
+			"minecraft:fox": true
+			"minecraft:squid": true
+			"minecraft:zombie": true
+			"minecraft:armadillo": true
+			"minecraft:phantom": true
+			"minecraft:wolf": true
+			"cataclysm:amethyst_crab": true
 			"minecraft:iron_golem": true
-			"minecraft:cat": true
+			"minecraft:skeleton": true
 			"minecraft:pig": true
-			"minecraft:donkey": true
-			"minecraft:witch": true
-			"minecraft:enderman": true
+			"minecraft:tropical_fish": false
+			"minecraft:bat": true
+			"minecraft:glow_squid": true
+			"quark:toretoise": true
+			"minecraft:drowned": true
+			"minecraft:breeze": true
+			"cataclysm:modern_remnant": true
+			"minecraft:horse": true
+			"minecraft:spider": true
+			"minecraft:axolotl": true
+			"minecraft:villager": true
+			"minecraft:skeleton_horse": true
 			"minecraft:cow": true
 			"minecraft:turtle": true
-			"minecraft:zombie": true
-			"minecraft:sheep": true
-			"minecraft:squid": true
+			"minecraft:bee": true
 			"minecraft:slime": true
-			"minecraft:villager": true
-			"minecraft:wolf": true
-			"minecraft:phantom": true
-			"minecraft:pufferfish": false
-			"minecraft:skeleton": true
-			"minecraft:fox": true
-			"minecraft:creeper": true
-			"minecraft:bat": true
-			"minecraft:spider": true
-			"minecraft:skeleton_horse": true
-			"minecraft:armadillo": true
-			"cataclysm:amethyst_crab": true
-			"minecraft:axolotl": true
-			"cataclysm:modern_remnant": true
-			"minecraft:zombie_villager": true
-			"minecraft:glow_squid": true
-			"artifacts:mimic": true
-			"quark:toretoise": true
+			"minecraft:enderman": true
+			"quark:stoneling": true
+			"minecraft:witch": true
 			"minecraft:rabbit": true
-			"minecraft:tropical_fish": false
-			"minecraft:breeze": true
-			"minecraft:chicken": true
-			"minecraft:horse": true
-			"minecraft:drowned": true
+			"minecraft:donkey": true
+			"minecraft:pufferfish": false
+			"minecraft:creeper": true
+			"minecraft:cat": true
+			"artifacts:mimic": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
