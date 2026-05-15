@@ -52,7 +52,7 @@
 		"enabledDynamic": true,
 		"id": "itemDrop",
 		"soundEvent": "minecraft:block.dispenser.launch",
-		"shouldPlay": true
+		"shouldPlay": false
 	},
 	"itemCopySoundEffect": {
 		"pitch": 2.0,
