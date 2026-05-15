@@ -69,8 +69,8 @@ ServerEvents.recipes(event => {
     b: 'minecraft:diamond'
   })
 
-  // Gold Armor
-  event.shaped('minecraft:gold_boots', [
+  // Gold Armor (renamed to golden in 1.21+)
+  event.shaped('minecraft:golden_boots', [
     'a a',
     'b b'
   ], {
@@ -78,7 +78,7 @@ ServerEvents.recipes(event => {
     b: 'minecraft:gold_ingot'
   })
 
-  event.shaped('minecraft:gold_chestplate', [
+  event.shaped('minecraft:golden_chestplate', [
     'a a',
     'bbb',
     'aba'
@@ -87,7 +87,7 @@ ServerEvents.recipes(event => {
     b: 'minecraft:gold_ingot'
   })
 
-  event.shaped('minecraft:gold_helmet', [
+  event.shaped('minecraft:golden_helmet', [
     'bbb',
     'a a'
   ], {
@@ -95,7 +95,7 @@ ServerEvents.recipes(event => {
     b: 'minecraft:gold_ingot'
   })
 
-  event.shaped('minecraft:gold_leggings', [
+  event.shaped('minecraft:golden_leggings', [
     'bbb',
     'a a',
     'b b'
