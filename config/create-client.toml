@@ -117,6 +117,14 @@
 		ambientVolumeCap = 0.10000000149011612
 
 	#.
+	#Mod Integration and Recipe Viewer
+	[client.recipeViewerIntegration]
+		#.
+		#How Recipe Viewer search should interact with Stock Keepers
+		#Allowed Values: SYNC_BOTH, SYNC_FROM_JEI, SYNC_FROM_STOCK_KEEPER, NONE
+		syncRecipeViewerSearch = "SYNC_BOTH"
+
+	#.
 	#Railway related settings
 	[client.trains]
 		#.
@@ -137,11 +145,3 @@
 		#Track Network Color on maps
 		#Allowed Values: RED, GREY, WHITE
 		trainMapColorTheme = "RED"
-
-	#.
-	#Mod Integration and Recipe Viewer
-	[client.recipeViewerIntegration]
-		#.
-		#How Recipe Viewer search should interact with Stock Keepers
-		#Allowed Values: SYNC_BOTH, SYNC_FROM_JEI, SYNC_FROM_STOCK_KEEPER, NONE
-		syncRecipeViewerSearch = "SYNC_FROM_JEI"

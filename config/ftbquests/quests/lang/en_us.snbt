@@ -1,5 +1,4 @@
 {
-	chapter.085467E2D3F4DEF8.title: "&d5.3&r: &lWorld Tiers"
 	chapter.0B826D13BAD43EEB.title: "&d3.3&r: &lDraconic Evolution"
 	chapter.0CB7DCB8F5873858.title: "&d3.1&r: &lStone Age"
 	chapter.0E81CBCD6B1D1895.title: "&d5.2&r: &lSpawners"
@@ -79,6 +78,8 @@
 	quest.01BBE636EBB71416.quest_subtitle: "One of the Quarry's drills."
 	quest.01BBE636EBB71416.title: "&3Stainless Steel Drill"
 	quest.0226F89EEC57C5EC.quest_subtitle: "Found upon his throne in &eSavanna &rbiomes"
+	quest.02408EBF371C3B0A.quest_desc: ["The Hand Crank allows you to manually rotate mechanisms. Useful for initial charging or controlling simple devices."]
+	quest.02408EBF371C3B0A.title: "Hand Crank"
 	quest.024F55CAFFBC4BE7.quest_desc: ["The Shortblade can be used in off handed attacks and in crafting to cut materials."]
 	quest.026682BD379CF002.quest_desc: ["Your first metal hammer! Time to get to some true smithing!"]
 	quest.026682BD379CF002.title: "Iron Hammer: Tier III"
@@ -206,13 +207,7 @@
 	quest.07E257D6CEA58227.quest_subtitle: "&bСиняя"
 	quest.07E257D6CEA58227.title: "Морская броня"
 	quest.07F97720F1C7F480.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
-	quest.0833472E1FCFA868.quest_desc: [
-		"Needed to make coal coke. It is advised to make multiple ovens to create more coal coke. Right click the front with a wrench after to finish the oven, then, add a chute on top to add in the coal. "
-		""
-		"Do know that it was also create creosote and the oven will stop working if there is too much creosote. You can pump creosote out into a tank (creosote will be needed) by placing pumps on the ovens."
-		""
-		""
-	]
+	quest.0833472E1FCFA868.quest_desc: ["The Coke Oven processes coal into coal coke, which burns longer and is needed for steel smelting. Creosote is a byproduct."]
 	quest.0833472E1FCFA868.title: "Coke Oven"
 	quest.0880DEC1118DCC89.quest_desc: ["Одолейте древнюю &7самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &7бестиарии&r."]
 	quest.0880DEC1118DCC89.quest_subtitle: "&7Серое"
@@ -304,11 +299,15 @@
 	]
 	quest.0D8988AF02D890EA.title: "Find ancient battleground"
 	quest.0D9DFC48E3D2F434.quest_subtitle: "Energy Dischargers drain energy away from charged machinery and store it in an internal storage pocket and can redirect the power into another piece of machinery using cables."
+	quest.0DBA2118C58A9676.quest_desc: ["The Mechanical Press is used to create sheets from ingots and compact items in basins. It requires rotational power to operate."]
+	quest.0DBA2118C58A9676.title: "Mechanical Press"
 	quest.0DD703B94D202B68.quest_desc: [""]
 	quest.0DD703B94D202B68.quest_subtitle: "The Bronze Pump is good at inserting water into your machinery that requires water, especially boilers. Make sure they're near a water source in order for this to work automatically!"
 	quest.0DD703B94D202B68.title: "Pump Your Pistons!"
 	quest.0E2AD156E5EF263A.quest_desc: ["Used to inscribe spells on with the Scribe's Table."]
 	quest.0E349CAEF1D249B6.title: "Defeat the &6Slider"
+	quest.0E36BE756DB549DE.quest_desc: ["The speed controller allows you to precisely set the rotation speed of the output shaft. Useful when your mechanisms require a specific speed to operate."]
+	quest.0E36BE756DB549DE.title: "Rotation Speed Controller"
 	quest.0E4B5D2FC378DC92.quest_desc: ["Броня рыцарей Легиона Затмения. Когда-то в мире произошла большая война, в которой этот легион сражался за приход вечной ночи. Является довольно лёгким, тем самым не сковывая движений владельца."]
 	quest.0E4B5D2FC378DC92.title: "Шлем солдата Затмения"
 	quest.0E65A2873121FE90.quest_desc: ["Создайте броню &6мирмекса&r."]
@@ -404,6 +403,8 @@
 	quest.12D605F59A3176A2.quest_subtitle: "Find ancient ruins deep down in cold or mountainous biomes"
 	quest.1373526C3FFC6CAA.quest_desc: ["Hope you have some raw iron you didn't smelt yet."]
 	quest.1373526C3FFC6CAA.title: "Crushed Raw Iron"
+	quest.13887C73B47C0467.quest_desc: ["The Mechanical Arm can move items between inventories within its range. It can be programmed for complex movement paths."]
+	quest.13887C73B47C0467.title: "Mechanical Arm"
 	quest.13B5E4EF97D6308F.quest_subtitle: "Dielectric Paste is an ingredient used to glue and craft electric parts used in the machinery, you should prepare a lot if you plan on upgrading."
 	quest.13B5E4EF97D6308F.title: "Electric Glue"
 	quest.13D8F6001BE3FC5C.quest_desc: ["The ultimate enchantment storage and combination solution."]
@@ -411,6 +412,8 @@
 	quest.13F072CD438F5D2A.title: "Сборщик духовок"
 	quest.13FE27F2483D112C.quest_desc: ["При &eудачном&r изучении этой таблички вы узнаете информацию о первобытных пещерах, изолированных от внешнего мира с древних времён."]
 	quest.13FE27F2483D112C.quest_subtitle: "Первобытные пещеры"
+	quest.141E4F79A9F63800.quest_desc: ["The basic material for most entry-level Create mechanisms."]
+	quest.141E4F79A9F63800.title: "Andesite Alloy"
 	quest.145B60BAC740910A.quest_subtitle: "Used in the creation of Logic Processors in an Inscriber."
 	quest.1478BE654172DB0E.quest_desc: ["The Potion Bag allows you to cary a large amount of potions but of limited variety."]
 	quest.1492F3C3FB608067.quest_desc: ["The Booster is a sort of jetpack that uses gunpowder as fuel. Can be activated by crouch jumping, jumping in air, or while flying an elytra."]
@@ -454,6 +457,8 @@
 	quest.16A8F491189EB1D1.quest_desc: ["Центральный остров &dКрая&r куда ведёт портал в крепости, охраняется &dЭндер-Драконом&r. Могущественным созданием, обладающее огромной силой пустоты."]
 	quest.16C56E551AC17784.quest_desc: ["Выглядят аппетитно."]
 	quest.16C56E551AC17784.title: "Кексы"
+	quest.16F2592C15C1D037.quest_desc: ["The Steam Engine converts steam energy into powerful rotation. Install it on a boiler to get a huge amount of power for your factory."]
+	quest.16F2592C15C1D037.title: "Steam Engine"
 	quest.1722389078675E47.quest_desc: ["Будьте осторожны."]
 	quest.1722389078675E47.title: "Пороховой бамбук"
 	quest.1729A82B2351DE53.quest_desc: [
@@ -483,6 +488,8 @@
 	quest.18192764B477D2D7.quest_desc: ["Только для настоящих колдунов."]
 	quest.18724D965654056F.quest_subtitle: "By itself, it's not useful, but after using it on a Zombie or a Husk, it will upgrade into the Player Aerial Pearl."
 	quest.18794889FA8D5405.quest_desc: ["Засунув личинку багрового комара в &dкапсид&r, можно получить &dтаинственного червя&r. Если бросить его в пустоты это призовёт древнюю сущность, именуемую &dПустотный Червём&r..."]
+	quest.1883DF46FCE478C7.quest_desc: ["Andesite Casing is the foundation for many Create mechanisms. Apply an Andesite Alloy to any type of stripped log."]
+	quest.1883DF46FCE478C7.title: "Andesite Casing"
 	quest.188C019760FC849D.quest_desc: ["Используя железо и &cкровь дракона&r, создайте драконью сталь. А затем изготовьте из неё броню и инструменты."]
 	quest.188C019760FC849D.quest_subtitle: "&cОгненая драконья сталь"
 	quest.18A2FBE2D4133FA2.quest_desc: [
@@ -557,7 +564,11 @@
 	quest.1A6A383B4EF26B20.title: "Drill Head"
 	quest.1A6D6EA172DB63A1.quest_desc: ["В нашем мире с давних времён существует могущественная раса, которая стоит на вершине иерархии во всём мире - драконы. Они делятся на три типа: &6огненные&r, &bледяные&r и &dгрозовые&r. Их зубы могут прокусить металл, их когти могут срубить деревья."]
 	quest.1A8F438DB8508276.title: "Visit &6Frosted prison"
+	quest.1AA0237C138D0D5B.quest_desc: ["The Crafting Table is your first workshop. With it, you'll create your first tools and mechanisms."]
+	quest.1AA0237C138D0D5B.title: "Crafting Table"
 	quest.1AA42229A8F7CD48.title: "The Electric Era"
+	quest.1AA60A55FA9B6080.quest_desc: ["A Map will help you navigate the vast expanses of this world. Don't forget to mark important locations!"]
+	quest.1AA60A55FA9B6080.title: "Map"
 	quest.1AB3414273A18FD1.quest_desc: [
 		"В токсичных пещерах, вы сможете встретить &aуран&r, который излучает сильную радиацию."
 		"\"Уолтер, убери свой уран подальше, Уолтер\""
@@ -569,6 +580,8 @@
 	quest.1B0A4271FCBD581F.quest_subtitle: "This machine part will be needed in order for more advanced electric machinery to function so remember to make some of these."
 	quest.1B0A4271FCBD581F.title: "Where's the Plug?"
 	quest.1B26C03FD0CDAAEA.quest_subtitle: "Now that you have some Certus Quartz Crystals it's time to charge them. Toss one into the Charger you made earlier and get to cranking!"
+	quest.1B82FEF57E241253.quest_desc: ["A small piece of iron needed to create Andesite Alloy."]
+	quest.1B82FEF57E241253.title: "Iron Nugget"
 	quest.1B98D4F59823C52D.quest_desc: [""]
 	quest.1B9E6F09E7AB8C87.quest_desc: ["Acts as a blaze burner and yes, you can use it to make a steam engine, but be warned that you do need to pump the carbon dioxide out (through an exhaust or smokestack.)"]
 	quest.1BABE9CD979E7E47.quest_desc: ["Пирожков с капустой в сборке нет."]
@@ -673,6 +686,8 @@
 	quest.20CE45C10A58D357.title: "Transport"
 	quest.20D6B44932002AC1.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
 	quest.20E373424804CEDF.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+	quest.20F99CBAD8D587DA.quest_desc: ["Certus Quartz is the foundation of all Applied Energistics (AE2) technologies. It can be found as ore or grown from seeds."]
+	quest.20F99CBAD8D587DA.title: "Certus Quartz"
 	quest.21257050C6608D6E.quest_subtitle: "The Energy Acceptor converts energy from external systems into AE and stores it in the network.The following energy systems are supported: Forge Energy / Redstone Flux 2 FE = 1 AE."
 	quest.21257050C6608D6E.title: "Powering Your Network 1"
 	quest.2140BB56455664BA.quest_subtitle: "Use a Planar Stabilizer to craft a powerful belt attachment"
@@ -741,12 +756,13 @@
 	quest.245946FF40FEFEE2.quest_desc: ["The Axe head allows you to chop tree logs and strip them just like vanilla axes."]
 	quest.245FCF3E018D9760.quest_desc: [
 		"In last update we added many artifacts They can make it easier to beat bosses—even if they're optional &0(for now)&r and simply make the gameplay more enjoyable"
-		"You can lower the difficulty in the settings. "
+		""
 	]
-	quest.245FCF3E018D9760.quest_subtitle: "May be deleted in the future"
 	quest.245FCF3E018D9760.title: "Relics"
 	quest.248343A8203E7CDC.quest_desc: ["Single Headed tools are the most simple tools you can make."]
 	quest.24A4F1AA0BFFE867.title: "Electric blast furnace"
+	quest.25206FF0429DD30E.quest_desc: ["The Precision Mechanism is a complex component requiring multi-stage assembly using Deployers. It unlocks access to advanced Brass Age technologies."]
+	quest.25206FF0429DD30E.title: "Precision Mechanism"
 	quest.254982C1D77959B4.quest_desc: [
 		"&dThe Twilight Forest&r is a world of eternal twilight, where many unknown creatures live. It is filled with magic and an atmosphere of mystery. You will have to fight many formidable opponents to get powerful artefacts."
 		""
@@ -812,6 +828,8 @@
 	quest.27239A694562172E.title: "Убийца хоглинов"
 	quest.27BAA1F4DE80AC55.quest_subtitle: "Stores up to 200,000 AE. They do not accept power directly, but are used to add additional power storage to an already existing ME Network."
 	quest.27BAA1F4DE80AC55.title: "Storing Energy 1"
+	quest.27CD4319695039D1.quest_desc: ["The Large Cogwheel allows you to change the rotation speed when connected to a small cogwheel. This is a key element for controlling the speed of your mechanisms."]
+	quest.27CD4319695039D1.title: "Large Cogwheel"
 	quest.27D639418E232980.quest_desc: ["Из серебра можно сделать броню и оружие, включая метательные ножи."]
 	quest.27D639418E232980.title: "Серебряное снаряжение"
 	quest.27E4CBB51DBD27CD.quest_desc: [
@@ -835,6 +853,8 @@
 	quest.295C8DC11B22B1B6.quest_desc: ["Дьявольские яйца..."]
 	quest.295C8DC11B22B1B6.title: "Дьявольские яйца"
 	quest.29A1E1FF02BD9219.title: "Visit &6Starlight Forest"
+	quest.29A484F12E8E0926.quest_desc: ["The primary building block for your first mechanisms."]
+	quest.29A484F12E8E0926.title: "Andesite"
 	quest.29B9E1247DE9901A.quest_desc: [
 		"By using cables, you can divide/multiply voltage."
 		""
@@ -856,6 +876,8 @@
 	quest.2B01BE60343D5839.title: "Пылающая сокровищница"
 	quest.2B0219B675E3820F.quest_desc: ["Like other HV generators, it will produce 512 EU/t. This one will only accept regular steam."]
 	quest.2B0219B675E3820F.quest_subtitle: "Another option for small setups is to use an HV steam turbine, they are not a joke with their production."
+	quest.2B07F72462A04417.quest_desc: ["Apple Mash is obtained by pressing apples. Use it in fermentation barrels."]
+	quest.2B07F72462A04417.title: "Apple Mash"
 	quest.2B2B037180846FBA.quest_desc: ["Лунный кристалл является ценным ингридиентом для создания брони. По сути своей он является осколком души, поэтому может впитывать разные материалы и преобразовывать конечный результат в соответствие с ними."]
 	quest.2B2B037180846FBA.title: "Лунный кристалл"
 	quest.2B2C90A07E101ED4.quest_desc: ["Победите &dголемов&r, что охраняют эту крепость и заполучите ядро пустоты."]
@@ -908,6 +930,8 @@
 	quest.2D457E53BB6D63C7.title: "Visit &6Permafrost Forest"
 	quest.2D4882ADCEA8C398.title: "Quest Book"
 	quest.2D788BCA763E68F6.quest_desc: ["Обьедените меч из кости дракона и фантомный слиток, чтобы получить &bфантомный клинок&r."]
+	quest.2D812FCB6A870A60.quest_desc: ["Wheat Seeds are the start of your agricultural path. Plant them on tilled soil next to water."]
+	quest.2D812FCB6A870A60.title: "Wheat Seeds"
 	quest.2D8EB2902477E0E0.quest_desc: [
 		"This is an &zadventure&r modpack in which you will have to explore different worlds in search of &dstory items and resources&r"
 		""
@@ -962,6 +986,10 @@
 	quest.3081D7B146082323.quest_desc: ["Одолев сирену, вы можете получить её &bслезу&r. Которую можно использовать для создания магического артефакта."]
 	quest.30C849D73754A0C0.quest_desc: ["&dGribotaur&r is an upgraded version of the Minotaur. He possesses a powerful weapon - the Legendary Diamond Axe. He has been guarding the valuable resources of the labyrinth for many years."]
 	quest.30C849D73754A0C0.title: "Gribotaur"
+	quest.30D81AF1E268C878.quest_desc: ["The ME Terminal gives you access to all items stored in your network. It requires one channel to operate."]
+	quest.30D81AF1E268C878.title: "ME Terminal"
+	quest.30FDAAAA8784A842.quest_desc: ["The Millstone allows you to grind resources into powders or flour. It is a more efficient way to process some materials in the early stages."]
+	quest.30FDAAAA8784A842.title: "Millstone"
 	quest.3103B2CFCFDB2173.quest_subtitle: "Found at the bottom of the &cCursed Pyramid&r, which spawns in deserts. Awaken the boss with the &eNecklace of the Desert&r. This boss is &lvery&r difficult and you will need to be properly prepared. Locate with an &eEye of Desert"
 	quest.3103B2CFCFDB2173.title: "Defeat an &6Ancient Remnant"
 	quest.3142A40E1EAEBAA3.quest_desc: [
@@ -1102,6 +1130,8 @@
 	quest.38F9192F665742BA.quest_desc: [""]
 	quest.38F9192F665742BA.quest_subtitle: "Now we can force items to be transported! Remember to force a connection with the pipes into machineries so they will transport them when needed."
 	quest.38F9192F665742BA.title: "Item Transportation"
+	quest.394ED7E8D84C03E9.quest_desc: ["The Clock shows the current time of day. Useful to know when it's time to return home or prepare for a night hunt."]
+	quest.394ED7E8D84C03E9.title: "Clock"
 	quest.3978C2DBE1B61990.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.3988E16DAA388261.quest_desc: ["An updated version of the ME Terminal that has an integrated Craft grid with access to the ME Network storage."]
 	quest.39A6BA59CA48DA92.quest_desc: [
@@ -1119,6 +1149,8 @@
 		"Check your keybinds to be able to use the quick access function or access key."
 	]
 	quest.3A768E3EC544BDE4.title: "Rope Toolbelt"
+	quest.3A9803430D9E7F3F.quest_desc: ["Shafts transmit rotational power in a straight line. They are essential for connecting your power sources to consumers."]
+	quest.3A9803430D9E7F3F.title: "Shaft"
 	quest.3AB5C392A3F8E3E1.quest_desc: ["&6Флейта дракона&r нужна в том случае, если ваш дракон взлетел в небеса, а спускаться не хочет. Чтобы его опустить на землю достаточно посвистеть в флейту."]
 	quest.3ABB26FB3088F27B.quest_desc: ["Осколок фазмо выпадает из Эктоплит в незере, из него создаются стрелы, которые могут нанести урон призракам."]
 	quest.3ABB26FB3088F27B.title: "Призрачные вещи"
@@ -1126,6 +1158,8 @@
 	quest.3B08D63022E8D6A7.quest_desc: ["Создайте &aполимерную&r пластину."]
 	quest.3B2469805D2E4E2B.quest_desc: ["This upgrade template is the base of many upgrades that can be applied to storage drawers."]
 	quest.3B35688E3F0A13C0.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
+	quest.3B3987FFF0725FD1.quest_desc: ["A small cogwheel transmits rotation to adjacent shafts or wheels. It can also change the direction of rotation."]
+	quest.3B3987FFF0725FD1.title: "Cogwheel"
 	quest.3B55C9A41E94825E.quest_desc: ["Создайте броню &6мирмекса&r."]
 	quest.3BE6E50AA8E0170D.title: "Defeat a &6Mimic"
 	quest.3C12FD23932C3522.quest_desc: [
@@ -1142,6 +1176,8 @@
 	quest.3CBDB45D65737212.title: "Defeat a &7Shriek Worm"
 	quest.3CEBC51DB3555C3E.title: "Netherite Ingot"
 	quest.3CECB3BAFED1E23D.quest_desc: ["Убив плотоядного червя, вы получите &eхитин&r. Который можно использовать для создания брони."]
+	quest.3D069ACDFD3F9EC5.quest_desc: ["Ancient Debris is a rare ore from which you can obtain Netherite. Look for them on the lower levels of the Nether."]
+	quest.3D069ACDFD3F9EC5.title: "Ancient Debris"
 	quest.3D09FAAE6A19976D.quest_desc: ["Создайте броню &2мирмекса&r."]
 	quest.3D1578DF95F261ED.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.3D18246B76F2B0E4.quest_desc: ["tomato"]
@@ -1196,23 +1232,24 @@
 	quest.3DD457633883E2A3.quest_desc: ["Создайте комплект брони их хитина пустынного червя."]
 	quest.3DD457633883E2A3.quest_subtitle: "Белая"
 	quest.3DD457633883E2A3.title: "Хитиновая броня"
+	quest.3DE11C6E8AACD30D.quest_desc: ["Elytra allow you to soar in the air using wind currents. This is the fastest and most convenient way to move between the islands of the End."]
+	quest.3DE11C6E8AACD30D.title: "Elytra"
 	quest.3DEEF330074DD80C.quest_subtitle: "2nd Tier Capacitors used to upgrade to Hardened Machinery."
 	quest.3E31CABE22FEB919.title: "Executioner Blade"
 	quest.3E869581140512FE.quest_desc: [
 		"An upgraded bookshelf which add increased Eterna and some Quanta. Increases maximum Eterna."
 		"Can be mixed with Seashelves for more balanced enchanting."
 	]
+	quest.3EA1138EA494F1C0.quest_desc: ["A Furnace is needed for smelting ores and preparing food. A basic survival essential."]
+	quest.3EA1138EA494F1C0.title: "Furnace"
 	quest.3EA48F9716705F18.quest_desc: ["Full-size 2x2 storage drawers will store 8 stacks of an item per drawer (32 stacks overall)."]
 	quest.3EA48F9716705F18.title: "Full Storage Drawer: Four Items "
 	quest.3EA4CB4D9C90B767.quest_subtitle: "Found in &eIllusioner Towers&r"
 	quest.3EA8F4022DEEE82F.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.3ED18704C8F9E5E9.quest_desc: ["Лунный кристалл является ценным ингридиентом для создания брони. По сути своей он является осколком души, поэтому может впитывать разные материалы и преобразовывать конечный результат в соответствие с ними."]
 	quest.3ED18704C8F9E5E9.title: "Лунный кристалл"
-	quest.3EDD50F03E605456.quest_desc: [
-		"Expensive, yet needed."
-		""
-		""
-	]
+	quest.3EDD50F03E605456.quest_desc: ["Steel is a durable alloy needed for creating heavy equipment and advanced mechanisms. Produced in a blast furnace."]
+	quest.3EDD50F03E605456.title: "Steel Ingot"
 	quest.3EEDC2C14BD73F44.quest_desc: ["Оружие, основанное на явлении радиоактивности."]
 	quest.3EEDC2C14BD73F44.title: "Ядерная мощь"
 	quest.3F6DE3A5F00BD543.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
@@ -1232,6 +1269,8 @@
 	quest.40B20CED5F5F034A.title: "Гроза морей"
 	quest.40BC67BDEE15D1DE.quest_desc: ["To create Source Gems, we'll need to put either Lapis or Amethyst Shards into the Imbuement Chamber. Over time, these will convert to Source Gems!"]
 	quest.40BC67BDEE15D1DE.title: "&5Source Gems"
+	quest.40EEB0207CDFD670.quest_desc: ["The Smart Chute allows you to filter items passing through it. This greatly simplifies resource sorting."]
+	quest.40EEB0207CDFD670.title: "Smart Chute"
 	quest.4105C6C9192BBFF7.quest_desc: ["Убив &dпикси&r, вы получите пыльцу, из которой можно будет приготовить &dамброзию&r."]
 	quest.4116E36045C3B3C3.quest_desc: ["Находите различные реликвии и изучайте их, прокачивайте их способности и используйте их в своих приключениях и сражениях!"]
 	quest.4136E21A1E21C5FA.quest_desc: ["Да - это они."]
@@ -1268,7 +1307,11 @@
 	quest.42B5FA94E571CC7E.quest_desc: ["В бункерах подводной бездны вы сможете найти &6водолазные костюмы&r, чтобы быстрее и удобнее передвигаться под &bводой&r."]
 	quest.42B5FA94E571CC7E.title: "20 тысяч блоков под водой!"
 	quest.42F579E53977DF2C.quest_desc: ["Вам придётся убить огромную змею в &aСумеречном лесу&f, чтобы заполучить это око."]
+	quest.4300E87679E7D662.quest_desc: ["You have reached the very edge of the world. Void reigns here, inhabited by strange creatures, and at the center of it all — the mighty dragon."]
+	quest.4300E87679E7D662.title: "The End"
 	quest.4329D355F5B2E80D.quest_subtitle: "Used alongside an Inscriber and Inscriber Engineering Plate to create a Printed Engineering Circuit."
+	quest.4347E50649ED9BCC.quest_desc: ["The Grapevine Pot allows you to grow grapes right in your home or basement. Provide it with support for growth."]
+	quest.4347E50649ED9BCC.title: "Grapevine Pot"
 	quest.436A76A36A764C00.title: "Anvil"
 	quest.43A2E8E5E1F40FD5.quest_desc: ["Фаршированный хоглин - это вкусно."]
 	quest.43A2E8E5E1F40FD5.title: "Фаршированный хоглин"
@@ -1332,6 +1375,8 @@
 	quest.46A5FB31B70E248C.quest_subtitle: "&1Тёмно-синяя"
 	quest.46D1B23EA92DFBC0.quest_desc: ["Убив левиафана, вы получите его &6чешую&r."]
 	quest.46D1B23EA92DFBC0.quest_subtitle: "&6Бронзовая"
+	quest.46E386050F3DA112.quest_desc: ["The Water Wheel is one of the simplest sources of rotational power. Place it next to flowing water to start it spinning."]
+	quest.46E386050F3DA112.title: "Water Wheel"
 	quest.47123B901690686D.title: "Saber Blade"
 	quest.4734E8ED60D024D5.title: "Explore the World"
 	quest.474222302C8257C4.title: "Gold Armor"
@@ -1392,11 +1437,10 @@
 	quest.4AD93229344EA0BE.quest_desc: [""]
 	quest.4AD93229344EA0BE.quest_subtitle: "The Bronze Furnace is just as slow as a normal furnace, but it uses steam instead of any other fuel source, and cheaper as well."
 	quest.4AD93229344EA0BE.title: "Is it to steam food?"
+	quest.4B0041B9D9DEED73.quest_desc: ["The Compass always points to your world spawn point. Helps find your way back if you get lost."]
+	quest.4B0041B9D9DEED73.title: "Compass"
 	quest.4B2D031595A25305.quest_subtitle: "A component used in the creation of an ME Terminal."
 	quest.4B486C7CC66F1745.title: "Netherite-emerald armor"
-	quest.4B5DC574BCA847A5.quest_desc: ["You can increase the difficulty of the world, thereby obtaining better stones that can be inserted into armor and weapons, giving them special properties. To open the world menu, press &5ctrl+t&r."]
-	quest.4B5DC574BCA847A5.quest_subtitle: "May be deleted in the future"
-	quest.4B5DC574BCA847A5.title: "World level &6WIP"
 	quest.4B656D6D4F32D64E.quest_desc: ["Создайте комплект &4брони&r, а также &4лук&r из теневого шёлка и других ресурсов &4забвенных пустот&r."]
 	quest.4BBF987FEF639801.title: "Alloy Kiln"
 	quest.4BEC7C7000CA0094.quest_desc: [
@@ -1558,6 +1602,8 @@
 	quest.55ED05A197F8D24A.quest_desc: [""]
 	quest.55ED05A197F8D24A.quest_subtitle: "The Steam Turbine uses steam to produce electricity. But there will be more upgrades to this certain turbine so remember to make a lot of these to power your electrical machinery."
 	quest.55ED05A197F8D24A.title: "Is this my electric fan?"
+	quest.562693D791F828A0.quest_desc: ["The Fermentation Barrel turns fruit mash into juices and wines. Patience is the key to obtaining a quality drink."]
+	quest.562693D791F828A0.title: "Fermentation Barrel"
 	quest.5649FC1867467561.quest_desc: ["Half-size 1x1 storage drawers will store 16 stacks of an item."]
 	quest.5683C69200EBC4CD.quest_desc: ["The main feature of Applied Energistics 2 is the ME (pronounced Emm- Eee and stands for Matter Energy) network, which is a set of interconnected blocks and cables grouped into a system where storage, power, and function interact between multiple components."]
 	quest.5683C69200EBC4CD.title: "Storage and transportation"
@@ -1651,13 +1697,19 @@
 	quest.5ABD56ACA65AC114.title: "Свечи на черепах"
 	quest.5ADF05F11C9318F3.quest_desc: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
 	quest.5ADF05F11C9318F3.quest_subtitle: "&bСиняя"
+	quest.5AEDD4540682A8BB.quest_desc: ["A more powerful version of the Water Wheel, producing more energy."]
+	quest.5AEDD4540682A8BB.title: "Large Water Wheel"
 	quest.5AEF483DC14DC7A7.quest_desc: ["Создайте комплект &6морской брони&r из блестящей чешуи, а также чешуи левиафана."]
 	quest.5AEF483DC14DC7A7.quest_subtitle: "&6Бронзовая"
 	quest.5AEF483DC14DC7A7.title: "Морская броня"
 	quest.5B1664C5DEB1160D.quest_desc: ["Full-size 1x2 storage drawers will store 16 stacks of an item per drawer (32 stacks overall)."]
 	quest.5B182959C194C268.quest_desc: ["Постройте рамку портала в Незер и активируйте портал с помощью огнива."]
+	quest.5B1D88BFEA39DBAE.quest_desc: ["Fluix Crystals are obtained from the reaction of Certus Quartz, Redstone, and Nether Quartz in water. This is a key element for creating cables and processors."]
+	quest.5B1D88BFEA39DBAE.title: "Fluix Crystal"
 	quest.5B20FAAB0E962133.title: "Блюда из гасты"
 	quest.5B978E6C5FE55BEB.quest_subtitle: "An exclusive ingredient used to create Player Transmitters."
+	quest.5BDDB91816287CD1.quest_desc: ["Blaze Rods drop from Blazes in fortresses. They are needed for brewing and creating Eyes of Ender."]
+	quest.5BDDB91816287CD1.title: "Blaze Rod"
 	quest.5C27111CCD5A67DA.quest_desc: ["Получите всевозможное оружие из морской бездны."]
 	quest.5C27111CCD5A67DA.title: "Глубинное оружие"
 	quest.5C3C55360EAE3AE1.quest_desc: ["После победы над грозовым драконом, вы можете ощутить себя настоящим &6драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
@@ -1703,7 +1755,8 @@
 	quest.5D89C7F9261D1E74.quest_subtitle: "Find a chapter of Tools of War in a bastion remnant, or barter for one with a piglin"
 	quest.5DB4107A4B371F98.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.5DE127A09C08A509.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
-	quest.5DE71164950E8FE9.title: "Visit &6Nether"
+	quest.5DE71164950E8FE9.quest_desc: ["Welcome to hell! The Nether is a dangerous place full of fire and monsters, but here you can find the rarest resources, like Netherite."]
+	quest.5DE71164950E8FE9.title: "Visit the Nether"
 	quest.5E1D79B76A1A2D3A.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.5E21323CD1DA1EB1.quest_desc: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
 	quest.5E21323CD1DA1EB1.quest_subtitle: "Серебряная"
@@ -1717,6 +1770,8 @@
 	quest.5F52B24FFE2DDD86.title: "Can we create Magnemite?"
 	quest.5FE2E98F31F86843.quest_desc: ["Не каждый ел такое."]
 	quest.5FE2E98F31F86843.title: "Люксовая еда"
+	quest.5FEA2252462284A4.quest_desc: ["Brass Casing is used to create more advanced mechanisms. Applied to stripped logs just like Andesite Casing."]
+	quest.5FEA2252462284A4.title: "Brass Casing"
 	quest.601FE17AA8C90316.quest_subtitle: "Found by opening underground Strongholds in the Dark Forest with a trophy. Unlocks the Ur-Ghast Tower."
 	quest.601FE17AA8C90316.title: "Slay the &8Knight Phantoms"
 	quest.60415FF25D84D1D9.quest_desc: ["Тёмный лорд - порождение Бездны. Именно он вёл в бой Легион Затмения, пытаясь принести мир в жертву Бездне. Его доспех - прямое воплощение ужаса и боли всех, кто пал от его рук. Увеличивает урон носителя, заставляя проливать всё больше крови во имя тьмы."]
@@ -1809,11 +1864,8 @@
 	quest.6656A5E5D8FDABE9.title: "Netherite-diamond armor"
 	quest.66C4F35670A11042.quest_desc: ["Сахарный диабет передёт привет."]
 	quest.66C4F35670A11042.title: "Тортики"
-	quest.66D26625F2F9CB42.quest_desc: [
-		"The Drawer Controller will allow you to connect all storage drawers in a 12 block radius making a large combined storage."
-		""
-		"You can deposit items into the entire system by right clicking items onto it. Double right clicking the controller will attempt to dump your enitre inventory into the system, but only if they currently exist in the system."
-	]
+	quest.66D26625F2F9CB42.quest_desc: ["The Drawer Controller is the brain of your storage system. It unites all connected drawers into one network, allowing you to quickly store and retrieve items."]
+	quest.66D26625F2F9CB42.title: "Drawer Controller"
 	quest.6708D4288C5B1F71.quest_desc: ["Абсолютно не связанные между собой блюда."]
 	quest.6708D4288C5B1F71.title: "Каменный суп"
 	quest.673067D1EF14C18C.quest_desc: ["Броня, принадлежавшая некогда очень опытному вору. Это идеально пошитый тканевый доспех не сковывает движений и позволяет оставаться незаметным даже на самых опасных заданиях. Поговаривают, что он даже приносит удачу владельцу."]
@@ -1833,6 +1885,8 @@
 	quest.6827A0BFE8BBD247.quest_subtitle: "Белый комплект"
 	quest.6827A0BFE8BBD247.title: "Броня из чешуи дракона"
 	quest.682D1178AF51998C.title: "Runes"
+	quest.68445BB069625244.quest_desc: ["The Electron Tube is used in logic circuits and advanced Create components. It's made by polishing Rose Quartz and combining it with an iron nugget."]
+	quest.68445BB069625244.title: "Electron Tube"
 	quest.68487E90AA4A1FC5.quest_subtitle: "The ME Chest is the simplest way to use a Storage cell, it will give you direct access to the contents of the cell placed inside. It can be powered stand alone with external power, or as part of a ME Network. When on a network, the storage of the chest will be available to any other devices in the same network using an assigned Channel. When used without a network, the chest will not transfer full stacks at once, capping transfers at 38 items instead."
 	quest.6863855483D18530.title: "Netherite-emerald"
 	quest.686528C6DC3955B0.title: "Certus Quartz"
@@ -1902,6 +1956,8 @@
 	quest.6ADFD817111E5435.quest_desc: ["Can be placed surrounding the enchanting table one-block away and up to two-blocks high to add a small amount of Arcana. There is no limit beyond how many you can fit. Placing multiple on the same block provides no additional benefit."]
 	quest.6AE569FB246DF219.title: "Diamond Armor"
 	quest.6B05C72FF31E104D.title: "Raw Iridium"
+	quest.6B093C1DD6F02BCE.quest_desc: ["The base for backpack upgrades. With it, you can add functions like a magnet, auto-feeding, and more to your backpack."]
+	quest.6B093C1DD6F02BCE.title: "Upgrade Base"
 	quest.6B11B8A209763B36.quest_subtitle: "Can make items and fluids react with each other."
 	quest.6B15091EC1B119B0.quest_subtitle: "Kanthal Coils are used by the Electric Blast Furnace to produce more materials as they are powerful enough to do so."
 	quest.6B15F03E2B2FE389.quest_desc: ["Из меди можно сделать ящик, в который можно положить до 9 различных инструментов, в том числе серебряных."]
@@ -1998,6 +2054,8 @@
 	]
 	quest.70072763767DCB9A.title: "Repairing 2"
 	quest.704CCA2CEAB23B4D.title: "Enter The &6&lOtherside"
+	quest.707AFB8F32C608EE.quest_desc: ["The Sequenced Gearshift allows you to create complex sequences of movements for your constructions."]
+	quest.707AFB8F32C608EE.title: "Sequenced Gearshift"
 	quest.70A66D9B5E2627C0.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.70CD9F0D26A75E13.quest_desc: [""]
 	quest.70CD9F0D26A75E13.quest_subtitle: "This is a miner's trusty item that will mine tunnels in a 3x3 manner. Remember to always refuel with water and coal like a steam engine!"
@@ -2014,8 +2072,11 @@
 	quest.71C9599025F42AFB.quest_desc: ["Убивая приспешников королевы, вы будете получать хитин. Из которого можно создать &6броню мирмексов&r."]
 	quest.71D13F8ED724184A.quest_desc: ["Хоглин, как оказалось, очень даже полезен."]
 	quest.71D13F8ED724184A.title: "Огромный адский свин"
+	quest.71ED2850DB4D0528.quest_desc: ["Learn the basic mechanics of Create. Hover over an item and hold 'W' to see a visual guide (Ponder)."]
 	quest.71ED2850DB4D0528.quest_subtitle: "Hover over an item and hold down the W button to see how it works."
 	quest.71ED2850DB4D0528.title: "Guide"
+	quest.71EDE15818D4C2A1.quest_desc: ["The Blast Furnace is a complex structure for obtaining steel from cast iron or industrial iron using coal coke."]
+	quest.71EDE15818D4C2A1.title: "Blast Furnace"
 	quest.7223101B97E1FDFC.quest_desc: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
 	quest.7234FD5F79ABF6B0.quest_desc: [
 		"When this treatise is near a workbench any major module made of stone will do extra damage and have better efficiency."
@@ -2023,6 +2084,8 @@
 		"Can be bought from mason villagers."
 	]
 	quest.723A9F5E5263517D.quest_desc: ["The second level of storage upgrade will increase the storage of a drawer block by 4 times."]
+	quest.726011E852DAB862.quest_desc: ["A gearbox allows you to change the direction of rotation at a 90-degree angle. It can be toggled between horizontal and vertical positions."]
+	quest.726011E852DAB862.title: "Gearbox"
 	quest.7275F30F2B0F74CC.quest_desc: [
 		"The Forged Workbench, while not necessary, looks really nice with the Forge Hammer. It can be picked up with silk touch. "
 		""
@@ -2084,6 +2147,8 @@
 		"* Unlike other artifacts found in the ruins this cannot be repaired with metal scrap"
 	]
 	quest.748E7791E3087456.quest_subtitle: "Replace the right head of a double headed tool with a Chtonic Extractor for a powerful harvesting tool"
+	quest.7495FD1A88E6A10B.quest_desc: ["The Deployer mimics player actions. It can use tools, place blocks, or interact with mechanisms. This is critical for automating the creation of Precision Mechanisms."]
+	quest.7495FD1A88E6A10B.title: "Deployer"
 	quest.74A278B57EF76B3B.quest_subtitle: "Now we're cooking, perhaps there is more to this quarry than just this drill, maybe we can advance even further?"
 	quest.74A278B57EF76B3B.title: "Bronze drill"
 	quest.74CE95FDE11033DB.quest_desc: ["Броня рыцарей Легиона Затмения. Когда-то в мире произошла большая война, в которой этот легион сражался за приход вечной ночи. Является довольно лёгким, тем самым не сковывая движений владельца."]
@@ -2113,6 +2178,8 @@
 	quest.7785E672EA6342AB.quest_desc: ["Одолейте древнюю &aсамку&r дракона и заполучите одно из двенадцати! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &aбестиарии&r."]
 	quest.7785E672EA6342AB.quest_subtitle: "&aЗелёное"
 	quest.778B20E04E33C7C9.quest_desc: ["Этот кузнечный шаблон используется для улучшения возможностей шотгана."]
+	quest.7796359B0F6A6606.quest_desc: ["A Backpack is your trusty companion in travels. It can be worn in the curios slot and opened with a hotkey (default 'B')."]
+	quest.7796359B0F6A6606.title: "Backpack"
 	quest.77B36844A2421C33.quest_desc: ["В саваннах можно встретить существ, от которых произошли курицы - &6Василисков&r. Их глаза обладают иссушающими свойствами, поэтому не советую смотреть им в глаза."]
 	quest.77D82C14AF67BCEE.quest_desc: ["Это око находится под охраной магов из расы Кобольдов."]
 	quest.77DBD93F55880929.quest_desc: ["Когда-то драконов в мире было намного больше, но рыцари-драконоборцы очень сильно сократили их популяцию. Теперь найти настоящего древнего дракона - большая редкость. Эта тяжёлая древняя броня,, принадлежавшая когда-то одному из сильнейших драконоборцев, впитала в себя силу поверженных драконов. Обеспечивает огромную защиту против драконов."]
@@ -2129,6 +2196,8 @@
 		"While exploring these dungeons it would be good to bring a hammer and claw tool to be able to salvage objects in the bases. When looking at blocks they will sometimes show a hammer or crowbar symbol along with a box where right clicking will do an action. A white icon means the action can happen, while red means it will not work, and yellow will have a chance to fail. Salvage will give you unique components and materials that you can use."
 	]
 	quest.788795772632D09F.title: "Exploration of Ancients Bases"
+	quest.7950278ADE16875A.quest_desc: ["The Apple Press is used to obtain juice and fruit mash. This is the first step towards creating fine beverages and wines."]
+	quest.7950278ADE16875A.title: "Apple Press"
 	quest.7953BCBBF9F386C4.quest_subtitle: "Ender Cores are a primary material used to create ender-based machinery."
 	quest.796F33AE4A9CF30C.quest_desc: [""]
 	quest.796F33AE4A9CF30C.quest_subtitle: "The electric version of the Steam Blast Furnace, nothing more, nothing less. But it does add more recipes that can only be done with this furnace."
@@ -2141,7 +2210,8 @@
 	quest.79A3560E017069DF.quest_desc: [""]
 	quest.79A3560E017069DF.title: "Ironwood armour"
 	quest.79AF63E77AD70A93.title: "Bookshelf"
-	quest.79B6E26E55934B4C.quest_desc: ["placing the concrete liquid on the ground to harden will turn it to concrete"]
+	quest.79B6E26E55934B4C.quest_desc: ["Concrete is a very durable building material also used in some heavy constructions."]
+	quest.79B6E26E55934B4C.title: "Concrete"
 	quest.79F4B68189C05A25.quest_desc: [""]
 	quest.79F4B68189C05A25.quest_subtitle: "The Assembler is a sophisticated machinery that will automate almost all of your machinery parts, but remember to make more of them to make it easier."
 	quest.79F4B68189C05A25.title: "Machine Parts, ASSEMBLE!!"
@@ -2151,6 +2221,8 @@
 	quest.7A4358D94A9CE9CE.quest_desc: ["Убив плотоядного червя, вы получите &eхитин&r. Который можно использовать для создания брони."]
 	quest.7A66998B5B887709.title: "Tools"
 	quest.7AAA9CE6FA1E72F6.quest_subtitle: "Furnators use burning fuel sources such as coal and wood to generate power. The higher tier, the more power and efficiency created from fuel sources."
+	quest.7AE6264633DF4EFE.quest_desc: ["Brass is the primary metal of this age. It's made by mixing copper and zinc in a melter."]
+	quest.7AE6264633DF4EFE.title: "Brass Ingot"
 	quest.7B09E0B3B3FB14FF.quest_desc: ["Когда-то драконов в мире было намного больше, но рыцари-драконоборцы очень сильно сократили их популяцию. Теперь найти настоящего древнего дракона - большая редкость. Эта тяжёлая древняя броня,, принадлежавшая когда-то одному из сильнейших драконоборцев, впитала в себя силу поверженных драконов. Обеспечивает огромную защиту против драконов."]
 	quest.7B09E0B3B3FB14FF.title: "Нагрудник драконоборца"
 	quest.7B0FC4A5072B0488.title: "8x cobblestone"
@@ -2200,6 +2272,8 @@
 	quest.7E67F5E432F705E5.quest_desc: ["Победите мини-босса живущего в забвенных пустотах и получите &4первородную тьму&r."]
 	quest.7EB2ED772BB8BBE8.quest_desc: ["После победы над огненым драконом, вы можете ощутить себя настоящим &aдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
 	quest.7EB2ED772BB8BBE8.quest_subtitle: "&aЗелёная"
+	quest.7EB363A3DBFB851F.quest_desc: ["The Inscriber is used to create processors and prints. It's the heart of your AE2 automation."]
+	quest.7EB363A3DBFB851F.title: "Inscriber"
 	quest.7ECBE787B68EAF9A.quest_desc: ["&6Драконья&r еда поможет вашему дракону расти быстрее."]
 	quest.7EF060B2F3F60197.quest_desc: ["Создайте &eпервобытную&r броню."]
 	quest.7F098E39492F5712.quest_subtitle: "To craft the processors required for more advanced machines, you'll need the Inscriber. Each type of processor has an associated press, which you will find in meteorites. Each operation requires 1k AE charged up."

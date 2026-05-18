@@ -133,9 +133,7 @@
       "endTimestamp": "",
       "buttons": {}
     },
-    "dynamicIcons": {
-      "look-ownership.gl.joinmc.link": "https://api.mcsrvstat.us/icon/look-ownership.gl.joinmc.link"
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",

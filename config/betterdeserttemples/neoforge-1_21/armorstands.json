@@ -22,8 +22,8 @@
   },
   "wardrobeChestplates": {
     "entries": {
-      "minecraft:chainmail_chestplate": 0.2,
-      "minecraft:leather_chestplate": 0.4
+      "minecraft:leather_chestplate": 0.4,
+      "minecraft:chainmail_chestplate": 0.2
     },
     "defaultItem": "minecraft:air"
   },

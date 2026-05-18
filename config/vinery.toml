@@ -84,10 +84,10 @@
 		#List of trades for Level 1. Format: item|price|quantity|maxUses|isSelling
 		level1Trades = ["vinery:red_grape|5|4|5|false", "vinery:white_grape|5|4|5|false", "vinery:red_grape_seeds|2|1|1|true", "vinery:white_grape_seeds|2|1|1|true"]
 		#List of trades for Level 2. Format: item|price|quantity|maxUses|isSelling
-		level2Trades = ["vinery:wine_bottle|1|2|7|true"]
+		level2Trades = ["vinery:wine_bottle|1|1|4|true", "vinery:cherry|12|1|4|false", "vinery:apple_mash|1|1|4|true"]
 		#List of trades for Level 3. Format: item|price|quantity|maxUses|isSelling
-		level3Trades = ["vinery:flower_box|3|1|10|true", "vinery:white_grape_bag|7|1|10|true", "vinery:red_grape_bag|7|1|10|true"]
+		level3Trades = ["vinery:white_grape_bag|7|1|2|true", "vinery:red_grape_bag|7|1|2|true", "vinery:cherry_bag|7|1|2|true", "vinery:apple_bag|7|1|2|true"]
 		#List of trades for Level 4. Format: item|price|quantity|maxUses|isSelling
-		level4Trades = ["vinery:basket|4|1|10|true", "vinery:flower_pot_big|5|1|10|true", "vinery:window|12|1|10|true", "vinery:dark_cherry_beam|6|1|10|true", "vinery:taiga_red_grape_seeds|2|1|5|true", "vinery:taiga_white_grape_seeds|2|1|5|true"]
+		level4Trades = ["vinery:window|12|1|2|true", "vinery:dark_cherry_beam|6|4|2|true", "vinery:grapevine_pot|6|1|2|true", "vinery:taiga_red_grape_seeds|2|1|2|true", "vinery:taiga_white_grape_seeds|2|1|2|true"]
 		#List of trades for Level 5. Format: item|price|quantity|maxUses|isSelling
-		level5Trades = ["vinery:wine_box|10|1|10|true", "vinery:lilitu_wine|4|1|10|true", "vinery:calendar|12|1|15|true"]
+		level5Trades = ["vinery:wine_box|10|1|2|true", "vinery:lilitu_wine|4|1|2|true", "vinery:winemaker_apron|18|1|1|true", "vinery:straw_hat|12|1|1|true"]

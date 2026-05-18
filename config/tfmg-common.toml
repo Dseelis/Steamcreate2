@@ -26,7 +26,7 @@
 	#The minimum electric current that will make electrolyzers operational.
 	# Default: 5
 	# Range: > 1
-	electrolysisMinimumCurrent = 10
+	electrolysisMinimumCurrent = 5
 	#.
 	#The maximum length of engines.
 	# Default: 5
@@ -42,6 +42,15 @@
 	# Default: 1000
 	# Range: > 1
 	polarizerItemChargingRate = 1000
+
+	#.
+	#Engines
+	[machines.engines]
+		#.
+		#Changes the volume of engines.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		engineLoudness = 5.0
 
 	#.
 	#Accumulator
@@ -78,15 +87,6 @@
 		# Default: 100
 		# Range: > 1
 		fireboxFuelConsumption = 100
-
-	#.
-	#Engines
-	[machines.engines]
-		#.
-		#Changes the volume of engines.
-		# Default: 1.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		engineLoudness = 1.0
 
 	#.
 	#Generators

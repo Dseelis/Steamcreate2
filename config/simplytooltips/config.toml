@@ -5,8 +5,8 @@ enableTooltipRendering = true
 [general]
 scrollableTooltip = true
 tooltipTabs = true
-applyTooltipsToVanillaItems = true
-applyTooltipsToModItems = true
+applyTooltipsToVanillaItems = false
+applyTooltipsToModItems = false
 
 [layout]
 padding = 10

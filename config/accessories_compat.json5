@@ -6,5 +6,7 @@
 			"additionalSlot": 1
 		}
 	],
-	"dumpDataWhenNullEntries": false
+	"dumpDataWhenNullEntries": false,
+	"addPocketSlot": true,
+	"showPocketSlotInTooltip": false
 }

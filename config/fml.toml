@@ -11,11 +11,11 @@ defaultConfigPath = "defaultconfigs"
 #Disables Optimized DFU client-side - already disabled on servers
 disableOptimizedDFU = true
 #Early window provider
-earlyWindowProvider = "fmlearlywindow"
+earlyWindowProvider = "drippy_early_window"
 #Early window width
-earlyWindowWidth = 854
+earlyWindowWidth = 1024
 #Early window height
-earlyWindowHeight = 480
+earlyWindowHeight = 768
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window starts maximized

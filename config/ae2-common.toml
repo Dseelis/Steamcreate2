@@ -70,7 +70,7 @@
 
 [worldGen]
 	spawnPressesInMeteorites = false
-	spawnFlawlessOnly = false
+	spawnFlawlessOnly = true
 
 [wireless]
 	# Default: 8.0

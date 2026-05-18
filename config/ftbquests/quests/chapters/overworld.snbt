@@ -2021,5 +2021,77 @@
 			x: 4.0d
 			y: -0.5d
 		}
+		{
+			dependencies: [
+				"4C02A9E54151C4E2"
+				"22E36BE50CB77546"
+				"08C53AEC0A05EF07"
+				"030139F76B87B07D"
+				"388C6B912BD5B3E6"
+			]
+			id: "7EC9EBF787E1D76D"
+			tasks: [{
+				id: "271D32A61CFCA598"
+				item: { count: 1, id: "steamcore:eternal_core" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["2B115519A21F9CB7"]
+			id: "22E36BE50CB77546"
+			tasks: [{
+				id: "2658C023CF0802C0"
+				item: { count: 1, id: "steamcore:ender_core_plate" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7D57A14810BC0CBE"]
+			id: "030139F76B87B07D"
+			tasks: [{
+				id: "5193654745F375CE"
+				item: { count: 1, id: "steamcore:void_core_plate" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["17CA9D80D8EC3EF7"]
+			hide_dependency_lines: true
+			id: "388C6B912BD5B3E6"
+			tasks: [{
+				id: "5679EF3BAF8D4197"
+				item: { count: 1, id: "steamcore:mechanical_core_plate" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["53154550397E9704"]
+			id: "4C02A9E54151C4E2"
+			tasks: [{
+				id: "1910518A4FD62801"
+				item: { count: 1, id: "steamcore:ancient_core_plate" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 19.0d
+		}
+		{
+			id: "08C53AEC0A05EF07"
+			tasks: [{
+				id: "4AA780AD6187A37E"
+				item: { count: 1, id: "steamcore:forgotten_essence" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 20.5d
+		}
 	]
 }

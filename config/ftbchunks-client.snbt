@@ -138,44 +138,45 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"quark:toretoise": true
-			"minecraft:donkey": true
-			"minecraft:armadillo": true
-			"minecraft:iron_golem": true
-			"minecraft:pig": true
-			"cataclysm:modern_remnant": true
-			"minecraft:wolf": true
-			"minecraft:slime": true
-			"minecraft:phantom": true
 			"minecraft:squid": true
-			"quark:stoneling": true
-			"minecraft:enderman": true
-			"minecraft:rabbit": true
-			"minecraft:creeper": true
-			"minecraft:axolotl": true
-			"minecraft:chicken": true
-			"minecraft:spider": true
-			"minecraft:pufferfish": false
+			"minecraft:armadillo": true
 			"minecraft:skeleton_horse": true
-			"minecraft:drowned": true
-			"minecraft:tropical_fish": false
-			"minecraft:cat": true
-			"minecraft:witch": true
-			"cataclysm:amethyst_crab": true
-			"minecraft:zombie_villager": true
+			"minecraft:villager": true
+			"cataclysm:modern_remnant": true
+			"minecraft:pig": true
+			"minecraft:axolotl": true
+			"minecraft:spider": true
+			"minecraft:skeleton": true
+			"minecraft:cod": false
 			"minecraft:cow": true
 			"minecraft:horse": true
+			"minecraft:tropical_fish": false
+			"minecraft:enderman": true
+			"minecraft:donkey": true
+			"minecraft:drowned": true
 			"minecraft:bat": true
 			"artifacts:mimic": true
+			"minecraft:cat": true
+			"minecraft:phantom": true
+			"minecraft:zombie_villager": true
+			"minecraft:glow_squid": true
 			"minecraft:turtle": true
-			"minecraft:skeleton": true
+			"minecraft:creeper": true
+			"quark:toretoise": true
+			"minecraft:chicken": true
+			"cataclysm:amethyst_crab": true
+			"minecraft:slime": true
+			"minecraft:pufferfish": false
+			"minecraft:iron_golem": true
+			"minecraft:zombie": true
 			"minecraft:fox": true
 			"minecraft:bee": true
-			"minecraft:zombie": true
 			"minecraft:breeze": true
-			"minecraft:villager": true
 			"minecraft:sheep": true
-			"minecraft:glow_squid": true
+			"minecraft:rabbit": true
+			"quark:stoneling": true
+			"minecraft:witch": true
+			"minecraft:wolf": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

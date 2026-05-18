@@ -3,6 +3,17 @@
 	[stressValues.v2]
 
 		#.
+		#[in Stress Units]
+		#Configure how much stress a source can accommodate for.
+		[stressValues.v2.capacity]
+			electric_motor = 16.0
+			radial_engine = 100.0
+			large_engine = 55.0
+			regular_engine = 100.0
+			simple_large_engine = 40.0
+			turbine_engine = 100.0
+
+		#.
 		#.
 		#[in Stress Units]
 		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
@@ -37,17 +48,6 @@
 			steel_encased_steel_cogwheel = 0.0
 			steel_cogwheel = 0.0
 			concrete_hose = 4.0
-
-		#.
-		#[in Stress Units]
-		#Configure how much stress a source can accommodate for.
-		[stressValues.v2.capacity]
-			radial_engine = 100.0
-			large_engine = 55.0
-			regular_engine = 100.0
-			electric_motor = 12.0
-			simple_large_engine = 40.0
-			turbine_engine = 100.0
 
 		#.
 		#Fine tune the resistivity stats of individual cable types

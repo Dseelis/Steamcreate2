@@ -1,3 +1,12 @@
+# [2.1.3b] - 18-05-2026
+Minor fixes to quests
+MP bug fixes
+Mod updates
+Removed - Apotheosis, Apothic compat and other mods
+Added - Create Railways Navigator, KubeJS and addons, cc: tweaked, Drippy Early Loading Module, Create Big Cannons: Advanced Technologies, Create: Radars, TFMG: Engine controller Fix, Obscure Tooltips, Enigmatic Legacy Plus for test
+Some recipes updated
+Main menu updated
+
 # [2.1.2b] - 21-04-2026
 deleted ftb chunks xaeroworldmap compat due mp crash
 updated mods
