@@ -1,22 +1,14 @@
 [general]
 	#Show intro messages when entering the world
 	showIntroMessages = false
+	#Enable abyss teleport system
+	enableAbyss = false
+	#Enable Gamma Ignite item usage
+	enableGammaIgnite = true
 	#Chance of failed disassembly (0.0 - 1.0)
 	# Default: 0.15
 	# Range: 0.0 ~ 1.0
 	disassemblyFailChance = 0.15
-	#Allow Nether portals
-	enablePortals = true
-
-[debug]
-	#Enable /steamdebug
-	enableSteamDebugCommand = false
-
-[dev]
-	#Enable Work In Progress items/features
-	enableWipItems = true
-	#Enable abyss teleport system
-	enableAbyss = false
 	#Y level where teleport triggers
 	# Default: -62
 	# Range: -256 ~ 0
@@ -25,3 +17,9 @@
 	# Default: 4
 	# Range: 0 ~ 40
 	abyssDamage = 4
+	#Allow Nether portals
+	enablePortals = true
+
+[debug]
+	#Enable /steamdebug
+	enableSteamDebugCommand = false

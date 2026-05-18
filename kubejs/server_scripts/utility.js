@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-  // Bucket - uses iron sheets instead of ingots
+  // Bucket 
   event.shaped('minecraft:bucket', [
     's s',
     ' s '
@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
     s: 'create:iron_sheet'
   })
 
-  // Cauldron - uses iron sheets
+  // Cauldron 
   event.shaped('minecraft:cauldron', [
     's s',
     's s',
@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
     s: 'create:iron_sheet'
   })
 
-  // Shears - uses iron sheets
+  // Shears 
   event.shaped('minecraft:shears', [
     ' s',
     's '
@@ -24,7 +24,7 @@ ServerEvents.recipes(event => {
     s: 'create:iron_sheet'
   })
 
-  // Shield - iron sheets + planks
+  // Shield 
   event.shaped('minecraft:shield', [
     'isi',
     'sss',
@@ -34,7 +34,7 @@ ServerEvents.recipes(event => {
     s: '#minecraft:planks'
   })
 
-  // Anvil - iron blocks + iron sheets
+  // Anvil 
   event.shaped('minecraft:anvil', [
     'bbb',
     ' s ',
@@ -43,8 +43,18 @@ ServerEvents.recipes(event => {
     b: 'minecraft:iron_block',
     s: 'create:iron_sheet'
   })
+  // certus quartz 
+  event.shaped('ae2:certus_quartz_crystal', [
+    "cab",
+    "aaa",
+    "bac"
+  ], {
+    a: 'minecraft:quartz',
+    c: 'tfmg:nitrate_dust',
+    b: 'tfmg:thermite_powder'
+  })
 
-  // Chain - iron sheets + nuggets
+  // Chain 
   event.shaped('minecraft:chain', [
     's',
     'n',

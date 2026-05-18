@@ -21,11 +21,12 @@ ServerEvents.recipes(event => {
     // Blocks
     'minecraft:furnace',
 
-    // Utility items
+    // items
     'minecraft:bucket',
     'minecraft:cauldron',
     'minecraft:shears',
     'minecraft:shield',
+    'ae2:certus_quartz_crystal',
     'minecraft:anvil',
     'minecraft:chain',
 

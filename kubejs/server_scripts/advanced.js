@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
   // SEQUENCED ASSEMBLY - REDSTONE COMPONENTS
   // ========================================
 
-  // Compass - iron sheet + redstone + iron ingot
+  // Compass
   event.recipes.create.sequenced_assembly([
     'minecraft:compass'
   ], 'create:iron_sheet', [
@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.deploying('create:iron_sheet', ['create:iron_sheet', 'minecraft:iron_ingot'])
   ]).transitionalItem('create:iron_sheet').loops(1)
 
-  // Clock - golden sheet + redstone + gold ingot
+  // Clock
   event.recipes.create.sequenced_assembly([
     'minecraft:clock'
   ], 'create:golden_sheet', [
@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.deploying('create:golden_sheet', ['create:golden_sheet', 'minecraft:gold_ingot'])
   ]).transitionalItem('create:golden_sheet').loops(1)
 
-  // Piston - planks + iron sheet + redstone + cobblestone
+  // Piston
   event.recipes.create.sequenced_assembly([
     'minecraft:piston'
   ], 'minecraft:oak_planks', [
@@ -31,14 +31,14 @@ ServerEvents.recipes(event => {
     event.recipes.create.pressing('minecraft:oak_planks', 'minecraft:oak_planks')
   ]).transitionalItem('minecraft:oak_planks').loops(1)
 
-  // Sticky Piston - piston + slime ball
+  // Sticky Piston
   event.recipes.create.sequenced_assembly([
     'minecraft:sticky_piston'
   ], 'minecraft:piston', [
     event.recipes.create.deploying('minecraft:piston', ['minecraft:piston', 'minecraft:slime_ball'])
   ]).transitionalItem('minecraft:piston').loops(1)
 
-  // Repeater - stone + redstone torch + redstone
+  // Repeater
   event.recipes.create.sequenced_assembly([
     'minecraft:repeater'
   ], 'minecraft:stone', [
@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.pressing('minecraft:stone', 'minecraft:stone')
   ]).transitionalItem('minecraft:stone').loops(1)
 
-  // Comparator - stone + redstone torch + quartz + redstone
+  // Comparator
   event.recipes.create.sequenced_assembly([
     'minecraft:comparator'
   ], 'minecraft:stone', [

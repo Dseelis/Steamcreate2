@@ -69,7 +69,7 @@ ServerEvents.recipes(event => {
     b: 'minecraft:diamond'
   })
 
-  // Gold Armor (renamed to golden in 1.21+)
+  // Gold Armor
   event.shaped('minecraft:golden_boots', [
     'a a',
     'b b'

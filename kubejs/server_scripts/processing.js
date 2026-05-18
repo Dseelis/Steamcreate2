@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
   // MIXING RECIPES
   // ========================================
 
-  // Concrete - all 16 colors (powder + water -> concrete)
+  // Concrete
   const colors = [
     'white', 'orange', 'magenta', 'light_blue',
     'yellow', 'lime', 'pink', 'gray',
@@ -18,7 +18,7 @@ ServerEvents.recipes(event => {
     ])
   })
 
-  // Slime balls from slime block
+  // Slime balls
   event.recipes.create.mixing('9x minecraft:slime_ball', [
     'minecraft:slime_block'
   ])
@@ -33,10 +33,10 @@ ServerEvents.recipes(event => {
   // PRESSING RECIPES
   // ========================================
 
-  // Paper from sugar cane (1:1 ratio)
+  // Paper from sugar cane
   event.recipes.create.pressing('minecraft:paper', 'minecraft:sugar_cane')
 
-  // Leather from rotten flesh (compacting instead of pressing)
+  // Leather from rotten flesh
   event.recipes.create.compacting('minecraft:leather', '4x minecraft:rotten_flesh')
 
   // Note: Packing items like wheat -> wheat block is better done with compacting
@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
   // CUTTING RECIPES
   // ========================================
 
-  // Planks from logs (6x instead of 4x - bonus for using Create)
+  // Planks (bonus)
   const woodTypes = [
     'oak', 'spruce', 'birch', 'jungle',
     'acacia', 'dark_oak', 'mangrove', 'cherry'
@@ -57,7 +57,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.cutting(`6x minecraft:${wood}_planks`, Ingredient.of(`#minecraft:${wood}_logs`))
   })
 
-  // Nether wood types (use stems instead of logs)
+  // Nether wood types
   event.recipes.create.cutting('6x minecraft:crimson_planks', Ingredient.of('#minecraft:crimson_stems'))
   event.recipes.create.cutting('6x minecraft:warped_planks', Ingredient.of('#minecraft:warped_stems'))
 
@@ -90,7 +90,7 @@ ServerEvents.recipes(event => {
   // CRUSHING RECIPES
   // ========================================
 
-  // Gravel -> Sand (with bonus chance)
+  // Gravel -> Sand
   event.recipes.create.crushing([
     'minecraft:sand',
     CreateItem.of('minecraft:sand', 0.5)
@@ -102,13 +102,13 @@ ServerEvents.recipes(event => {
     CreateItem.of('minecraft:red_sand', 0.5)
   ], 'minecraft:red_sandstone')
 
-  // Bone -> Bone Meal (3x with chance)
+  // Bone -> Bone Meal
   event.recipes.create.crushing([
     '3x minecraft:bone_meal',
     CreateItem.of('minecraft:bone_meal', 0.5)
   ], 'minecraft:bone')
 
-  // Blaze Rod -> Blaze Powder (2x with chance)
+  // Blaze Rod -> Blaze Powder
   event.recipes.create.crushing([
     '2x minecraft:blaze_powder',
     CreateItem.of('minecraft:blaze_powder', 0.5)
@@ -120,13 +120,13 @@ ServerEvents.recipes(event => {
   // Stone -> Cobblestone
   event.recipes.create.crushing('minecraft:cobblestone', 'minecraft:stone')
 
-  // Netherrack -> Nether Wart (rare)
+  // Netherrack -> Nether Wart
   event.recipes.create.crushing([
     CreateItem.of('minecraft:nether_wart', 0.1),
     CreateItem.of('minecraft:netherrack', 0.75)
   ], 'minecraft:netherrack')
 
-  // Glowstone -> Glowstone Dust (4x)
+  // Glowstone -> Glowstone Dust 
   event.recipes.create.crushing('4x minecraft:glowstone_dust', 'minecraft:glowstone')
 
   // Prismarine -> Prismarine Shard
@@ -142,10 +142,10 @@ ServerEvents.recipes(event => {
   // Sugar Cane -> Sugar
   event.recipes.create.milling('minecraft:sugar', 'minecraft:sugar_cane')
 
-  // Bone -> Bone Meal (2x, less than crushing)
+  // Bone -> Bone Meal
   event.recipes.create.milling('2x minecraft:bone_meal', 'minecraft:bone')
 
-  // Wheat -> Seeds (chance)
+  // Wheat -> Seeds 
   event.recipes.create.milling([
     CreateItem.of('minecraft:wheat_seeds', 0.25)
   ], 'minecraft:wheat')
