@@ -122,7 +122,7 @@
 		#.
 		#How Recipe Viewer search should interact with Stock Keepers
 		#Allowed Values: SYNC_BOTH, SYNC_FROM_JEI, SYNC_FROM_STOCK_KEEPER, NONE
-		syncRecipeViewerSearch = "SYNC_BOTH"
+		syncRecipeViewerSearch = "SYNC_FROM_JEI"
 
 	#.
 	#Railway related settings
