@@ -1,5 +1,5 @@
 # [2.1.4b] - 15-06-2026
-Missing recipes have been fixed #14
+Missing recipes have been fixed [#14](https://github.com/Dseelis/Steamcreate2/issues/14)
 Mods have been updated (also includes these mods Sodium beta1, Iris beta1)
 Added Aeronautics Camera Sync, Create Aeronautics: Toolgun, Create Deep Seas, Create: Transmission, LambDynamicLights, Sodium Extra
 Removed Immersive Lanterns, Sodium Dynamic Lights, Sodium Extras, Sodium Options API
