@@ -35,6 +35,8 @@
 	blastEffectDelaySpeed = 320.0
 	#.
 	highlightFuzeInputOnShellBlocks = true
+	#.
+	enableEmissiveTracers = false
 
 	#.
 	#Projectile Flyby Sounds

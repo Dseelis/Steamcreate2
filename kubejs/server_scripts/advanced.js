@@ -1,7 +1,5 @@
 ServerEvents.recipes(event => {
-  // ========================================
   // SEQUENCED ASSEMBLY - REDSTONE COMPONENTS
-  // ========================================
 
   // Compass
   event.recipes.create.sequenced_assembly([
@@ -56,4 +54,30 @@ ServerEvents.recipes(event => {
     event.recipes.create.deploying('minecraft:stone', ['minecraft:stone', 'minecraft:redstone']),
     event.recipes.create.pressing('minecraft:stone', 'minecraft:stone')
   ]).transitionalItem('minecraft:stone').loops(1)
+
+  // RE-ADDING MECHANISMS (RESTORED FROM JAR)
+
+  // Precision Mechanism 
+  event.recipes.create.sequenced_assembly([
+    CreateItem.of('create:precision_mechanism', 0.8), // Main
+    CreateItem.of('create:golden_sheet', 0.1),        // Salvage 1
+    CreateItem.of('minecraft:gold_nugget', 0.1),      // Salvage 2
+  ], 'create:golden_sheet', [
+    event.recipes.create.deploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:cogwheel']),
+    event.recipes.create.deploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:large_cogwheel']),
+    event.recipes.create.deploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'minecraft:iron_nugget'])
+  ]).transitionalItem('create:incomplete_precision_mechanism').loops(5)
+
+  // Steel Mechanism
+  event.recipes.create.sequenced_assembly([
+    CreateItem.of('tfmg:steel_mechanism', 0.9),
+    CreateItem.of('tfmg:steel_ingot', 0.1)
+  ], 'tfmg:heavy_plate', [
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:steel_cogwheel']),
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:nickel_sheet']),
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:large_steel_cogwheel']),
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:lead_sheet']),
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:screw']),
+    event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:screwdriver'])
+  ]).transitionalItem('tfmg:unfinished_steel_mechanism').loops(2)
 })

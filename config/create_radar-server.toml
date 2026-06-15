@@ -23,6 +23,16 @@ controllerPhysbearingMaxSpeed = 25.0
 # Default: 512
 # Range: 1 ~ 1000
 binocularRange = 512
+#.
+#how fast a target must be moving before looser firing conditions are applied (value is in m/s)
+# Default: 3.0
+# Range: 0.0 ~ 3.4028234663852886E38
+targetLoosenThreshold = 3.0
+#.
+#increases the tolerance used to determine if cannons are pointing at the target (degrees)
+# Default: 15
+# Range: 0 ~ 180
+targetLoosenAmount = 15
 
 #.
 #Configs for radar bearing and radar stats

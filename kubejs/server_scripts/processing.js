@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
-  // ========================================
+
   // MIXING RECIPES
-  // ========================================
+
 
   // Concrete
   const colors = [
@@ -29,9 +29,9 @@ ServerEvents.recipes(event => {
     'minecraft:blaze_powder'
   ]).heated()
 
-  // ========================================
+
   // PRESSING RECIPES
-  // ========================================
+
 
   // Paper from sugar cane
   event.recipes.create.pressing('minecraft:paper', 'minecraft:sugar_cane')
@@ -43,9 +43,9 @@ ServerEvents.recipes(event => {
   event.recipes.create.compacting('minecraft:hay_block', '9x minecraft:wheat')
   event.recipes.create.compacting('minecraft:dried_kelp_block', '9x minecraft:dried_kelp')
 
-  // ========================================
+
   // CUTTING RECIPES
-  // ========================================
+
 
   // Planks (bonus)
   const woodTypes = [
@@ -70,9 +70,9 @@ ServerEvents.recipes(event => {
     event.recipes.create.cutting(`2x minecraft:${color}_carpet`, `minecraft:${color}_wool`)
   })
 
-  // ========================================
+
   // HAUNTING RECIPES
-  // ========================================
+
 
   // Soul sand from sand
   event.recipes.create.haunting('minecraft:soul_sand', 'minecraft:sand')
@@ -86,9 +86,9 @@ ServerEvents.recipes(event => {
   // Crying obsidian from obsidian
   event.recipes.create.haunting('minecraft:crying_obsidian', 'minecraft:obsidian')
 
-  // ========================================
+
   // CRUSHING RECIPES
-  // ========================================
+
 
   // Gravel -> Sand
   event.recipes.create.crushing([
@@ -135,9 +135,9 @@ ServerEvents.recipes(event => {
     CreateItem.of('minecraft:prismarine_shard', 0.5)
   ], 'minecraft:prismarine')
 
-  // ========================================
+
   // MILLING RECIPES
-  // ========================================
+
 
   // Sugar Cane -> Sugar
   event.recipes.create.milling('minecraft:sugar', 'minecraft:sugar_cane')

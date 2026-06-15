@@ -10,7 +10,7 @@
 
 [debug]
 	#Enable /steamdebug
-	enableSteamDebugCommand = true
+	enableSteamDebugCommand = false
 
 [dev]
 	#Enable Work In Progress items/features

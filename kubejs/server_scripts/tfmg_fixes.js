@@ -1,6 +1,5 @@
 ServerEvents.recipes(event => {
   // Fix plastic recipe to use 144mb instead of 200mb
-  // This matches the exact format discovered in the TFMG JAR
   
   // Remove the old recipe
   event.remove({ output: 'tfmg:plastic_sheet', type: 'tfmg:casting' })

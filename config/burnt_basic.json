@@ -24,6 +24,7 @@
   "wool_burn": true,
   "soot": true,
   "crack_terracotta": true,
+  "burn_create_blocks": true,
   "smoke_particles": true,
   "flame_particles": true,
   "ash_particles": true,
@@ -36,5 +37,7 @@
   "smoke_fog_intensity": 3,
   "grass_recovery": true,
   "grass_recover_speed": 10.0,
-  "forest_recovery": true
+  "forest_recovery": true,
+  "forest_recover_speed": 50.0,
+  "forest_replant_chance": 50.0
 }
