@@ -1,3 +1,13 @@
+# [2.1.4b] - 15-06-2026
+Missing recipes have been fixed #14
+Mods have been updated (also includes these mods Sodium beta1, Iris beta1)
+Added Aeronautics Camera Sync, Create Aeronautics: Toolgun, Create Deep Seas, Create: Transmission, LambDynamicLights, Sodium Extra
+Removed Immersive Lanterns, Sodium Dynamic Lights, Sodium Extras, Sodium Options API
+Neoforge update 21.1.223
+Copycat recipes have been removed from the Create Connected mod
+
+The modpack may lean more toward techno-themed mods due to the concept, and the issue regarding the TFMG mod which is very buggy is also being addressed
+
 # [2.1.3b] - 18-05-2026
 Minor fixes to quests
 MP bug fixes
