@@ -1,0 +1,671 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "gtceu"
+	group: ""
+	icon: {
+		id: "gtceu:iron_wrench"
+	}
+	id: "2F8B0AFE317363C9"
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25289F9E8AE01C29"
+			rewards: [{
+				auto: "invisible"
+				id: "6FD85EC9BD99C866"
+				item: {
+					count: 1
+					id: "gtceu:sus_record"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "6C1F570DB9013DE7"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["25289F9E8AE01C29"]
+			id: "0EAF2C5B5EB755C5"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "22B6D3C1033D47DA"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			id: "0436F7B60BDEB091"
+			rewards: [{
+				count: 24
+				id: "2D2C971E9E651C2C"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					count: 4L
+					id: "37DD7A28A3A7CB26"
+					item: { count: 1, id: "minecraft:sugar_cane" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "0F60FE32A8F7720E"
+					item: { count: 1, id: "minecraft:sand" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "23A44568A9FAACA2"
+					item: { count: 1, id: "minecraft:clay_ball" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "00328CEF98F57407"
+					item: { count: 1, id: "gtceu:rubber_sapling" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1C05A84175DBD3A9"
+					item: { count: 1, id: "minecraft:furnace" }
+					type: "item"
+				}
+			]
+			x: -0.75d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			icon: {
+				id: "gtceu:cobalt_ore"
+			}
+			id: "0C690272ED4FB1C3"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3FA401CACE8BBE5D"
+				type: "checkmark"
+			}]
+			x: -2.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			icon: {
+				id: "gtceu:steel_axe"
+			}
+			id: "13354F24F80F65FB"
+			rewards: [{
+				count: 8
+				id: "60E07F9D0763E8E1"
+				item: {
+					count: 1
+					id: "minecraft:spruce_sapling"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3880A08A72884627"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: -4.5d
+		}
+		{
+			dependencies: ["36DD94945D5B4A80"]
+			dependency_requirement: "one_completed"
+			id: "563C96885A227C9F"
+			rewards: [{
+				count: 5
+				id: "3CDB383AFEBDB519"
+				item: {
+					count: 1
+					id: "gtceu:wrought_iron_ingot"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3DAB1D757B3B049D"
+				item: { count: 1, id: "gtceu:wrought_iron_ingot" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1ECBA1CBFFB9F625"]
+			id: "7DEB73FD649BDFB6"
+			rewards: [{
+				id: "6C50A2A3D43D3FEE"
+				item: {
+					count: 1
+					id: "gtceu:iron_plate"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				icon: {
+					id: "gtceu:steel_hammer"
+				}
+				id: "1A4DDB914D7D2F3C"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2001CB4968D3E0A2"]
+			icon: {
+				id: "gtceu:steel_mining_hammer"
+			}
+			id: "4A365A7CC9E374F9"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				icon: {
+					id: "gtceu:steel_mining_hammer"
+				}
+				id: "4F372C393ADC6CE2"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			id: "1ECBA1CBFFB9F625"
+			rewards: [{
+				count: 32
+				id: "6A8A7B57C7372740"
+				item: {
+					count: 1
+					id: "gtceu:raw_magnetite"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				icon: {
+					id: "minecraft:raw_iron"
+				}
+				id: "063705687ED657F5"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7DEB73FD649BDFB6"]
+			icon: {
+				id: "gtceu:iron_wrench"
+			}
+			id: "2001CB4968D3E0A2"
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "54E092F42DA65B86"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4D6B7E2B4C8E5747"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "23D6CF49FC7E82A9"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2001CB4968D3E0A2"]
+			icon: {
+				id: "gtceu:iron_screwdriver"
+			}
+			id: "5C3501DD3B4788FA"
+			rewards: [{
+				count: 16
+				id: "433F0ED89B586383"
+				item: {
+					count: 1
+					id: "gtceu:damascus_steel_ingot"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [
+				{
+					id: "4055931FAD6A5087"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0CB546DCA11BB335"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4DF1C23D7DD1FAD6"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "397DD831CA0665E7"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1BFE642ED0595A93"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2001CB4968D3E0A2"]
+			id: "4946FC5BCA4CCA88"
+			min_required_dependencies: 1
+			rewards: [{
+				id: "60891A0DEF29E9A1"
+				item: {
+					count: 1
+					id: "gtceu:exquisite_coke_gem"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "3545479A7C09CDFC"
+				item: { count: 1, id: "gtceu:coke_oven" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2001CB4968D3E0A2"]
+			id: "45969FFBF88F4FBB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C28FA1A5275D24E"
+				type: "choice"
+			}]
+			size: 0.75d
+			tasks: [{
+				count: 32L
+				id: "616556ECE4DB6103"
+				item: { components: { "ftbquests:missing_item": "32x itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["45969FFBF88F4FBB"]
+			id: "315DBB3B23F95E0D"
+			rewards: [{
+				count: 32
+				id: "5F229B651404DF0E"
+				item: {
+					count: 1
+					id: "minecraft:clay_ball"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				count: 24L
+				id: "39AEA2923971A2B5"
+				item: { count: 1, id: "gtceu:bronze_ingot" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7DEB73FD649BDFB6"]
+			id: "592BD683A48C2AA2"
+			rewards: [{
+				id: "68D4ECFA9AD5349A"
+				item: {
+					count: 1
+					id: "gtceu:wood_drum"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "5DD165E4EB34C022"
+				item: { count: 1, id: "minecraft:bucket" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			id: "36DD94945D5B4A80"
+			rewards: [{
+				count: 16
+				id: "5408859E43668198"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3DF01E4FACBB1D53"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["45969FFBF88F4FBB"]
+			id: "1283B4D7B5D82193"
+			rewards: [{
+				id: "460EC827273306A5"
+				item: {
+					count: 1
+					id: "storagedrawers:quantify_key"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "70C69E5432F6C3BE"
+				type: "checkmark"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45969FFBF88F4FBB"]
+			id: "49A04E63F40D65C0"
+			rewards: [
+				{
+					count: 64
+					id: "6292C644EE1ACA59"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "380C42204033B5C4"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					type: "item"
+				}
+				{
+					count: 128
+					id: "725FA988559A2A06"
+					item: {
+						count: 1
+						id: "minecraft:sand"
+					}
+					type: "item"
+				}
+				{
+					id: "650805CC3324B1A2"
+					item: {
+						count: 1
+						id: "gtceu:iron_shovel"
+					}
+					type: "item"
+				}
+				{
+					id: "2B1124C773D1E30F"
+					item: {
+						count: 1
+						id: "gtceu:iron_axe"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					count: 16L
+					id: "36052E42DE641787"
+					item: { count: 1, id: "gtceu:iron_bolt" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "63F1C7989ADF097F"
+					item: { count: 1, id: "gtceu:iron_plate" }
+					type: "item"
+				}
+			]
+			x: 3.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45969FFBF88F4FBB"]
+			id: "62212F2B51AC779E"
+			rewards: [
+				{
+					count: 128
+					id: "2C6F42288FF9B7DA"
+					item: {
+						count: 1
+						id: "minecraft:sand"
+					}
+					type: "item"
+				}
+				{
+					count: 128
+					id: "5242721C19BCC092"
+					item: {
+						count: 1
+						id: "minecraft:clay_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "04BE5FBBF9402D5D"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "2D409B8436727D1C"
+					item: {
+						count: 1
+						id: "gtceu:nickel_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "35EE3F4BAAE41AC3"
+					item: {
+						count: 1
+						id: "gtceu:lead_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "70008D5488014AF1"
+					item: {
+						count: 1
+						id: "gtceu:silver_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "29963CB493F50CC0"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					count: 64L
+					id: "37A7D2DE2F82E529"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "68684E4712C05221"
+					item: { count: 1, id: "gtceu:nickel_ingot" }
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "59AA0604B02D17EF"
+					item: { count: 1, id: "gtceu:lead_ingot" }
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "0384FDE2E9B1414F"
+					item: { count: 1, id: "gtceu:silver_ingot" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "46C1361E3C1678C4"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			id: "13E9DF7E980CFC5B"
+			shape: "circle"
+			size: 0.75d
+			tasks: [{
+				id: "04CC2E592A648F06"
+				type: "checkmark"
+			}]
+			x: -2.25d
+			y: -1.5d
+		}
+		{
+			id: "008ABF78E56209F7"
+			shape: "circle"
+			size: 0.75d
+			tasks: [{
+				id: "382566FB9E8CFE29"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EAF2C5B5EB755C5"]
+			id: "5193DD03C0742548"
+			rewards: [{
+				id: "4D70B6467A188FDD"
+				item: {
+					count: 1
+					id: "gtceu:sticky_resin"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				count: 8L
+				id: "76851CD51E99CA38"
+				item: { count: 1, id: "gtceu:rubber_sapling" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: -4.5d
+		}
+		{
+			id: "63DC162144871509"
+			shape: "circle"
+			size: 0.75d
+			tasks: [{
+				id: "3E3D67B53234AD1A"
+				type: "checkmark"
+			}]
+			x: -2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C690272ED4FB1C3"]
+			icon: {
+				id: "gtceu:cobalt_indicator"
+			}
+			id: "3296B815876C3181"
+			shape: "circle"
+			size: 0.5d
+			tasks: [{
+				id: "3C54F075FEE53897"
+				type: "checkmark"
+			}]
+			x: -2.25d
+			y: -2.25d
+		}
+	]
+}

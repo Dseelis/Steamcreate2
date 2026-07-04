@@ -1,0 +1,25 @@
+[transfer]
+	#Audio chunk size in bytes. Larger = fewer packets, faster transfer.
+	# Default: 262144
+	# Range: 65536 ~ 1048576
+	chunkSize = 262144
+	#Max bytes/tick for all audio transfers combined.
+	#Increase if players experience slow downloads.
+	#Decrease if audio transfers affect game responsiveness.
+	# Default: 524288
+	# Range: 65536 ~ 4194304
+	maxBytesPerTick = 524288
+	#Max bytes/tick per player. Ensures fair bandwidth sharing.
+	# Default: 262144
+	# Range: 65536 ~ 2097152
+	maxBytesPerPlayerPerTick = 262144
+
+[download]
+	#Connection timeout when downloading audio from URLs (seconds)
+	# Default: 30
+	# Range: 5 ~ 120
+	connectTimeoutSeconds = 30
+	#Read timeout when downloading audio from URLs (seconds)
+	# Default: 300
+	# Range: 30 ~ 600
+	readTimeoutSeconds = 300

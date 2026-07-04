@@ -1,0 +1,258 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ore_processing"
+	group: ""
+	id: "72E9EAAA24C77C22"
+	order_index: 25
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["730043448A9ADBB6"]
+			id: "012BF60FBD5D41AC"
+			size: 1.1d
+			tasks: [{
+				id: "037584D32CBC5D8D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["012BF60FBD5D41AC"]
+			id: "228379C559E390B8"
+			size: 1.1d
+			tasks: [{
+				id: "2E2ABD36FCFF1CC5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"012BF60FBD5D41AC"
+				"4353AB0E20601AEC"
+			]
+			id: "5AB202F6C0B34BF3"
+			shape: "rsquare"
+			tasks: [{
+				id: "04D48CBAD6DA788D"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["012BF60FBD5D41AC"]
+			id: "2E0777FBD0476D75"
+			shape: "rsquare"
+			tasks: [{
+				id: "6508774C6A27D5D9"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["478A7F7565AFC8A8"]
+			id: "3C36AA80FE51DA45"
+			tasks: [{
+				id: "77457ABAEFF7707B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"5AB202F6C0B34BF3"
+				"228379C559E390B8"
+				"2E0777FBD0476D75"
+			]
+			id: "478A7F7565AFC8A8"
+			size: 1.1d
+			tasks: [{
+				id: "6A094CE2872E8DA3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3C36AA80FE51DA45"
+				"46B3BB368D86D931"
+				"517B6A6E04F4E4C8"
+			]
+			id: "797EB7DF0C07F327"
+			size: 1.1d
+			tasks: [{
+				id: "554BFDB6C8AB1132"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"012BF60FBD5D41AC"
+				"390E59F05132FCB8"
+			]
+			id: "3D9E045B8D3F2B85"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "412357F4B4B8FB48"
+				type: "checkmark"
+			}]
+			x: 1.7938775510203726d
+			y: 0.019897959183666103d
+		}
+		{
+			dependencies: ["797EB7DF0C07F327"]
+			id: "3B72CFB9F466DD76"
+			tasks: [{
+				id: "1C9515F37AD27BA9"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["797EB7DF0C07F327"]
+			id: "433BE663989445B9"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "7433795785B315B3"
+				type: "checkmark"
+			}]
+			x: 0.8891156462584675d
+			y: 9.970918367346947d
+		}
+		{
+			dependencies: ["478A7F7565AFC8A8"]
+			id: "1069BF4C1771A4F6"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "28C312E791DF4125"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"478A7F7565AFC8A8"
+				"0F192D1F44B9B599"
+			]
+			id: "38D1336DC84E03FE"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "22926D3453E03389"
+				type: "checkmark"
+			}]
+			x: 2.011564625850305d
+			y: 4.01173469387755d
+		}
+		{
+			dependencies: [
+				"478A7F7565AFC8A8"
+				"57D4E09A9CAB150C"
+			]
+			id: "427E6091713399FE"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "2AA030AFC90A1E7B"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["478A7F7565AFC8A8"]
+			id: "46B3BB368D86D931"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "089637EE7F1154FF"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "730043448A9ADBB6"
+			shape: "square"
+			size: 1.3d
+			tasks: [{
+				id: "23C471A620644954"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1069BF4C1771A4F6"]
+			id: "517B6A6E04F4E4C8"
+			shape: "rsquare"
+			size: 0.9d
+			tasks: [{
+				id: "7F9EF449A760D102"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["730043448A9ADBB6"]
+			id: "42F91220B6FA66FC"
+			tasks: [{
+				id: "7C4D7E44B6CDFBAC"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["730043448A9ADBB6"]
+			id: "3CCD98E7139BA564"
+			tasks: [{
+				id: "67AB1263C1AA0EB2"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3CCD98E7139BA564"]
+			id: "23B078514FB4A215"
+			shape: "rsquare"
+			size: 0.75d
+			tasks: [{
+				id: "4CEE717792412E0C"
+				item: { components: { "ftbquests:missing_item": "expatternprovider:tag_storage_bus" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5198979591836874d
+			y: -2.8428571428571487d
+		}
+		{
+			dependencies: ["3CCD98E7139BA564"]
+			id: "1CB9A26C3296858E"
+			shape: "rsquare"
+			size: 0.75d
+			tasks: [{
+				id: "24ECAB4EA2E82FE7"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.125d
+		}
+	]
+}

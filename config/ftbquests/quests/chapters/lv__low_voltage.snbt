@@ -1,0 +1,1480 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lv__low_voltage"
+	group: ""
+	id: "7D50771C3FE033D7"
+	order_index: 19
+	quest_links: [{
+		id: "376725077649D2CC"
+		linked_quest: "5A8F0124E07D5025"
+		shape: "gear"
+		size: 1.2d
+		x: 2.25d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["2F7617C0C4B330DE"]
+			id: "47D4545452F05E37"
+			rewards: [{
+				id: "64CB7F650D8CE198"
+				item: {
+					count: 1
+					id: "gtceu:lv_electric_pump"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "5E8D784C83A4F672"
+				item: { count: 1, id: "gtceu:lv_fluid_regulator" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 1.125d
+		}
+		{
+			dependencies: ["38993B4697B0E16C"]
+			id: "3DE7A2B91CFF48F6"
+			rewards: [{
+				id: "372D894C29C4513C"
+				item: {
+					count: 1
+					id: "gtceu:basic_electronic_circuit"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "7D7A9CBE1E368E53"
+				item: { count: 1, id: "gtceu:lv_robot_arm" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A8F0124E07D5025"]
+			id: "288CE4AA4C5AA8BF"
+			rewards: [{
+				id: "16807937144E5F61"
+				item: {
+					count: 1
+					id: "gtceu:rubber_nugget"
+				}
+				random_bonus: 7
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "064169E7E2772387"
+				item: { count: 1, id: "gtceu:lv_conveyor_module" }
+				type: "item"
+			}]
+			x: 1.125d
+			y: 1.125d
+		}
+		{
+			dependencies: ["5A8F0124E07D5025"]
+			id: "2F7617C0C4B330DE"
+			rewards: [{
+				id: "204B2C6507063DF7"
+				item: {
+					count: 1
+					id: "gtceu:lv_electric_motor"
+				}
+				random_bonus: 1
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "7A37B370D2D40E6A"
+				item: { count: 1, id: "gtceu:lv_electric_pump" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A8F0124E07D5025"]
+			id: "38993B4697B0E16C"
+			rewards: [{
+				count: 4
+				id: "05D8932AEED073F8"
+				item: {
+					count: 1
+					id: "gtceu:small_steel_gear"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "70FEF63FB9A58B02"
+				item: { count: 1, id: "gtceu:lv_electric_piston" }
+				type: "item"
+			}]
+			x: 1.125d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4B979482EF026BFF"
+				"5A8F0124E07D5025"
+			]
+			id: "6E186F9C57155BFA"
+			size: 0.75d
+			tasks: [{
+				id: "155BC745245BCBAF"
+				item: { count: 1, id: "gtceu:lv_steam_turbine" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6431381FBE07D6EF"]
+			id: "7B0FF43022F6C2EC"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				count: 4L
+				id: "1C81FD3C54CC2274"
+				item: { count: 1, id: "gtceu:tin_quadruple_cable" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"1E9BE8D3F8A602DC"
+				"45B71324028F6E68"
+			]
+			id: "7567E885B7166603"
+			rewards: [{
+				count: 8
+				id: "19987707822BC176"
+				item: {
+					count: 1
+					id: "gtceu:aluminium_dust"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "161B5813936E5E42"
+				item: { count: 1, id: "gtceu:aluminium_ingot" }
+				type: "item"
+			}]
+			x: 9.393452380952382d
+			y: 3.360459183673477d
+		}
+		{
+			dependencies: ["4B979482EF026BFF"]
+			id: "6D9D54FAB21EC086"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					count: 2L
+					id: "02A2F0C2179EB4E3"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7B4585B39907E2EA"
+					item: { count: 1, id: "gtceu:lv_battery_hull" }
+					type: "item"
+				}
+			]
+			x: 3.96d
+			y: 2.64d
+		}
+		{
+			dependencies: ["1C767009F505A813"]
+			id: "7CCC1BDDE0C67F16"
+			rewards: [{
+				id: "1CADDD995C2DD509"
+				item: {
+					count: 1
+					id: "ae2:sky_stone_chest"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "6FE87ED832BF40D1"
+				item: { count: 1, id: "gtceu:steel_crate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"288CE4AA4C5AA8BF"
+				"3DE7A2B91CFF48F6"
+				"2F7617C0C4B330DE"
+			]
+			id: "1C767009F505A813"
+			rewards: [{
+				id: "7A6A74FF4B058BA3"
+				item: {
+					count: 1
+					id: "gtceu:storage_cover"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "7C7A8A26D3FF0E96"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.125d
+		}
+		{
+			dependencies: ["32EA7E81885C8E87"]
+			id: "64E1E87B8AF72968"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "6A4DFF7493955B8D"
+				type: "checkmark"
+			}]
+			x: 1.125d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"4B979482EF026BFF"
+				"5A8F0124E07D5025"
+			]
+			id: "32EA7E81885C8E87"
+			rewards: [{
+				count: 4
+				id: "2B736C4992CDC8D1"
+				item: {
+					count: 1
+					id: "gtceu:copper_single_wire"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "2B5BF6F3ED693B9E"
+				item: { count: 1, id: "gtceu:lv_wiremill" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 1.125d
+		}
+		{
+			dependencies: ["32EA7E81885C8E87"]
+			id: "10ECB471A77F5136"
+			rewards: [{
+				count: 4
+				id: "6DF60970CB48982D"
+				item: {
+					count: 1
+					id: "gtceu:steel_plate"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "3AC3A8728EE60E4C"
+				item: { count: 1, id: "gtceu:lv_bender" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.125d
+		}
+		{
+			dependencies: ["32EA7E81885C8E87"]
+			id: "07E7678095258EDB"
+			rewards: [{
+				count: 4
+				id: "09FC4530E70B9105"
+				item: {
+					count: 1
+					id: "gtceu:steel_rod"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "6781D0241D0564A5"
+				item: { count: 1, id: "gtceu:lv_lathe" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 1.125d
+		}
+		{
+			dependencies: ["32EA7E81885C8E87"]
+			id: "29379C91D6E00436"
+			rewards: [{
+				count: 16
+				id: "47F3A37E7A315A1D"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				random_bonus: 16
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "5EC42A72DEC6F9FC"
+				item: { count: 1, id: "gtceu:lv_polarizer" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"29379C91D6E00436"
+				"3E6DC423FE4A99F7"
+			]
+			id: "3ECD9C9B909CCCCC"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "14E4C5F6C88F5358"
+				item: { count: 1, id: "gtceu:lv_item_magnet" }
+				type: "item"
+			}]
+			x: 5.61d
+			y: 2.31d
+		}
+		{
+			dependencies: ["6431381FBE07D6EF"]
+			id: "33263404ED38C6D2"
+			rewards: [{
+				id: "1BEF1D97E033F1B1"
+				item: {
+					count: 1
+					id: "gtceu:steam_bucket"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "560D4D0D6BECE006"
+					item: { count: 1, id: "gtceu:bronze_large_boiler" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "49958803B3B2E387"
+					type: "checkmark"
+				}
+			]
+			x: 6.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["1E9BE8D3F8A602DC"]
+			id: "46AD7A6F3B6775F5"
+			rewards: [{
+				id: "3F8346637D7277E1"
+				item: {
+					count: 1
+					id: "gtceu:manganese_phosphide_single_wire"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "4477AB06651827D6"
+				item: { count: 1, id: "gtceu:manganese_phosphide_single_wire" }
+				type: "item"
+			}]
+			x: 7.875d
+			y: 2.25d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			hide_dependent_lines: true
+			id: "772F7CD63D31966A"
+			size: 0.75d
+			tasks: [{
+				id: "10AB20A316EA688F"
+				item: { count: 1, id: "gtceu:lv_thermal_centrifuge" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 3.375d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "7A64425597F58015"
+			size: 0.75d
+			tasks: [{
+				id: "2D87ADACFE1EF8E5"
+				item: { count: 1, id: "gtceu:lv_sifter" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 5.625d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "330BDB559A7BAB35"
+			size: 0.75d
+			tasks: [{
+				id: "526A5FF9B5DBB129"
+				item: { count: 1, id: "gtceu:lv_chemical_bath" }
+				type: "item"
+			}]
+			x: 1.125d
+			y: 3.375d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "58BA62A3A8A32C24"
+			size: 0.75d
+			tasks: [{
+				id: "1C03C5F3E5196342"
+				item: { count: 1, id: "gtceu:lv_ore_washer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.25d
+		}
+		{
+			dependencies: [
+				"32EA7E81885C8E87"
+				"10ECB471A77F5136"
+			]
+			icon: {
+				id: "gtceu:programmed_circuit"
+			}
+			id: "59F0060B55307311"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "7C04F3247B0C0BCB"
+				type: "checkmark"
+			}]
+			x: 3.375d
+			y: 1.98d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			id: "37307A46E70011D3"
+			rewards: [{
+				count: 2
+				id: "25A57A151B7E8FEB"
+				item: {
+					count: 1
+					id: "gtceu:lithium_dust"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "5521E4E26119E152"
+				item: { count: 1, id: "gtceu:lv_canner" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 3.375d
+		}
+		{
+			dependencies: [
+				"37307A46E70011D3"
+				"6D9D54FAB21EC086"
+			]
+			id: "3E6DC423FE4A99F7"
+			size: 0.75d
+			tasks: [{
+				id: "47D0D12A26963702"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.875d
+			y: 3.375d
+		}
+		{
+			dependencies: ["3E6DC423FE4A99F7"]
+			id: "6431381FBE07D6EF"
+			size: 0.75d
+			tasks: [{
+				id: "35FEF4BB8295416C"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 3.375d
+		}
+		{
+			dependencies: [
+				"1646BF9194100E57"
+				"6431381FBE07D6EF"
+			]
+			id: "1E9BE8D3F8A602DC"
+			rewards: [{
+				count: 16
+				id: "0DBE03823EE6616B"
+				item: {
+					count: 1
+					id: "gtceu:invar_ingot"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "10F6305A7E5D186D"
+				item: { count: 1, id: "gtceu:electric_blast_furnace" }
+				type: "item"
+			}]
+			x: 7.875d
+			y: 3.375d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "22A1A629AF754066"
+			size: 0.75d
+			tasks: [{
+				id: "30C94122AD446D9B"
+				item: { count: 1, id: "gtceu:lv_autoclave" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 4.125d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "24B4D9608718EE27"
+			size: 0.75d
+			tasks: [{
+				id: "3162F3E3D12E00FB"
+				item: { count: 1, id: "gtceu:lv_electromagnetic_separator" }
+				type: "item"
+			}]
+			x: 0.375d
+			y: 3.375d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			id: "701BCADAE5CF6CA5"
+			shape: "circle"
+			size: 0.66d
+			tasks: [{
+				id: "3A7506F2C9145157"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["32EA7E81885C8E87"]
+			id: "648BCF486E16CCB2"
+			shape: "circle"
+			size: 0.66d
+			tasks: [{
+				id: "07CE2766ECA4B0D8"
+				type: "checkmark"
+			}]
+			x: 2.25d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3D98819A799D2E64"]
+			dependency_requirement: "one_completed"
+			id: "581CDF545E1EA1FD"
+			rewards: [{
+				id: "2B85DCFFF22770D8"
+				item: {
+					count: 1
+					id: "gtceu:rubber_bucket"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "20B1CA4DB2750E84"
+				item: { count: 1, id: "gtceu:lv_fluid_solidifier" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E6DC423FE4A99F7"]
+			id: "2E36E5755B2F551C"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "1AC97E61EF4958C8"
+				item: { count: 1, id: "gtceu:prospector.lv" }
+				type: "item"
+			}]
+			x: 4.642304421768699d
+			y: 2.165391156462583d
+		}
+		{
+			dependencies: [
+				"5B2696206205CB2E"
+				"70432F650591353C"
+			]
+			icon: {
+				id: "gtceu:cupronickel_coil_block"
+			}
+			id: "1646BF9194100E57"
+			rewards: [
+				{
+					count: 8
+					id: "2DF635DEFA2D4DCD"
+					item: {
+						count: 1
+						id: "gtceu:nickel_ore"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "0F7FB05B78AAFB96"
+					item: {
+						count: 1
+						id: "gtceu:copper_ore"
+					}
+					type: "item"
+				}
+			]
+			size: 0.75d
+			tasks: [{
+				count: 16L
+				id: "4F19FBED1E1766AC"
+				item: { count: 1, id: "gtceu:cupronickel_coil_block" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "1DA54DA70E12F499"
+			rewards: [{
+				id: "19F7BE0EE2221321"
+				item: {
+					count: 1
+					id: "gtceu:tiny_stainless_steel_dust"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "5580AE2868E0E451"
+				item: { count: 1, id: "gtceu:hv_macerator" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 3.375d
+		}
+		{
+			dependencies: [
+				"3A8D7FC6F316C38C"
+				"5263F866638D875C"
+			]
+			id: "15928F50AE80A5CF"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "5710E0C2A7441809"
+				item: { count: 1, id: "gtceu:lv_gas_collector" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 6.75d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "3F123950216DF93B"
+			size: 0.75d
+			tasks: [{
+				id: "33AEA84A406741FF"
+				item: { count: 1, id: "gtceu:lv_packer" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 4.875d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			id: "3D98819A799D2E64"
+			size: 0.75d
+			tasks: [
+				{
+					id: "108424445D0F748A"
+					item: { count: 1, id: "gtceu:lv_chemical_reactor" }
+					type: "item"
+				}
+				{
+					id: "52581CFF25BC339F"
+					item: { count: 1, id: "gtceu:rubber_bucket" }
+					type: "item"
+				}
+			]
+			x: 3.375d
+			y: 4.5d
+		}
+		{
+			dependencies: ["10ECB471A77F5136"]
+			hide_dependency_lines: true
+			id: "292938760AB9A12B"
+			rewards: [{
+				count: 2
+				id: "7CF6A679E3781C09"
+				item: {
+					count: 1
+					id: "gtceu:universal_fluid_cell"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "48507FA04651418B"
+					item: { count: 1, id: "gtceu:fluid_cell" }
+					type: "item"
+				}
+				{
+					id: "012C90A73EC79E11"
+					item: { count: 1, id: "gtceu:universal_fluid_cell" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 5.61d
+		}
+		{
+			dependencies: [
+				"581CDF545E1EA1FD"
+				"5B2696206205CB2E"
+			]
+			id: "115C4226F6473F0C"
+			rewards: [{
+				count: 2
+				id: "7162E47A4FB3EDB1"
+				item: {
+					count: 1
+					id: "gtceu:empty_mold"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "4A68C6BC78CB07E2"
+					item: { count: 1, id: "gtceu:rotor_casting_mold" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7EF3EDA1698AFB7F"
+					item: { count: 1, id: "gtceu:tin_rotor" }
+					type: "item"
+				}
+			]
+			x: 5.625d
+			y: 4.5d
+		}
+		{
+			dependencies: ["199361B5FEC959EA"]
+			hide_dependent_lines: true
+			id: "713C8D6A20BF3A0E"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "67F9F84D66E32728"
+				item: { count: 1, id: "gtceu:soldering_alloy_dust" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"32B08E6F414A00C0"
+				"4B979482EF026BFF"
+			]
+			id: "2F1CCFEBAB71B1F3"
+			rewards: [{
+				count: 12
+				id: "6ED23A377745D74A"
+				item: {
+					count: 1
+					id: "gtceu:green_sapphire_ore"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [
+				{
+					count: 6L
+					id: "3B6DC3146DB686BF"
+					item: { count: 1, id: "gtceu:sapphire_dust" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1AF7F9E162724B49"
+					type: "checkmark"
+				}
+			]
+			x: -2.25d
+			y: 5.625d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "32B08E6F414A00C0"
+			rewards: [{
+				count: 2
+				id: "63E578C8E82CB9DC"
+				item: {
+					count: 1
+					id: "gtceu:lv_electric_motor"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "536874A8C35E1C86"
+				item: { count: 1, id: "gtceu:lv_electrolyzer" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 5.625d
+		}
+		{
+			dependencies: [
+				"257DB4B39B2A928E"
+				"45B71324028F6E68"
+			]
+			id: "3A8D7FC6F316C38C"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "662DB818821C4EAE"
+				item: { count: 1, id: "gtceu:lv_cutter" }
+				type: "item"
+			}]
+			x: 1.125d
+			y: 6.75d
+		}
+		{
+			dependencies: ["701BCADAE5CF6CA5"]
+			id: "5263F866638D875C"
+			rewards: [{
+				id: "525C65CA6AFD3C11"
+				item: {
+					count: 1
+					id: "minecraft:cauldron"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "20EDB55B8D5CDAD6"
+				item: { count: 1, id: "gtceu:lv_centrifuge" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.75d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			id: "257DB4B39B2A928E"
+			size: 0.75d
+			tasks: [{
+				id: "4A0B4A206ED30212"
+				item: { count: 1, id: "gtceu:lv_mixer" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 6.75d
+		}
+		{
+			dependencies: [
+				"63CD0236B337EAAD"
+				"37307A46E70011D3"
+				"292938760AB9A12B"
+			]
+			id: "5AD9884E7BFB2510"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "28CFFA0F7A33E02F"
+				item: { count: 1, id: "gtceu:empty_spray_can" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 5.625d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			id: "63CD0236B337EAAD"
+			rewards: [
+				{
+					count: 4
+					id: "15CB6A60C5C891BB"
+					item: {
+						count: 1
+						id: "gtceu:basic_electronic_circuit"
+					}
+					type: "item"
+				}
+				{
+					id: "3AF49D4A68D17C1A"
+					item: {
+						count: 1
+						id: "gtceu:lv_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "6B5537B80EB05B30"
+				item: { count: 1, id: "gtceu:lv_assembler" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 6.75d
+		}
+		{
+			dependencies: [
+				"63CD0236B337EAAD"
+				"713C8D6A20BF3A0E"
+			]
+			id: "249B9E104CAF5FE6"
+			rewards: [{
+				count: 32
+				id: "7B4720913F7D4D6E"
+				item: {
+					count: 1
+					id: "minecraft:cactus"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "4AA56628D87A3AF9"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.75d
+		}
+		{
+			dependencies: [
+				"581CDF545E1EA1FD"
+				"63CD0236B337EAAD"
+			]
+			dependency_requirement: "one_completed"
+			id: "5B2696206205CB2E"
+			size: 0.75d
+			tasks: [{
+				id: "5CD363C839475426"
+				item: { count: 1, id: "gtceu:lv_extractor" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: 5.625d
+		}
+		{
+			dependencies: [
+				"0DBC148D92A9F69F"
+				"5B2696206205CB2E"
+			]
+			id: "199361B5FEC959EA"
+			rewards: [{
+				id: "0418E257FEDA52B7"
+				item: {
+					count: 1
+					id: "gtceu:good_electronic_circuit"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "6287E8A7C254ECA7"
+				item: { count: 1, id: "gtceu:lv_circuit_assembler" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: 7.875d
+		}
+		{
+			dependencies: ["1A77CA35F054F988"]
+			id: "63256ED95F17B242"
+			rewards: [{
+				id: "2DF03194A80B3F4B"
+				item: {
+					count: 1
+					id: "gtceu:oxygen_bucket"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "2374C06C5E1EFC24"
+				item: { count: 1, id: "gtceu:lv_arc_furnace" }
+				type: "item"
+			}]
+			x: -3.375d
+			y: 6.75d
+		}
+		{
+			dependencies: ["3A8D7FC6F316C38C"]
+			id: "0DAD0A6360448B39"
+			rewards: [{
+				count: 64
+				id: "754F6E206D20BC31"
+				item: {
+					count: 1
+					id: "minecraft:bricks"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "65100C599DB0F30C"
+				item: { components: { "ftbquests:missing_item": "buildinggadgets2:gadget_building" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.65d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"32B08E6F414A00C0"
+				"15928F50AE80A5CF"
+			]
+			dependency_requirement: "one_completed"
+			id: "1A77CA35F054F988"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "1F76ED94CDBD13E1"
+				item: { count: 1, id: "gtceu:oxygen_bucket" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 6.75d
+		}
+		{
+			dependencies: ["5263F866638D875C"]
+			id: "0EAC071414AEC07E"
+			rewards: [{
+				count: 4
+				id: "3134ECF63472A855"
+				item: {
+					count: 1
+					id: "gtceu:rubber_log"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "284F6584EEEF3AD6"
+				item: { count: 1, id: "gtceu:glue_bucket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"5263F866638D875C"
+				"257DB4B39B2A928E"
+				"772F7CD63D31966A"
+			]
+			id: "4073577B7EF9B593"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57A62DC036C223CF"
+				type: "choice"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "0FDC60275B1959C3"
+				item: { count: 1, id: "gtceu:gallium_arsenide_dust" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 7.875d
+		}
+		{
+			dependencies: [
+				"63CD0236B337EAAD"
+				"0EAC071414AEC07E"
+			]
+			id: "3647B1B964A15E4E"
+			rewards: [{
+				id: "2B815290D1F7D038"
+				item: {
+					count: 1
+					id: "gtceu:resin_printed_circuit_board"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "2DE7B75F25A4AB9E"
+				item: { count: 1, id: "gtceu:phenolic_printed_circuit_board" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 9.0d
+		}
+		{
+			dependencies: ["63CD0236B337EAAD"]
+			id: "0E72017800A9766C"
+			rewards: [{
+				id: "73455D7AB7929E27"
+				item: {
+					count: 1
+					id: "ae2:item_storage_cell_1k"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "2080D5BB367332D3"
+				item: { count: 1, id: "ae2:cell_component_1k" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.875d
+		}
+		{
+			dependencies: [
+				"63CD0236B337EAAD"
+				"4073577B7EF9B593"
+			]
+			id: "7BE7DE4C0109D788"
+			rewards: [{
+				count: 8
+				id: "7E08419FB2E4B575"
+				item: {
+					count: 1
+					id: "gtceu:gallium_dust"
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "0FE8CA1C2D212378"
+				item: { count: 1, id: "gtceu:diode" }
+				type: "item"
+			}]
+			x: 3.375d
+			y: 7.875d
+		}
+		{
+			dependencies: [
+				"3647B1B964A15E4E"
+				"7BE7DE4C0109D788"
+				"4B979482EF026BFF"
+			]
+			id: "0DBC148D92A9F69F"
+			progression_mode: "linear"
+			rewards: [{
+				count: 4
+				id: "052E7DFC7E0B9EEF"
+				item: {
+					count: 1
+					id: "gtceu:basic_electronic_circuit"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "70313E1917121E14"
+				item: { count: 1, id: "gtceu:good_electronic_circuit" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2F1CCFEBAB71B1F3"]
+			hide_dependent_lines: true
+			id: "45B71324028F6E68"
+			rewards: [{
+				count: 4
+				id: "31AC09707A10129B"
+				item: {
+					count: 1
+					id: "gtceu:aluminium_dust"
+				}
+				random_bonus: 4
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "144F4F8EF61BEEA5"
+				item: { count: 1, id: "gtceu:aluminium_dust" }
+				type: "item"
+			}]
+			x: -3.375d
+			y: 5.625d
+		}
+		{
+			dependencies: ["1E9BE8D3F8A602DC"]
+			hide_text_until_complete: false
+			id: "2FC7B1E867E4194E"
+			size: 0.75d
+			tasks: [{
+				id: "2AA5580CDD655FBC"
+				type: "checkmark"
+			}]
+			x: 7.875d
+			y: 4.5d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "1F2359106FC95603"
+			rewards: [{
+				id: "1140542401ED7AAB"
+				item: {
+					count: 1
+					id: "minecraft:cobblestone"
+				}
+				random_bonus: 63
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "10F588EB061EB2EA"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.29d
+			y: 0.0d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "2DB259568F347C0E"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "07BF7F14849A3027"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.28d
+			y: 0.0d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "3B26CA44EA955B07"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "07BA97A0F04F0876"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.2700000000000005d
+			y: 0.0d
+		}
+		{
+			dependencies: ["46AD7A6F3B6775F5"]
+			hide_dependency_lines: false
+			id: "113F3D2E48F62CBB"
+			rewards: [{
+				id: "1237B670A2484C9A"
+				item: {
+					count: 1
+					id: "minecraft:clock"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "5924F0A33AD22EC9"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.875d
+			y: 1.125d
+		}
+		{
+			dependencies: ["46AD7A6F3B6775F5"]
+			hide_dependency_lines: false
+			id: "11989C3388C969DF"
+			rewards: [{
+				id: "66853B9C5CC8EF26"
+				item: {
+					count: 1
+					id: "gtceu:light_concrete"
+				}
+				random_bonus: 15
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.75d
+			tasks: [{
+				id: "5635E327260121C3"
+				item: { components: { "ftbquests:missing_item": "gtceu:construction_core" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.91d
+			y: 1.65d
+		}
+		{
+			dependencies: ["3E6DC423FE4A99F7"]
+			icon: {
+				id: "gtceu:lv_iron_drill"
+			}
+			id: "70BBF00528C68A05"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "0D2407D27B875AC3"
+					item: { count: 1, id: "gtceu:lv_iron_drill" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "602D1C47F55AFC5D"
+					type: "checkmark"
+				}
+			]
+			x: 5.94d
+			y: 2.97d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "12DF2E5269BE87D5"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3FF25D11627A1D05"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.26d
+			y: 0.0d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "112189FE1A12537A"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "4FB4D157D57EF9C8"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E9BE8D3F8A602DC"]
+			icon: {
+				id: "gtceu:polybenzimidazole_mallet"
+			}
+			id: "237EEDF8D3F170DA"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "05610A3CFF3805F3"
+				type: "checkmark"
+			}]
+			x: 8.91d
+			y: 4.5d
+		}
+		{
+			dependencies: ["648BCF486E16CCB2"]
+			hide_dependency_lines: true
+			id: "59BEB2AA9598A21D"
+			rewards: [{
+				id: "03A3C108D5BCE712"
+				item: {
+					components: {
+						"ftbquests:missing_item": "expatternprovider:fishbig"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				random_bonus: 63
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "783D21E963174609"
+				item: { components: { "ftbquests:missing_item": "expatternprovider:fishbig" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.125d
+			y: 2.25d
+		}
+		{
+			dependencies: ["15928F50AE80A5CF"]
+			id: "7D7A4CC66A3C193F"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "0C95F5A0FEC594A3"
+				item: { count: 1, id: "gtceu:nitrogen_bucket" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 7.875d
+		}
+		{
+			dependencies: [
+				"257DB4B39B2A928E"
+				"581CDF545E1EA1FD"
+			]
+			hide_dependency_lines: true
+			id: "41DD503169987D50"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "755F679F2DA97A4F"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.12d
+			y: 7.875d
+		}
+	]
+}

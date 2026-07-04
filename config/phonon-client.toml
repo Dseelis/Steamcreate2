@@ -1,0 +1,20 @@
+[cache]
+	#Directory name for cached audio files (relative to game directory)
+	directory = "phonon_cache"
+	#Maximum cache size in megabytes
+	#Set to 0 for unlimited (not recommended)
+	#Oldest files are deleted when limit is exceeded
+	# Default: 512
+	# Range: 0 ~ 10240
+	maxSizeMB = 512
+
+[audio]
+	#Maximum distance (in blocks) at which audio can be heard
+	#Audio volume becomes 0 beyond this distance
+	# Default: 64.0
+	# Range: 16.0 ~ 256.0
+	maxDistance = 64.0
+
+[debug]
+	#Enable verbose debug logging
+	enableLogging = false
