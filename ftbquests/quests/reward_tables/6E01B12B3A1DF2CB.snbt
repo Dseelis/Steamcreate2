@@ -1,0 +1,21 @@
+{
+	id: "6E01B12B3A1DF2CB"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "1E0F22C9DDB57C22", item: { count: 1, id: "minecraft:diamond_shovel" } }
+		{ id: "2B6559AB805D4450", item: { count: 1, id: "minecraft:diamond_pickaxe" } }
+		{ id: "4A4D71CC2E54B5CC", item: { count: 1, id: "minecraft:diamond_axe" } }
+		{ id: "738623BF30938C2C", item: { count: 1, id: "minecraft:diamond_hoe" } }
+		{ id: "06F2818290DD6E4A", item: { count: 1, id: "minecraft:diamond_sword" } }
+		{
+			count: 3
+			id: "3C320030135A48EC"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.7f
+		}
+	]
+}

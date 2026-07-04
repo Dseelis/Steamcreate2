@@ -1,0 +1,79 @@
+{
+	id: "1CD342FEDCDF6159"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			count: 4
+			id: "612E96E4AD81696F"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			random_bonus: 4
+		}
+		{
+			count: 2
+			id: "1E119E877605AE9E"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "10773A643406D8E7"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 4
+			id: "02F5EED465B99CF5"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 8
+			id: "5F50437ED5A5603A"
+			item: {
+				count: 1
+				id: "mekanism:ingot_osmium"
+			}
+			random_bonus: 16
+		}
+		{
+			count: 2
+			id: "50F9E533D7722C72"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_chemical"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "17968CD6E76A46BE"
+			item: {
+				count: 1
+				id: "mekanism:enriched_diamond"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 3
+			id: "36BDC8BFEF8CB4A6"
+			item: {
+				count: 1
+				id: "mekanism:enriched_gold"
+			}
+			random_bonus: 3
+		}
+	]
+}

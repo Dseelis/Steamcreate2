@@ -1,0 +1,313 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "renewability_and_you"
+	group: ""
+	id: "4C3D68FB57D3CC02"
+	order_index: 20
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["25289F9E8AE01C29"]
+			id: "4D7A771B67DAFC6F"
+			size: 1.2d
+			tasks: [{
+				id: "10D096D6F4770F24"
+				type: "checkmark"
+			}]
+			x: 1.2d
+			y: -0.6d
+		}
+		{
+			dependencies: [
+				"4D7A771B67DAFC6F"
+				"1F2359106FC95603"
+			]
+			id: "55D8E30978CBBC0D"
+			shape: "circle"
+			tasks: [{
+				id: "21A653703F408934"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["55D8E30978CBBC0D"]
+			id: "54D73D049F8CD9FE"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				consume_items: false
+				count: 64L
+				id: "72A52930F1754ABF"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 0.33d
+			y: -1.65d
+		}
+		{
+			dependencies: ["54D73D049F8CD9FE"]
+			id: "668A8BDDEE17865E"
+			shape: "rsquare"
+			size: 0.5d
+			tasks: [{
+				id: "3C1B921715553377"
+				item: { count: 1, id: "gtceu:stone_dust" }
+				type: "item"
+			}]
+			x: -0.33d
+			y: -1.65d
+		}
+		{
+			dependencies: ["54D73D049F8CD9FE"]
+			id: "52868F643F0A1007"
+			shape: "rsquare"
+			size: 0.5d
+			tasks: [{
+				id: "3850F80F95B8E520"
+				item: { count: 1, id: "minecraft:gravel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.31d
+		}
+		{
+			dependencies: ["52868F643F0A1007"]
+			id: "10FD7C65FC83ADD6"
+			shape: "rsquare"
+			size: 0.55d
+			tasks: [{
+				id: "6724DCD56A7592FF"
+				item: { count: 1, id: "minecraft:sand" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.97d
+		}
+		{
+			dependencies: ["10FD7C65FC83ADD6"]
+			id: "471B85B964C578A7"
+			shape: "rsquare"
+			size: 0.5d
+			tasks: [{
+				id: "71A450692F1DC98D"
+				item: { count: 1, id: "minecraft:glass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.63d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"7567E885B7166603"
+				"0DBC148D92A9F69F"
+			]
+			id: "43D5A5F95EEB339C"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "6358C3084C675965"
+				item: { count: 1, id: "minecraft:diorite" }
+				type: "item"
+			}]
+			x: 0.99d
+			y: -2.31d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"7567E885B7166603"
+				"0DBC148D92A9F69F"
+			]
+			id: "0089AA3A92C02334"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "7D054563301323A4"
+				item: { count: 1, id: "minecraft:granite" }
+				type: "item"
+			}]
+			x: 1.65d
+			y: -2.64d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"4AFD3073C731A1E4"
+				"7FA0ACB7F161F378"
+			]
+			id: "3B436487305AEE38"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "64EF28C6902C7083"
+				item: { count: 1, id: "minecraft:deepslate" }
+				type: "item"
+			}]
+			x: 2.31d
+			y: -2.64d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"7567E885B7166603"
+				"0DBC148D92A9F69F"
+			]
+			id: "3BCA8923DF575D5D"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "74AEE715BE76C0CF"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: 2.97d
+			y: -2.31d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"26394C1290D70AB6"
+				"16A6AE5C770DB83A"
+			]
+			id: "71972471AFB97BB2"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "3C423DE1EB48AFF5"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: 3.3d
+			y: -1.65d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"26394C1290D70AB6"
+				"16A6AE5C770DB83A"
+			]
+			id: "1937057C27596942"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "6F2F8349BF8AF29C"
+				item: { count: 1, id: "minecraft:basalt" }
+				type: "item"
+			}]
+			x: 3.3d
+			y: -0.99d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"26394C1290D70AB6"
+				"4AFD3073C731A1E4"
+				"16A6AE5C770DB83A"
+				"7FA0ACB7F161F378"
+			]
+			id: "789E2DC829DD1828"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "10A533EC38D279DA"
+				item: { count: 1, id: "gtceu:red_granite" }
+				type: "item"
+			}]
+			x: 2.97d
+			y: -0.33d
+		}
+		{
+			dependencies: [
+				"55D8E30978CBBC0D"
+				"26394C1290D70AB6"
+				"16A6AE5C770DB83A"
+			]
+			id: "3E3EB69F34F50A9C"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "0DED39C9E1966F0B"
+				item: { count: 1, id: "gtceu:marble" }
+				type: "item"
+			}]
+			x: 2.31d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4D7A771B67DAFC6F"
+				"48141DBA683F6B5A"
+			]
+			id: "24A90D07C3A35370"
+			shape: "circle"
+			tasks: [{
+				id: "2DE291473F207BF8"
+				type: "checkmark"
+			}]
+			x: -0.1499999999999999d
+			y: -0.7d
+		}
+		{
+			dependencies: [
+				"24A90D07C3A35370"
+				"7820DF52516344F4"
+			]
+			id: "77BBAB9CA586BB36"
+			shape: "rsquare"
+			size: 0.7d
+			tasks: [{
+				id: "37E57DD2AD97DD10"
+				type: "checkmark"
+			}]
+			x: -3.15d
+			y: -0.7d
+		}
+		{
+			dependencies: [
+				"24A90D07C3A35370"
+				"2AD44111B9B39C90"
+				"6958029B5514D4EC"
+			]
+			id: "213211A0BC475C32"
+			shape: "rsquare"
+			size: 0.75d
+			tasks: [{
+				id: "3964A8A27402A11B"
+				type: "checkmark"
+			}]
+			x: -1.15d
+			y: -0.7d
+		}
+		{
+			dependencies: [
+				"24A90D07C3A35370"
+				"5DBBD9B1F5B01F4E"
+				"6958029B5514D4EC"
+			]
+			id: "38E5B595C33A071C"
+			shape: "rsquare"
+			size: 0.7d
+			tasks: [{
+				id: "074BDDF3F1AE08AA"
+				type: "checkmark"
+			}]
+			x: -2.15d
+			y: -0.7d
+		}
+		{
+			dependencies: ["4D7A771B67DAFC6F"]
+			id: "7ECD974215E77432"
+			shape: "circle"
+			tasks: [{
+				id: "19F0161CE47673EE"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+	]
+}

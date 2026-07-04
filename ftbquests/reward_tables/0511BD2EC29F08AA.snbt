@@ -1,0 +1,49 @@
+{
+	id: "0511BD2EC29F08AA"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 8
+			id: "3B1348790F4124CA"
+			item: {
+				count: 1
+				id: "powah:capacitor_spirited"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "7D378B4C6018B0EC"
+			item: {
+				count: 1
+				id: "powah:capacitor_nitro"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "13D556AD453BA23E"
+			item: {
+				count: 1
+				id: "powah:battery_spirited"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "12A73C5A8563DFC4"
+			item: {
+				count: 1
+				id: "powah:battery_niotic"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "72FA888F6A82915E"
+			item: {
+				count: 1
+				id: "powah:nitro_crystal_block"
+			}
+			weight: 3.0f
+		}
+	]
+}

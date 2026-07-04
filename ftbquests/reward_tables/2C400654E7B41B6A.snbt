@@ -1,0 +1,140 @@
+{
+	icon: {
+		id: "ae2:mysterious_cube"
+	}
+	id: "2C400654E7B41B6A"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 16
+			id: "1CE757A2E67D0B5B"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+		}
+		{
+			count: 8
+			id: "7BF04B9D3E0A3CD9"
+			item: {
+				count: 1
+				id: "ae2:charged_certus_quartz_crystal"
+			}
+		}
+		{
+			count: 8
+			id: "57183164089A012A"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_dust"
+			}
+		}
+		{
+			count: 8
+			id: "04178EADCF33C02A"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+		}
+		{
+			count: 8
+			id: "5307917BAB2F8202"
+			item: {
+				count: 1
+				id: "ae2:fluix_dust"
+			}
+		}
+		{
+			count: 2
+			id: "02E031615411A8CF"
+			item: {
+				count: 1
+				id: "ae2:formation_core"
+			}
+		}
+		{
+			count: 2
+			id: "161B57E36798DC03"
+			item: {
+				count: 1
+				id: "ae2:annihilation_core"
+			}
+		}
+		{
+			count: 3
+			id: "175DAB2EBDE4DF18"
+			item: {
+				count: 1
+				id: "ae2:item_cell_housing"
+			}
+		}
+		{
+			count: 8
+			id: "39D3E4E02B9EDE77"
+			item: {
+				count: 1
+				id: "ae2:quartz_glass"
+			}
+		}
+		{
+			count: 4
+			id: "555A6A40570C5D28"
+			item: {
+				count: 1
+				id: "ae2:tiny_tnt"
+			}
+		}
+		{
+			count: 8
+			id: "7F843ED6AB5A6690"
+			item: {
+				count: 1
+				id: "ae2:blank_pattern"
+			}
+		}
+		{
+			count: 8
+			id: "6096C84DFB6344C0"
+			item: {
+				count: 1
+				id: "ae2:silicon"
+			}
+		}
+		{
+			count: 8
+			id: "3D646166E32478EA"
+			item: {
+				count: 1
+				id: "ae2:matter_ball"
+			}
+		}
+		{
+			count: 2
+			id: "56DA0A479B70DB0C"
+			item: {
+				count: 1
+				id: "ae2:cell_component_1k"
+			}
+		}
+		{ id: "09B5555113D6D1DF", item: { count: 1, id: "ae2:crystal_resonance_generator" } }
+		{ id: "758C325CC4159E80", item: { count: 1, id: "ae2:growth_accelerator" } }
+		{
+			count: 4
+			id: "0227678EC4E8058B"
+			item: {
+				count: 1
+				id: "ae2:fluid_cell_housing"
+			}
+		}
+		{
+			count: 6
+			id: "4FD2A5625D33BC50"
+			item: {
+				count: 1
+				id: "extendedae:entro_crystal"
+			}
+		}
+	]
+}

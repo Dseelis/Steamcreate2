@@ -1,0 +1,468 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zpm__zero_point_module"
+	group: ""
+	id: "0945247E83444D90"
+	order_index: 29
+	quest_links: [
+		{
+			id: "6BE70146903B5CBD"
+			linked_quest: "52D00CD3E8D1E293"
+			shape: "rsquare"
+			size: 0.66d
+			x: -1.5d
+			y: 2.25d
+		}
+		{
+			id: "21A3EAE297C446EC"
+			linked_quest: "24F0454B9A090C44"
+			size: 0.75d
+			x: -6.0d
+			y: 2.25d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["24F0454B9A090C44"]
+			id: "75905E3672399A63"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "10AC8DC9332D084C"
+					item: { count: 1, id: "gtceu:zero_point_module" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7AD0E74B9CD9AFAE"
+					type: "checkmark"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C7C0F6A6598BC24"]
+			id: "2587BFD0D9F3FF4A"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "5688605649CC30C3"
+				item: { count: 1, id: "gtceu:uranium_rhodium_dinaquadide_single_wire" }
+				type: "item"
+			}]
+			x: -4.875d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"7A74F692F14F0FF8"
+				"24F0454B9A090C44"
+			]
+			id: "5BBFE222190891DE"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "17E45B64101F2249"
+					item: { count: 1, id: "gtceu:zpm_electric_motor" }
+					type: "item"
+				}
+				{
+					id: "4EDD7EE060B4895B"
+					item: { count: 1, id: "gtceu:zpm_electric_piston" }
+					type: "item"
+				}
+				{
+					id: "61AAFDF548821774"
+					item: { count: 1, id: "gtceu:zpm_electric_pump" }
+					type: "item"
+				}
+				{
+					id: "4EEAD829002AD3FE"
+					item: { count: 1, id: "gtceu:zpm_conveyor_module" }
+					type: "item"
+				}
+				{
+					id: "2AFFFD27485AD039"
+					item: { count: 1, id: "gtceu:zpm_robot_arm" }
+					type: "item"
+				}
+				{
+					id: "68A105502E49FEDC"
+					item: { count: 1, id: "gtceu:zpm_sensor" }
+					type: "item"
+				}
+				{
+					id: "555A9F017694B184"
+					item: { count: 1, id: "gtceu:zpm_emitter" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 1.125d
+		}
+		{
+			dependencies: ["378F0AFCF95354B2"]
+			id: "74B037D7031F4A78"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "4598D1D78A71E514"
+					item: { count: 1, id: "gtceu:enriched_naquadah_sulfate_dust" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "08B5C0B89DB3E272"
+					item: { count: 1, id: "gtceu:enriched_naquadah_ingot" }
+					type: "item"
+				}
+			]
+			x: -4.875d
+			y: -1.125d
+		}
+		{
+			dependencies: [
+				"74B037D7031F4A78"
+				"0DC999F79A685194"
+				"2FCBA0D780DBDA9E"
+			]
+			id: "4C7C0F6A6598BC24"
+			size: 0.75d
+			tasks: [{
+				count: 16L
+				id: "11CD2F83031C6706"
+				item: { count: 1, id: "gtceu:trinium_coil_block" }
+				type: "item"
+			}]
+			x: -4.875d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"52D952ADBEB67454"
+				"2587BFD0D9F3FF4A"
+			]
+			id: "468EEFD9D2F69014"
+			size: 0.75d
+			tasks: [{
+				id: "148C1C60A855B61E"
+				item: { count: 1, id: "gtceu:research_station" }
+				type: "item"
+			}]
+			x: -4.875d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"1D6CC3C7F6BE4055"
+				"7AE681E2AB31EA0D"
+			]
+			id: "79E4E53E9DF45549"
+			size: 0.75d
+			tasks: [{
+				id: "226973A23C89BDD2"
+				item: { count: 1, id: "gtceu:crystal_processor_mainframe" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 3.375d
+		}
+		{
+			dependencies: ["1D6CC3C7F6BE4055"]
+			id: "29B7D93D7F32DBA9"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "488A759013AF2680"
+				item: { count: 1, id: "gtceu:crystal_soc" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 1.125d
+		}
+		{
+			dependencies: ["1D6CC3C7F6BE4055"]
+			id: "72740001958E929A"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "0EC657B81458D697"
+				item: { count: 1, id: "gtceu:advanced_data_access_hatch" }
+				type: "item"
+			}]
+			x: -2.625d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"378F0AFCF95354B2"
+				"4C7C0F6A6598BC24"
+			]
+			id: "6D1F10543A391940"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [
+				{
+					id: "4A49FE8B35B48D97"
+					item: { count: 1, id: "gtceu:naquadria_sulfate_dust" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "13A95E109FF72A87"
+					item: { count: 1, id: "gtceu:naquadria_ingot" }
+					type: "item"
+				}
+			]
+			x: -2.625d
+			y: 0.0d
+		}
+		{
+			dependencies: ["690E013DFCB060ED"]
+			id: "6AFDA523304711DB"
+			size: 0.75d
+			tasks: [{
+				id: "5FFC06116E025936"
+				item: { count: 1, id: "gtceu:sterilized_growth_medium_bucket" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"64EA73FAB2A51850"
+				"0D7C978F9CDF771B"
+			]
+			id: "690A51204DF5D469"
+			size: 0.75d
+			tasks: [
+				{
+					id: "41813C4D68B991D7"
+					item: { count: 1, id: "gtceu:energy_module" }
+					type: "item"
+				}
+				{
+					id: "705422BF26C76199"
+					item: { count: 1, id: "gtceu:zpm_lapotronic_battery" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.125d
+		}
+		{
+			dependencies: [
+				"1D6CC3C7F6BE4055"
+				"52D00CD3E8D1E293"
+				"7A74F692F14F0FF8"
+				"468EEFD9D2F69014"
+				"24F0454B9A090C44"
+			]
+			id: "64EA73FAB2A51850"
+			shape: "rsquare"
+			size: 0.75d
+			tasks: [
+				{
+					id: "0B57097F8879481C"
+					item: { count: 1, id: "gtceu:zpm_energy_input_hatch" }
+					type: "item"
+				}
+				{
+					id: "2C60B79F78094E6A"
+					item: { count: 1, id: "gtceu:zpm_energy_output_hatch" }
+					type: "item"
+				}
+			]
+			x: -2.625d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"35F13B6D60361904"
+				"3568BC9742092FC5"
+			]
+			id: "690E013DFCB060ED"
+			size: 0.75d
+			tasks: [{
+				count: 8L
+				id: "6A4C78385FF8019A"
+				item: { count: 1, id: "gtceu:sterilizing_filter_casing" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 2.25d
+		}
+		{
+			dependencies: ["468EEFD9D2F69014"]
+			id: "1D6CC3C7F6BE4055"
+			size: 0.75d
+			tasks: [{
+				id: "5F20D430C26D3BE4"
+				item: { count: 1, id: "gtceu:high_performance_computation_array" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6AFDA523304711DB"]
+			id: "33A1FF5C31EAF716"
+			size: 0.75d
+			tasks: [{
+				id: "1E31342D5310ED6D"
+				item: { count: 1, id: "gtceu:stem_cells" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33A1FF5C31EAF716"]
+			id: "678CABA03E17516A"
+			size: 0.75d
+			tasks: [{
+				id: "0097D7805D82EDEC"
+				item: { count: 1, id: "gtceu:wetware_printed_circuit_board" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: -1.125d
+		}
+		{
+			dependencies: ["678CABA03E17516A"]
+			id: "3BD68E5909A97532"
+			size: 0.75d
+			tasks: [{
+				id: "06AE61C5F174F4E7"
+				item: { count: 1, id: "gtceu:neuro_processing_unit" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: -1.125d
+		}
+		{
+			dependencies: ["082AB255886E73C2"]
+			id: "370FC1CDF5F9A9CC"
+			size: 0.75d
+			tasks: [{
+				id: "31DF7507733F3EE0"
+				item: { count: 1, id: "gtceu:wetware_processor_assembly" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 1.125d
+		}
+		{
+			dependencies: ["3BD68E5909A97532"]
+			id: "082AB255886E73C2"
+			size: 0.75d
+			tasks: [{
+				id: "0B12A1F63822CF8A"
+				item: { count: 1, id: "gtceu:wetware_processor" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24366846FDA52CE3"]
+			id: "6988AE94BE7B461F"
+			size: 0.75d
+			tasks: [{
+				id: "798EFE8E18E79C0C"
+				item: { count: 1, id: "gtceu:darmstadtium_ingot" }
+				type: "item"
+			}]
+			x: -2.625d
+			y: 4.5d
+		}
+		{
+			dependencies: ["546CC03435E763CF"]
+			id: "2CB8FCE09920042C"
+			shape: "rsquare"
+			size: 0.66d
+			tasks: [{
+				id: "0933A476B9F87E66"
+				item: { count: 1, id: "gtceu:duranium_ingot" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 4.5d
+		}
+		{
+			dependencies: ["24366846FDA52CE3"]
+			id: "762C48F0C2EA6B81"
+			size: 0.75d
+			tasks: [{
+				id: "5D597AE565A54388"
+				item: { count: 1, id: "gtceu:americium_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.375d
+		}
+		{
+			dependencies: ["370FC1CDF5F9A9CC"]
+			id: "359121584E056022"
+			size: 0.75d
+			tasks: [{
+				id: "5F54BE8467A5C882"
+				item: { count: 1, id: "gtceu:wetware_processor_computer" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["79E4E53E9DF45549"]
+			id: "0199DBC46D7BC2B9"
+			size: 0.75d
+			tasks: [{
+				id: "761AFCD5742F9A03"
+				item: { count: 1, id: "gtceu:hpca_advanced_computation_component" }
+				type: "item"
+			}]
+			x: -4.875d
+			y: 3.375d
+		}
+		{
+			dependencies: [
+				"6D1F10543A391940"
+				"64EA73FAB2A51850"
+				"79E4E53E9DF45549"
+			]
+			id: "24366846FDA52CE3"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "0D45B9FFF6BA13FE"
+				item: { count: 1, id: "gtceu:zpm_fusion_reactor" }
+				type: "item"
+			}]
+			x: -2.625d
+			y: 3.375d
+		}
+		{
+			dependencies: [
+				"2CB8FCE09920042C"
+				"24366846FDA52CE3"
+			]
+			id: "35F13B6D60361904"
+			size: 0.75d
+			tasks: [{
+				id: "6C5B3B1C0B85C003"
+				item: { count: 1, id: "gtceu:tritanium_ingot" }
+				type: "item"
+			}]
+			x: -0.375d
+			y: 3.375d
+		}
+	]
+}

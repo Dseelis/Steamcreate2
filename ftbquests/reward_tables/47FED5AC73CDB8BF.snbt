@@ -1,0 +1,221 @@
+{
+	icon: {
+		components: {
+			"ftbquests:icon": "mekanism:block/dimensional_stabilizer/top_active"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "47FED5AC73CDB8BF"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			id: "58708D34B6298E34"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_speed"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "56E5E56A9BCBCC19"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_energy"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "7021FCFE8AF66364"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_filter"
+			}
+			weight: 2.0f
+		}
+		{ id: "27555CD64E42BA2F", item: { count: 1, id: "mekanism:upgrade_muffling" } }
+		{ id: "318E93FB7EE7F121", item: { count: 1, id: "mekanism:upgrade_chemical" } }
+		{ id: "3D7B62A50E0FB458", item: { count: 1, id: "mekanism:upgrade_stone_generator" } }
+		{
+			id: "2743D3D3B2CF70BC"
+			item: {
+				count: 1
+				id: "mekanism:basic_bin"
+			}
+			weight: 1.6f
+		}
+		{ id: "0DDADEAA5D724ABB", item: { count: 1, id: "mekanism:advanced_bin" } }
+		{ id: "2FFE6043E03663FE", item: { count: 1, id: "mekanism:elite_bin" } }
+		{ id: "4A4CE7121701D67E", item: { count: 1, id: "mekanism:ultimate_bin" } }
+		{
+			id: "6BC31EBB36CDD0CD"
+			item: {
+				count: 1
+				id: "mekanism:basic_chemical_tank"
+			}
+			weight: 1.6f
+		}
+		{
+			id: "23BBBE6CF16B28B2"
+			item: {
+				count: 1
+				id: "mekanism:advanced_chemical_tank"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "2D81AD72C3384A4E"
+			item: {
+				count: 1
+				id: "mekanism:elite_chemical_tank"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "584914528A32EFB5"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_chemical_tank"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "6BB73E1E9504D8D9"
+			item: {
+				count: 1
+				id: "mekanism:basic_fluid_tank"
+			}
+			weight: 1.6f
+		}
+		{
+			id: "2DE16330EE140044"
+			item: {
+				count: 1
+				id: "mekanism:advanced_fluid_tank"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "0F3DB6CE6A24AB5E"
+			item: {
+				count: 1
+				id: "mekanism:elite_fluid_tank"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "59288CF9C015D6DC"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_fluid_tank"
+			}
+			weight: 0.2f
+		}
+		{
+			count: 8
+			id: "2D61E337F64848D9"
+			item: {
+				count: 1
+				id: "mekanism:basic_mechanical_pipe"
+			}
+		}
+		{
+			count: 8
+			id: "423177D5D9612555"
+			item: {
+				count: 1
+				id: "mekanism:basic_universal_cable"
+			}
+		}
+		{
+			count: 8
+			id: "37F267782E7EB242"
+			item: {
+				count: 1
+				id: "mekanism:advanced_universal_cable"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 8
+			id: "2049D2F68EAD7460"
+			item: {
+				count: 1
+				id: "mekanism:elite_universal_cable"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 8
+			id: "6CB4E0C3E6B72484"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_universal_cable"
+			}
+			weight: 0.2f
+		}
+		{
+			count: 8
+			id: "4BEF4758E8A7AD3B"
+			item: {
+				count: 1
+				id: "mekanism:advanced_mechanical_pipe"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 8
+			id: "1D15A755A220B40B"
+			item: {
+				count: 1
+				id: "mekanism:elite_mechanical_pipe"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 8
+			id: "7F5C591A1CE8DBCC"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_mechanical_pipe"
+			}
+			weight: 0.2f
+		}
+		{
+			count: 8
+			id: "04D659CB3473C23D"
+			item: {
+				count: 1
+				id: "mekanism:basic_logistical_transporter"
+			}
+		}
+		{
+			count: 8
+			id: "12312CD63B7F5E8A"
+			item: {
+				count: 1
+				id: "mekanism:advanced_logistical_transporter"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 8
+			id: "26F4A7DA604F0324"
+			item: {
+				count: 1
+				id: "mekanism:elite_logistical_transporter"
+			}
+			weight: 0.4f
+		}
+		{
+			count: 8
+			id: "345A00B1BE2B45D7"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_logistical_transporter"
+			}
+			weight: 0.2f
+		}
+		{ id: "1ADEC6AABA2DBC5F", item: { count: 1, id: "mekanism:logistical_sorter" } }
+	]
+}
