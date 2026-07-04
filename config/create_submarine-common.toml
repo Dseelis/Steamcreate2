@@ -1,11 +1,27 @@
 [gameplay]
 	#Disable all hull implosion damage from pressure.
 	disableImplosion = false
+	#Maximum size, in blocks, of a creation that oxygen diffusers can scan and fill with breathable air.
+	#Raise this if air pockets stop working on very large ships.
+	#WARNING: large values make the air scan use more memory and take longer to finish.
+	# Default: 500000
+	# Range: 1000 ~ 10000000
+	oxygenMaxFillBlocks = 500000
+	#Deepen the ocean floor below vanilla.
+	#Off = vanilla ocean depth. Set the amount with deeperOceansDepth.
+	#Requires the 'Lithostitched' mod to be installed.
+	enableDeeperOceans = false
+	#How many blocks deeper to push the ocean floor when enableDeeperOceans is on.
+	#WARNING: large values generate and render far more terrain below the sea floor
+	#and can badly hurt world-generation and rendering performance. Raise it carefully.
+	# Default: 10
+	# Range: 1 ~ 256
+	deeperOceansDepth = 10
 
 [hullStrength]
 	#Cap applied to maxWaterDepth of all non-create_submarine blocks.
 	#Per-block values are stored in config/submarine_hull.json.
-	# Default: 100
+	# Default: 300
 	# Range: 1 ~ 10000
 	globalMaxDepthCap = 100
 	#Multiplier on every block's effective maxWaterDepth at runtime.
@@ -50,23 +66,25 @@
 	# Default: 1000
 	# Range: 1 ~ 1000000
 	steelCableMaxLength = 1000
+	#Submarine mass each ballast tank can drive up or down (Sable mass units, roughly 1 per block).
+	#Total lift scales with the number of tanks: a heavy submarine needs more of them.
+	# Default: 75.0
+	# Range: 1.0 ~ 100000.0
+	ballastLiftPerTank = 75.0
+	#Mass each floater can push toward the surface (Sable mass units, roughly 1 per block).
+	#Total lift scales with the number of floaters.
+	# Default: 25.0
+	# Range: 1.0 ~ 100000.0
+	floaterLift = 25.0
+	#Maximum vertical speed (blocks per tick) ballast tanks drive the submarine at when diving or ascending.
+	#Higher = faster dive and climb. The old fixed value was 2.0.
+	# Default: 2.0
+	# Range: 0.1 ~ 20.0
+	ballastVerticalSpeed = 2.0
 
 [experimental]
-	#Enable the experimental Permanent Water Culling test for submarines and boats
-	enablePermanentWaterCullingTest = false
-	#Deepen the ocean floor below vanilla.
-	#Off = vanilla ocean depth. Set the amount with deeperOceansDepth.
-	#Requires the 'Lithostitched' mod to be installed.
-	enableDeeperOceans = false
-	#Enable the Abyss dimension.
-	#Requires the 'Lithostitched' mod to be installed.
-	enableAbyssDimension = false
-	#How many blocks deeper to push the ocean floor when enableDeeperOceans is on.
-	#WARNING: large values generate and render far more terrain below the sea floor
-	#and can badly hurt world-generation and rendering performance. Raise it carefully.
-	# Default: 10
-	# Range: 1 ~ 256
-	deeperOceansDepth = 10
+	#Experimental: hide the ocean surface seen inside floating boats (sub-levels without an oxygen system).
+	enableBoatWaterCulling = false
 
 [client]
 	#Disable all Deep Seas startup UI screens (Welcome screen and Update notifications).

@@ -30,6 +30,9 @@
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
 	flywheelSpeedMultiplier = 0.5
+	#.
+	#Force-exit the game if it hangs on the NVIDIA Linux GL-teardown bug at shutdown (issue #267). Disable if a driver update fixes the hang for you
+	nvidiaShutdownWatchdog = true
 
 	#.
 	#Smoke Settings

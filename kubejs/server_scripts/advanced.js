@@ -55,13 +55,18 @@ ServerEvents.recipes(event => {
     event.recipes.create.pressing('minecraft:stone', 'minecraft:stone')
   ]).transitionalItem('minecraft:stone').loops(1)
 
-  // RE-ADDING MECHANISMS (RESTORED FROM JAR)
+  // RE-ADDING MECHANISMS
 
-  // Precision Mechanism 
+  // Precision Mechanism
   event.recipes.create.sequenced_assembly([
-    CreateItem.of('create:precision_mechanism', 0.8), // Main
-    CreateItem.of('create:golden_sheet', 0.1),        // Salvage 1
-    CreateItem.of('minecraft:gold_nugget', 0.1),      // Salvage 2
+    CreateItem.of('create:precision_mechanism', 120.0), // Main
+    'create:golden_sheet',                             // Salvage 1
+    'create:andesite_alloy',                          // Salvage 2
+    'create:cogwheel',                                // Salvage 3
+    'minecraft:gold_nugget',                          // Salvage 4
+    'create:shaft',                                   // Salvage 5
+    'minecraft:iron_ingot',                           // Salvage 6
+    'minecraft:clock'                                 // Salvage 7
   ], 'create:golden_sheet', [
     event.recipes.create.deploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:cogwheel']),
     event.recipes.create.deploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:large_cogwheel']),
@@ -70,8 +75,9 @@ ServerEvents.recipes(event => {
 
   // Steel Mechanism
   event.recipes.create.sequenced_assembly([
-    CreateItem.of('tfmg:steel_mechanism', 0.9),
-    CreateItem.of('tfmg:steel_ingot', 0.1)
+    CreateItem.of('tfmg:steel_mechanism', 120.0),
+    'minecraft:compass',
+    'tfmg:steel_ingot'
   ], 'tfmg:heavy_plate', [
     event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:steel_cogwheel']),
     event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:nickel_sheet']),
