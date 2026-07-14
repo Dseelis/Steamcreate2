@@ -4,4 +4,4 @@ defaultDifficulty = "NORMAL"
 #Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
 lockDifficulty = false
 #Resource pack IDs to have enabled by default on the first run.
-defaultResourcePacks = []
+defaultResourcePacks = ["vanilla", "fabric", "generated/fragmentum_layer", "moonlight:merged_pack", "file/SBMC-1.20.1-3.4.1.zip", "file/Stoneborn-1.20.2-1.21.5-V3.2.4.zip", "mod_resources", "file/Farcr's Re-Crafted V2.28.1.zip"]

@@ -7,10 +7,12 @@
 	disassemblyFailChance = 0.15
 	#Allow Nether portals
 	enablePortals = true
+	#Enable disassembly table sound
+	enableDisassemblySound = true
 
 [debug]
 	#Enable /steamdebug
-	enableSteamDebugCommand = true
+	enableSteamDebugCommand = false
 
 [dev]
 	#Enable Work In Progress items/features

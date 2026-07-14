@@ -74,8 +74,8 @@ chunk_rebuild_scheduler = "culling"
 				piglin = true
 				end_crystal = true
 				endermite = true
-				zombie = true
 				ender_pearl = true
+				zombie = true
 				item_display = true
 				breeze_wind_charge = true
 				guardian = true
@@ -84,9 +84,9 @@ chunk_rebuild_scheduler = "culling"
 				eye_of_ender = true
 				wither_skull = true
 				wolf = true
-				zombie_villager = true
 				tnt_minecart = true
 				block_display = true
+				zombie_villager = true
 				elder_guardian = true
 				chest_boat = true
 				boat = true
@@ -212,9 +212,6 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.ae2]
 				tiny_tnt_primed = true
 
-			[light_sources.settings.entities.imageframe]
-				image_frame = true
-
 			[light_sources.settings.entities.aeronautics]
 				propeller_bearing_contraption = true
 				gust = true
@@ -298,8 +295,8 @@ chunk_rebuild_scheduler = "culling"
 				void_rune = true
 				flame_jet = true
 				netherite_ministrosity = true
-				koboleton = true
 				ignis = true
+				koboleton = true
 				ashen_breath = true
 				eye_of_dungeon = true
 				sandstorm = true
@@ -334,11 +331,11 @@ chunk_rebuild_scheduler = "culling"
 				dyed_item_frame = true
 				stool = true
 				skull_pike = true
-				toretoise = true
 				gravisand = true
+				toretoise = true
 				parrot_egg = true
-				stoneling = true
 				foxhound = true
+				stoneling = true
 				torch_arrow = true
 				wraith = true
 				shiba = true
@@ -399,11 +396,6 @@ chunk_rebuild_scheduler = "culling"
 				honey_glue = true
 				contraption_diagram = true
 
-			[light_sources.settings.entities.gtceu]
-				dynamite = true
-				powderbarrel = true
-				industrial_tnt = true
-
 			[light_sources.settings.entities.sophisticatedbackpacks]
 				everlasting_backpack_item = true
 
@@ -441,6 +433,29 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
 				item_frame = true
+
+			[light_sources.settings.entities.cbc_at]
+				cluster_projectile = true
+				apdsfs_projectile = true
+				hei_projectile = true
+				flak_rocket = true
+				medium_ap_rocket = true
+				medium_he_rocket = true
+				ha_heat_copper_ray = true
+				ha_smoke_projectile = true
+				ha_heat_projectile = true
+				he_projectile = true
+				ap_rocket = true
+				apds_projectile = true
+				he_rocket = true
+				ha_he_projectile = true
+				hei_rocket = true
+				medium_heat_rocket = true
+				medium_hef_rocket = true
+				ha_ap_projectile = true
+				ha_apds_projectile = true
+				ha_apdsfs_projectile = true
+				ha_hef_projectile = true
 
 			[light_sources.settings.entities.cbcmoreshells]
 				antiair_shrapnel_burst = true
@@ -522,13 +537,16 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.enigmaticlegacyplus]
 				cobweb_ball = true
 				ichor_sprite = true
+				angel_beam = true
 				ichor_spear = true
 				explorer_marker = true
 				piglin_wanderer = true
 				permanent_item_entity = true
 				ultimate_wither_skull = true
+				starlight_meteor = true
 				dragon_breath_arrow = true
 				soul_flame_ball = true
+				engine_hook = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true

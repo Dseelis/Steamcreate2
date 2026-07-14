@@ -48,6 +48,7 @@
 			steel_encased_steel_cogwheel = 0.0
 			steel_cogwheel = 0.0
 			concrete_hose = 4.0
+			compressor = 24.0
 
 		#.
 		#Fine tune the resistivity stats of individual cable types

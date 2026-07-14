@@ -697,7 +697,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "45C93A2B4B234BBC"
-				item: { count: 1, id: "tfmg:converter" }
+				item: { components: { "ftbquests:missing_item": "tfmg:converter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 18.0d

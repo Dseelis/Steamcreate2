@@ -52,9 +52,6 @@
 		# Default: 4
 		# Range: 1 ~ 20
 		regeneration = 4
-		# Default: 0.1
-		# Range: 0.0 ~ 1.0
-		decayFactor = 0.1
 
 	[cursedItems.avariceScroll]
 		# Default: 15
@@ -220,27 +217,6 @@
 		# Range: 0 ~ 100
 		amuletBlue = 25
 
-	[else.cosmicScroll]
-		# Default: 12000
-		# Range: 6000 ~ 24000
-		cooldown = 12000
-		# Default: 32
-		# Range: 0 ~ 100
-		spellstoneCooldown = 32
-
-	[else.starlightRing]
-		# Default: 30
-		# Range: 0 ~ 100
-		specialDamageResistance = 30
-
-	[else.quartzRing]
-		# Default: 25
-		# Range: 0 ~ 100
-		specialDamageResistance = 25
-
-	[else.void_stone]
-		devourBlacklist = ["enigmaticlegacyplus:void_stone", "sophisticatedbackpacks:backpack", "sophisticatedbackpacks:copper_backpack", "sophisticatedbackpacks:iron_backpack", "sophisticatedbackpacks:gold_backpack", "sophisticatedbackpacks:diamond_backpack", "sophisticatedbackpacks:netherite_backpack"]
-
 [abyssItems]
 	# Default: 5
 	# Range: 1 ~ 10
@@ -253,8 +229,8 @@
 		# Default: 80
 		# Range: 0 ~ 100
 		specialDamageResistance = 80
-		# Default: 0.8
-		# Range: 0.5 ~ 5.0
+		# Default: 1.2
+		# Range: 0.0 ~ 10.0
 		flyingSpeedModifier = 1.2
 		# Default: 1.6
 		# Range: 1.0 ~ 10.0
@@ -278,9 +254,6 @@
 		# Default: 64
 		# Range: 1 ~ 128
 		effectiveRange = 64
-		# Default: 240
-		# Range: 20 ~ 1200
-		cooldown = 240
 
 	[abyssItems.theInfinitum]
 		# Default: 200
@@ -467,12 +440,6 @@
 		# Default: 30
 		# Range: 10 ~ 100
 		cooldown = 30
-
-	[spellstone.theCube]
-		# Default: 100.0
-		# Range: 0.0 ~ 1000.0
-		damageLimit = 100.0
-		autoTrigger = true
 
 	[blessItems.redemptionRing]
 		# Default: 25

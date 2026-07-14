@@ -55,7 +55,7 @@
 	#Profile (0:custom, 1:modest-eco, 2:eco, 3:cooling-low, 4:cooling-high)
 	# Default: 1
 	# Range: 0 ~ 4
-	profile = 0
+	profile = 1
 
 #HUD offsets from reference positions at the screen edge.
 [hud_offset]

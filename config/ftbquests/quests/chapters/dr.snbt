@@ -34,7 +34,7 @@
 			y: -28.535714285714278d
 		}
 	]
-	order_index: 31
+	order_index: 12
 	quest_links: [ ]
 	quests: [
 		{
@@ -216,14 +216,20 @@
 		{
 			can_repeat: true
 			icon: {
-				id: "irons_jewelry:jewelcrafting_guide"
+				components: {
+					"ftbquests:missing_item": "irons_jewelry:jewelcrafting_guide"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "19E7D8B9CD473791"
 			rewards: [{
 				id: "66C8E517E5D537A5"
 				item: {
+					components: {
+						"ftbquests:missing_item": "irons_jewelry:jewelcrafting_guide"
+					}
 					count: 1
-					id: "irons_jewelry:jewelcrafting_guide"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

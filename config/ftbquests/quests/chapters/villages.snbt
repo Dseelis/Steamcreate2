@@ -245,7 +245,7 @@
 			id: "317509DA2AEC22AF"
 			tasks: [{
 				id: "7EF74B1D0EAC85EE"
-				item: { count: 1, id: "irons_jewelry:jewelcrafting_station" }
+				item: { components: { "ftbquests:missing_item": "irons_jewelry:jewelcrafting_station" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -5.0d
