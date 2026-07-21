@@ -1,27 +1,42 @@
+# [2.1.5b] - 21-07-2026
+There used to be a version numbering scheme for the modpack that was already outdated by the time it was introduced. A decision was made to change the numbering system. 
+###   A little about version labeling
+###        Version - 2.1.5b
+###    2 - Major update; 1 - Content update (big changes im mods, quests and other); 5 - Cumulative updates (bug fixes, mod updates, minor fixes); b - Release Type
+
+It's unstable build please report bug on [github](https://github.com/Dseelis/Steamcreate2)
+
+- Fixed issue [#14](https://github.com/Dseelis/Steamcreate2/issues/15) [#14](https://github.com/Dseelis/Steamcreate2/issues/14)
+- Updated mods
+- Deleted irons_jewelry, Atlas API, irons_lib
+- Readded CC-tweaked, Measurements
+- Added OverflowingBars, SimpleBackups, AE2:Crafting Tree
+
+  
 # [2.1.4b] - 15-06-2026
-Missing recipes have been fixed [#14](https://github.com/Dseelis/Steamcreate2/issues/14)
-Mods have been updated (also includes these mods Sodium beta1, Iris beta1)
-Added Aeronautics Camera Sync, Create Aeronautics: Toolgun, Create Deep Seas, Create: Transmission, LambDynamicLights, Sodium Extra
-Removed Immersive Lanterns, Sodium Dynamic Lights, Sodium Extras, Sodium Options API
-Neoforge update 21.1.223
-Copycat recipes have been removed from the Create Connected mod
+- Missing recipes have been fixed [#14](https://github.com/Dseelis/Steamcreate2/issues/14)
+- Mods have been updated (also includes these mods Sodium beta1, Iris beta1)
+- Added Aeronautics Camera Sync, Create Aeronautics: Toolgun, Create Deep Seas, Create: Transmission, LambDynamicLights, Sodium Extra
+- Removed Immersive Lanterns, Sodium Dynamic Lights, Sodium Extras, Sodium Options API
+- Neoforge update 21.1.223
+- Copycat recipes have been removed from the Create Connected mod
 
 The modpack may lean more toward techno-themed mods due to the concept, and the issue regarding the TFMG mod which is very buggy is also being addressed
 
 # [2.1.3b] - 18-05-2026
-Minor fixes to quests
-MP bug fixes
-Mod updates
-Removed - Apotheosis, Apothic compat and other mods
-Added - Create Railways Navigator, KubeJS and addons, cc: tweaked, Drippy Early Loading Module, Create Big Cannons: Advanced Technologies, Create: Radars, TFMG: Engine controller Fix, Obscure Tooltips, Enigmatic Legacy Plus for test
-Some recipes updated
-Main menu updated
+- Minor fixes to quests
+- MP bug fixes
+- Mod updates
+- Removed - Apotheosis, Apothic compat and other mods
+- Added - Create Railways Navigator, KubeJS and addons, cc: tweaked, Drippy Early Loading Module, Create Big Cannons: Advanced Technologies, Create: Radars, TFMG: Engine controller Fix, Obscure Tooltips, Enigmatic Legacy Plus for test
+- Some recipes updated
+- Main menu updated
 
 # [2.1.2b] - 21-04-2026
-deleted ftb chunks xaeroworldmap compat due mp crash
-updated mods
-updated ru translate
-minor quest changes
+- deleted ftb chunks xaeroworldmap compat due mp crash
+- updated mods
+- updated ru translate
+- minor quest changes
 
 # [2.1.1b HOTFIX] - 21-04-2026
 The fix was supposed to be released a little earlier, but the delay was caused by the Sable mod being updated late.
