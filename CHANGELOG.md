@@ -6,7 +6,7 @@ There used to be a version numbering scheme for the modpack that was already out
 
 It's unstable build please report bug on [github](https://github.com/Dseelis/Steamcreate2)
 
-- Fixed issue [#15](https://github.com/Dseelis/Steamcreate2/issues/15) [#14](https://github.com/Dseelis/Steamcreate2/issues/14)
+- Fixed issue [#15](https://github.com/Dseelis/Steamcreate2/issues/15) [#13](https://github.com/Dseelis/Steamcreate2/issues/13)
 - Updated mods
 - Deleted irons_jewelry, Atlas API, irons_lib
 - Readded CC-tweaked, Measurements
